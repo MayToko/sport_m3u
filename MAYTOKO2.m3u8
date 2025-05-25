@@ -7525,7 +7525,11 @@ https://wahyu1ptv.pages.dev/Trans7-HD.m3u8
 #EXTINF:-1 tvg-id="ANTV - [Channel 115].id" tvg-url="tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://iili.io/Jmf9A4S.png" group-title="CHANNEL | INDONESIA",ANTV
 http://op-group1-swiftservehd-1.dens.tv/s/s07/01.m3u8
 
-
+#EXTINF: -1 tvg-logo="https://i.imgur.com/EINlcNz.png" group-title="CHANNEL | INDONESIA", MENTARI TV
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest_w977134167_qRFZS.mpd?encp=&uid=&expp=
+https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd?encp=&uid=&expp=.
 
 
 
@@ -10136,7 +10140,203 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/TVBSAsia/mpd/TVBSAsia.mpd|user-ag
 #EXTINF:-1 group-title="CHANNEL | CHINA" tvg-id="CCTV-4" tvg-logo="https://iili.io/Jmo3WxI.png",CCTV 4
 https://atemecdnbalancer-voe.sysln.id/live/eds/CCTV4/mpd/CCTV4.mpd|user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1",哒啵电竞
 
+#EXTINF:-1, group-title="CHANNEL | CHINA" tvg-id="tvb xing he" tvg-logo="https://i.imgur.com/QNpsZx1.png",TVB XING HE
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/xinghe.m3u8
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/xinghe_2.m3u8
 
+#EXTINF:-1, group-title="CHANNEL | CHINA" tvg-id="tvb xing he" tvg-chno="YOGAM" tvg-logo="https://i.imgur.com/QNpsZx1.png",TVB XING HE
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7f123a83acae4361b3c2d5d8d918ff1a:7031880a4c0c7e29014e32554b8b422d
+https://atemecdnbalancer-voe.sysln.id/live/eds/TVBXingHe/mpd/TVBXingHe.mpd
+
+#EXTINF:-1 group-title="CHANNEL | CHINA" tvg-logo="https://i.imgur.com/bKgwJZb.png?1", JIANGSU TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+https://av-ch-cdn.mncnow.id/live/eds/JiangsuTV/sa_dash/JiangsuTV.mpd
+
+#EXTINF:-1 group-title="CHANNEL | CHINA" tvg-logo="https://i.imgur.com/rciggYQ.jpg", HUNAN TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+https://av-ch-cdn.mncnow.id/live/eds/HunanTV/sa_dash/HunanTV.mpd
+
+#EXTINF:-1 group-title="CHANNEL | CHINA" tvg-logo="https://i.imgur.com/wVmyuIW.png", SHANGHAI DRAGON TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+https://av-ch-cdn.mncnow.id/live/eds/ShanghaiDragonTV/sa_dash/ShanghaiDragonTV.mpd
+
+#EXTINF:-1 group-title="CHANNEL | CHINA" tvg-logo="https://i.imgur.com/EncW1Bk.png", XING KONG TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+https://av-ch-cdn.mncnow.id/live/eds/XingKongTVnow/sa_dash/XingKongTVnow.mpd 
+
+#EXTINF:-1 group-title="CHANNEL | CHINA" tvg-logo="https://i.imgur.com/IughubM.png", ANHUI TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+https://av-ch-cdn.mncnow.id/live/eds/AnhuiTV/sa_dash/AnhuiTV.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YHrLDix.png" group-title="CHANNEL | CHINA",NTD 新唐人大陸台
+http://cnhls.ntdtv.com/cn/live800/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PhoenixChineseChannel.hk" tvg-logo="https://i.imgur.com/nS8i6by.png" group-title="CHANNEL | CHINA", PHOENIX CHINESE CHANNEL
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/phoenixchn.m3u8
+
+
+
+
+#EXTINF:-1 tvg-id="PhoenixInfoNewsChannel.hk" tvg-logo="https://i.imgur.com/UlTx7SN.png" group-title="CHANNEL | CHINA",PHOENIX INFO NEWS
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/phoenix_info.m3u8
+
+
+
+#EXTINF:-1 group-title="CHANNEL | CHINA" tvg-logo="https://i.imgur.com/H3dcQnd.png", CELESTIAL MOVIES HD
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://dens.tv
+https://op-group1-swiftservehd-1.dens.tv/h/h14/index.m3u8
+
+
+
+#EXTINF: -1 tvg-id="ccm.macan" tvg-logo="https://i.imgur.com/ckL85EB.png" group-title="CHANNEL | CHINA", CELESTIAL CLASSIC MOVIES
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36 
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+https://av-ch-cdn.mncnow.id/live/eds/CelestialClassic/sa_dash/CelestialClassic.mpd
+
+
+//CCTV//
+
+#EXTINF: -1 tvg-id="cctv1" tvg-logo="https://i.imgur.com/mctD9Pn.png" group-title="CHANNEL | CHINA", CCTV 1
+http://php.jdshipin.com/TVOD/iptv.php?id=rthk33.
+
+
+
+#EXTINF: -1 tvg-id="cctv2" tvg-logo="https://i.imgur.com/e41oLuC.png" group-title="CHANNEL | CHINA", CCTV 2
+https://smart.pendy.dpdns.org/Smart.php?id=cctv2.
+
+
+
+
+#EXTINF: -1 tvg-id="cctv3" tvg-logo="https://i.imgur.com/UxPErGk.png" group-title="CHANNEL | CHINA", CCTV 3
+https://smart.pendy.dpdns.org/Smart.php?id=cctv3.
+
+
+
+#EXTINF: -1 tvg-id="cctv4" tvg-logo="https://i.imgur.com/NYnr6Mg.png" group-title="CHANNEL | CHINA", CCTV 4
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://dens.tv
+https://lb-mvtv-live.v2h-cdn.com/redirect/cctv4/cctv4.stream?type=m3u8
+http://op-group1-swiftservesd-1.dens.tv/s/s19/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=CCTV-4
+http://222.83.135.56:8181/tsfile/live/0004_1.m3u8...
+
+#EXTINF: -1 tvg-id="cctv5" tvg-logo="https://i.imgur.com/lzJCfQO.png" group-title="CHANNEL | CHINA", CCTV 5
+https://smart.pendy.dpdns.org/Smart.php?id=cctv5.
+#EXTINF: -1 tvg-logo="https://i.imgur.com/92fmBl6.png" group-title="CHANNEL | CHINA", CCTV 5+
+https://smart.pendy.dpdns.org/Smart.php?id=cctv5plus.
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/tTTNfh3.png" group-title="CHANNEL | CHINA", CCTV 6
+https://smart.pendy.dpdns.org/Smart.php?id=cctv6.
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/btdgEhM.png" group-title="CHANNEL | CHINA", CCTV 7
+https://smart.pendy.dpdns.org/Smart.php?id=cctv7.
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/dPcukes.png" group-title="CHANNEL | CHINA", CCTV 8
+https://smart.pendy.dpdns.org/Smart.php?id=cctv8hd
+http://50.7.234.10:8278/cctv8hd/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=eeb2cf0a26ebab16ee819e79c1a3326e.
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/B3u13VM.png" group-title="CHANNEL | CHINA", CCTV 9
+https://smart.pendy.dpdns.org/Smart.php?id=cctv9hd
+http://50.7.234.10:8278/cctv9hd/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=a5996f5cef4778b3f837279fa3e9ecbf.
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/CsPS8Op.png" group-title="CHANNEL | CHINA", CCTV 10
+https://smart.pendy.dpdns.org/Smart.php?id=cctv10hd.
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/Ef8b4fl.png" group-title="CHANNEL | CHINA", CCTV 11
+https://smart.pendy.dpdns.org/Smart.php?id=cctv11.
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/YPjBdTp.png" group-title="CHANNEL | CHINA", CCTV 12
+https://smart.pendy.dpdns.org/Smart.php?id=cctv12.
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/YrO6k4i.png" group-title="CHANNEL | CHINA", CCTV 13
+https://smart.pendy.dpdns.org/Smart.php?id=cctv13.
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/XOgxP5p.png" group-title="CHANNEL | CHINA", CCTV 14
+https://smart.pendy.dpdns.org/Smart.php?id=cctv14.
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/oC4jhXd.png" group-title="CHANNEL | CHINA", CCTV 15
+https://smart.pendy.dpdns.org/Smart.php?id=cctv15.
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/k1U8bVZ.png" group-title="CHANNEL | CHINA", CCTV 16
+https://smart.pendy.dpdns.org/Smart.php?id=cctv16.
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/e9mw40Q.png" group-title="CHANNEL | CHINA", CCTV 17
+https://smart.pendy.dpdns.org/Smart.php?id=cctv17.
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aPun7xH.png" group-title="CHANNEL | CHINA", CCTV ENTERTAINMENT
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/cctv_ent.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MFuJPM7.png" group-title="CHANNEL | CHINA", CCTV+
+http://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/chunklist_w1018196661_b1000000.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mQpVpMq.jpeg" group-title="CHANNEL | CHINA", 海南卫视 HAINAN TV
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AzLR6GJ.jpeg" group-title="CHANNEL | CHINA", 兵团卫视 BINGTUAN TV
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JyQxGzU.jpeg" group-title="CHANNEL | CHINA", 厦门卫视 XIAMEN STAR
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XlBw1bL.jpeg" group-title="CHANNEL | CHINA", 农林卫视 NONGLIN
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HCriH2x.jpeg" group-title="CHANNEL | CHINA", 东方卫视 DRAGON TV
+
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/浙江新闻.png" group-title="CHANNEL | CHINA",浙江新闻
+https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/浙江国际.png" group-title="CHANNEL | CHINA",浙江国际
+https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/浙江少儿.png" group-title="CHANNEL | CHINA",浙江少儿
+https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/浙江教科影视.png" group-title="CHANNEL | CHINA",浙江教科
+https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/puBiuLK.jpeg" group-title="CHANNEL | CHINA",之江纪录
+https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/浙江民生休闲.png" group-title="CHANNEL | CHINA",浙江民生
+https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/浙江经济生活.png" group-title="CHANNEL | CHINA",浙江经济
+https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/钱江都市.png" group-title="CHANNEL | CHINA",浙江钱江
+https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Lh9CW22.png" group-title="CHANNEL | CHINA",动作
+https://live.metshop.top/huya/11602041
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Lh9CW22.png" group-title="CHANNEL | CHINA",探险
+https://live.metshop.top/huya/11352913
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Lh9CW22.png" group-title="CHANNEL | CHINA",贺岁电影
+https://live.metshop.top/huya/11601986
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Lh9CW22.png" group-title="CHANNEL | CHINA",金庸武侠电影 ①
+https://live.metshop.top/huya/11342427
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Lh9CW22.png" group-title="CHANNEL | CHINA",金庸武侠电影 ②
+https://live.metshop.top/huya/11342435
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Lh9CW22.png" group-title="CHANNEL | CHINA",喜剧
+https://live.metshop.top/huya/11352897
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Lh9CW22.png" group-title="CHANNEL | CHINA",悬疑
+https://live.metshop.top/huya/11342395
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Lh9CW22.png" group-title="CHANNEL | CHINA",灾难
+https://live.metshop.top/huya/11602075
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Lh9CW22.png" group-title="CHANNEL | CHINA",DOUBAN  TOP 250
+https://live.metshop.top/douyu/8770422
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Lh9CW22.png" group-title="CHANNEL | CHINA",DOUYU 4332
+https://live.metshop.top/douyu/4332
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Lh9CW22.png" group-title="CHANNEL | CHINA",DOUYU 20415 可乐电影
+https://live.metshop.top/douyu/20415
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Lh9CW22.png" group-title="CHANNEL | CHINA",DOUYU 263824 吃奶滴虫
+https://live.metshop.top/douyu/263824
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Lh9CW22.png" group-title="CHANNEL | CHINA",DOUYU 508118
+https://live.metshop.top/douyu/508118
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Lh9CW22.png" group-title="CHANNEL | CHINA",DOUYU 2793084
+https://live.metshop.top/douyu/2793084
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Lh9CW22.png" group-title="CHANNEL | CHINA",DOUYU 贝爷影厅
+https://live.metshop.top/douyu/36337
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Lh9CW22.png" group-title="CHANNEL | CHINA",DOUYU 冰冰小剧场
+https://live.metshop.top/douyu/74374
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Lh9CW22.png" group-title="CHANNEL | CHINA",DOUYU 邵氏影院
+https://live.metshop.top/douyu/4246519
 
 
 
