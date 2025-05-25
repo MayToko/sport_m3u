@@ -9022,268 +9022,242 @@ http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 
 
 ##
-#EXTINF:-1 tvg-id="" tvg-name="MY: Astro Premier League" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-02/8d68f28d23ef38bdfeecd26b7c613e3d.png" group-title="CHANNEL | SPORTS ",MY: Astro Premier League
-http://iptvtree.net:8080/F15554/Tve5ZWQEd485/146068
-#EXTINF:-1 tvg-id="" tvg-name="MY: Astro Premier League 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-02/7d0cb2ffdc9d756faa5b5e5825d8f9c4.png" group-title="CHANNEL | SPORTS ",MY: Astro Badminton
-http://iptvtree.ne80/F15554/Tve5ZWQEd485/306491
-#EXTINF:-1 tvg-id="" tvg-name="MY: Astro Grandstand" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-02/c51712f19f8e63a52275fc6410b89b32.png" group-title="CHANNEL | SPORTS ",MY: Astro Grandstand
-http://iptvtree.net:8080/F15554/Tve5ZWQEd485/306492
-#EXTINF:-1 tvg-id="" tvg-name="MY: Astro Football" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/a24abde2dc683d551ebfae1f0820315c.png" group-title="CHANNEL | SPORTS ",MY: Astro Football
-http://iptvtree.net:8080/F15554/Tve5ZWQEd485/157558
-
-#EXTINF:-1 tvg-id="" tvg-name="HK: Now HK Now Premier Sports [vip]" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="CHANNEL | SPORTS ",HK: Now HK Now Premier Sports [vip]
-http://iptvtree.net:8080/F15554/Tve5ZWQEd485/304730
-#EXTINF:-1 tvg-id="" tvg-name="HK: Now HK Now Sports Prime [vip]" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="CHANNEL | SPORTS ",HK: Now HK Now Sports Prime [vip]
-http://iptvtree.net:8080/F15554/Tve5ZWQEd485/304729
-#EXTINF:-1 tvg-id="" tvg-name="HK: Now HK Premier Sports 1" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="CHANNEL | SPORTS ",HK: Now HK Premier Sports 1
-http://iptvtree.net:8080/F15554/Tve5ZWQEd485/304092
-#EXTINF:-1 tvg-id="" tvg-name="HK: Now HK Premier Sports 2" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="CHANNEL | SPORTS ",HK: Now HK Premier Sports 2
-http://iptvtree.net:8080/F15554/Tve5ZWQEd485/304091
-#EXTINF:-1 tvg-id="" tvg-name="HK: Now HK Sports Prime" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="CHANNEL | SPORTS ",HK: Now HK Sports Prime
-http://iptvtree.net:8080/F15554/Tve5ZWQEd485/304088
-#EXTINF:-1 tvg-id="" tvg-name="HK: Now Sports PL 1" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="CHANNEL | SPORTS ",HK: Now Sports 1
-http://iptvtree.net:8080/F15554/Tve5ZWQEd485/304467
-#EXTINF:-1 tvg-id="" tvg-name="HK: Now Sports 2" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="CHANNEL | SPORTS ",HK: Now Sports 2
-http://iptvtree.net:8080/F15554/Tve5ZWQEd485/304098
-#EXTINF:-1 tvg-id="" tvg-name="HK: Now Sports 3" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="CHANNEL | SPORTS ",HK: Now Sports 3
-http://iptvtree.net:8080/F15554/Tve5ZWQEd485/304097
-#EXTINF:-1 tvg-id="" tvg-name="HK: Now Sports 4" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="CHANNEL | SPORTS ",HK: Now Sports 4
-http://iptvtree.net:8080/F15554/Tve5ZWQEd485/304096
-#EXTINF:-1 tvg-id="" tvg-name="HK: Now Sports 5" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="CHANNEL | SPORTS ",HK: Now Sports 5
-http://iptvtree.net:8080/F15554/Tve5ZWQEd485/304095
-#EXTINF:-1 tvg-id="" tvg-name="HK: Now Sports 6" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="CHANNEL | SPORTS ",HK: Now Sports 6
-http://iptvtree.net:8080/F15554/Tve5ZWQEd485/304094
-#EXTINF:-1 tvg-id="" tvg-name="HK: Now Sports 7" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="CHANNEL | SPORTS ",HK: Now Sports 7
-http://iptvtree.net:8080/F15554/Tve5ZWQEd485/304093
-
-#EXTINF:-1 tvg-id="" tvg-name="IN: DD Sports" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/774c4049df9ead1fff6c94e3c6f7a117.png" group-title="CHANNEL | SPORTS ",IN: DD Sports
-http://iptvtree.net:8080/F15554/Tve5ZWQEd485/56153
-#EXTINF:-1 tvg-id="" tvg-name="IN: Sony Sports Ten 1 (Sony Ten 1)" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/f7ec94d2b4c2e3b83bda0bae7c00ebc6.png" group-title="CHANNEL | SPORTS ",IN: Sony Sports Ten 1 (Sony Ten 1)
-http://iptvtree.net:8080/F15554/Tve5ZWQEd485/16622
-#EXTINF:-1 tvg-id="" tvg-name="IN: Sony Sports Ten 2 (Sony Ten 2)" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/66d71926201b36679fa69b5ad6fa8a7a.png" group-title="CHANNEL | SPORTS ",IN: Sony Sports Ten 2 (Sony Ten 2)
-http://iptvtree.net:8080/F15554/Tve5ZWQEd485/16621
-#EXTINF:-1 tvg-id="" tvg-name="IN: Sony Sports Ten 3 (Sony Ten 3)" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-12/aeb289d5fd8b53e456a0f84e884a97ed.jpg" group-title="CHANNEL | SPORTS ",IN: Sony Sports Ten 3 (Sony Ten 3)
-http://iptvtree.net:8080/F15554/Tve5ZWQEd485/56191
-#EXTINF:-1 tvg-id="" tvg-name="IN: Star Sports 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/67b5b20cb871eb0a1d91bedb8be826ff.png" group-title="CHANNEL | SPORTS ",IN: Star Sports 1
-http://iptvtree.net:8080/F15554/Tve5ZWQEd485/3630
-#EXTINF:-1 tvg-id="" tvg-name="IN: Star Sports 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/8d83db120afcaa7b2d4ef5422fb3ace5.png" group-title="CHANNEL | SPORTS ",IN: Star Sports 2
-http://iptvtree.net:8080/F15554/Tve5ZWQEd485/3631
-#EXTINF:-1 tvg-id="" tvg-name="IN: Star Sports 3" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/cb6f86b5373ecc7840bd3b57967f37bc.png" group-title="CHANNEL | SPORTS ",IN: Star Sports 3
-http://iptvtree.net:8080/F15554/Tve5ZWQEd485/62584
-#EXTINF:-1 tvg-id="" tvg-name="IN: Star Sports Select 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/2d7119865b2ca6df10a38de08a4d6644.png" group-title="CHANNEL | SPORTS ",IN: Star Sports Select 1
-http://iptvtree.net:8080/F15554/Tve5ZWQEd485/82628
-#EXTINF:-1 tvg-id="" tvg-name="IN: Star Sports Select 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/c82b1ed84b02cbae99a2a741355dd041.png" group-title="CHANNEL | SPORTS ",IN: Star Sports Select 2
-http://iptvtree.net:8080/F15554/Tve5ZWQEd485/16619
-#EXTINF:-1 tvg-id="" tvg-name="IN: Willow" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/b8b56a633aad6900e1565ed87811f342.png" group-title="CHANNEL | SPORTS ",IN: Willow
-http://iptvtree.net:8080/F15554/Tve5ZWQEd485/165776
-
-#EXTINF:-1 tvg-id="" tvg-name="TH: True Premiere Football 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/590ebca19cefce3b34411f40e945241d.png" group-title="CHANNEL | SPORTS ",TH: True Premiere Football 1
-http://iptvtree.net:8080/F15554/Tve5ZWQEd485/162591
-#EXTINF:-1 tvg-id="" tvg-name="TH: True Premiere Football 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/45eb7daf6bfd21ae32e1d90a7e1cf4ca.png" group-title="CHANNEL | SPORTS ",TH: True Premiere Football 2
-http://iptvtree.net:8080/F15554/Tve5ZWQEd485/162592
-#EXTINF:-1 tvg-id="" tvg-name="TH: True Premiere Football 3" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-08/27c8b74a092a2d21cc9d58e8d38a5351.png" group-title="CHANNEL | SPORTS ",TH: True Premiere Football 3
-http://iptvtree.net:8080/F15554/Tve5ZWQEd485/165101
-#EXTINF:-1 tvg-id="" tvg-name="TH: True Sport 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-08/da0e484705b268036f917eacfa324bc8.png" group-title="CHANNEL | SPORTS ",TH: True Sport 1
-http://iptvtree.net:8080/F15554/Tve5ZWQEd485/304834
-#EXTINF:-1 tvg-id="" tvg-name="TH: True Sport 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-08/ae2205185399dab87a15fb81161f8d48.png" group-title="CHANNEL | SPORTS ",TH: True Sport 2
-http://iptvtree.net:8080/F15554/Tve5ZWQEd485/304833
-#EXTINF:-1 tvg-id="" tvg-name="TH: True Sport 4" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/5f7b81ae336629c71d84283bcf1669a1.png" group-title="CHANNEL | SPORTS ",TH: True Sport 4
-http://iptvtree.net:8080/F15554/Tve5ZWQEd485/285569
-
-#EXTINF:-1 tvg-id="" tvg-name="ZA SuperSport Maximo 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/488fd8d34ea146bfaf82c12331f4223e.png" group-title="CHANNEL | SPORTS ",ZA SuperSport Maximo 1
-http://iptvtree.net:8080/F15554/Tve5ZWQEd485/304735
-#EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport Football" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/8dab62dd2c2faa3d66261a2a5afa6260.png" group-title="CHANNEL | SPORTS ",ZA: SuperSport Football
-http://iptvtree.net:8080/F15554/Tve5ZWQEd485/38575
-#EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport Premier League" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/2f8f23e2a35d5a4e9ea336d7b51fd98f.png" group-title="CHANNEL | SPORTS ",ZA: SuperSport Premier League
-http://iptvtree.net:8080/F15554/Tve5ZWQEd485/11642
-#EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport PSL" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/b113905d39622090910a766c75af759d.png" group-title="CHANNEL | SPORTS ",ZA: SuperSport PSL
-http://iptvtree.net:8080/F15554/Tve5ZWQEd485/11643
-#EXTINF:-1 tvg-id="" tvg-name="ZA: Canal+ Foot" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-01/1ef307d2ff7e452d2d95f3d340717ed9.png" group-title="CHANNEL | SPORTS ",ZA: Canal+ Foot
-http://iptvtree.net:8080/F15554/Tve5ZWQEd485/297372
-#EXTINF:-1 tvg-id="" tvg-name="ZA: CANAL+ Premier League" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/c3de2632d14e7fa3ab5145cb9e455c55.png" group-title="CHANNEL | SPORTS ",ZA: CANAL+ Premier League
-http://iptvtree.net:8080/F15554/Tve5ZWQEd485/297425
-
-#EXTINF:-1 tvg-id="" tvg-name="UK: TNT Sports 1" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-uk-us-uk.png" group-title="CHANNEL | SPORTS ",UK: TNT Sports 1
-http://iptvtree.net:8080/F15554/Tve5ZWQEd485/270
-#EXTINF:-1 tvg-id="" tvg-name="UK: TNT Sports 1 50fps [vip]" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-05/99a75009ce9d1ae8418344f3d4ff8847.png" group-title="CHANNEL | SPORTS ",UK: TNT Sports 1 50fps [vip]
-http://iptvtree.net:8080/F15554/Tve5ZWQEd485/303934
-#EXTINF:-1 tvg-id="" tvg-name="UK: TNT Sports 2" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-uk-us-uk.png" group-title="CHANNEL | SPORTS ",UK: TNT Sports 2
-http://iptvtree.net:8080/F15554/Tve5ZWQEd485/273
-#EXTINF:-1 tvg-id="" tvg-name="UK: TNT Sports 2 50fps [vip]" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-05/0dd60715f4f2c9f1c8fac3de55e089f8.png" group-title="CHANNEL | SPORTS ",UK: TNT Sports 2 50fps [vip]
-http://iptvtree.net:8080/F15554/Tve5ZWQEd485/303935
-#EXTINF:-1 tvg-id="" tvg-name="UK: TNT Sports 3" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-uk-us-uk.png" group-title="CHANNEL | SPORTS ",UK: TNT Sports 3
-http://iptvtree.net:8080/F15554/Tve5ZWQEd485/271
-#EXTINF:-1 tvg-id="" tvg-name="UK: TNT Sports 3 50fps [vip]" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="CHANNEL | SPORTS ",UK: TNT Sports 3 50fps [vip]
-http://iptvtree.net:8080/F15554/Tve5ZWQEd485/303936
-#EXTINF:-1 tvg-id="" tvg-name="UK: TNT Sports 4" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-uk-us-uk.png" group-title="CHANNEL | SPORTS ",UK: TNT Sports 4
-http://iptvtree.net:8080/F15554/Tve5ZWQEd485/298471
-#EXTINF:-1 tvg-id="" tvg-name="UK: TNT Sports 4 50fps [vip]" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="CHANNEL | SPORTS ",UK: TNT Sports 4 50fps [vip]
-http://iptvtree.net:8080/F15554/Tve5ZWQEd485/303937
-#EXTINF:-1 tvg-id="" tvg-name="UK: TNT Sports 5" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-uk-us-uk.png" group-title="CHANNEL | SPORTS ",UK: TNT Sports 5
-http://iptvtree.net:8080/F15554/Tve5ZWQEd485/1124
-#EXTINF:-1 tvg-id="" tvg-name="UK: TNT Sports 6" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-uk-us-uk.png" group-title="CHANNEL | SPORTS ",UK: TNT Sports 6
-http://iptvtree.net:8080/F15554/Tve5ZWQEd485/47961
-#EXTINF:-1 tvg-id="" tvg-name="UK: TNT Sports 7" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-uk-us-uk.png" group-title="CHANNEL | SPORTS ",UK: TNT Sports 7
-http://iptvtree.net:8080/F15554/Tve5ZWQEd485/279255
-#EXTINF:-1 tvg-id="" tvg-name="UK: TNT Sports 8" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-uk-us-uk.png" group-title="CHANNEL | SPORTS ",UK: TNT Sports 8
-http://iptvtree.net:8080/F15554/Tve5ZWQEd485/7435
-#EXTINF:-1 tvg-id="" tvg-name="UK: TNT Sports 9" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-uk-us-uk.png" group-title="CHANNEL | SPORTS ",UK: TNT Sports 9
-http://iptvtree.net:8080/F15554/Tve5ZWQEd485/7438
-#EXTINF:-1 tvg-id="" tvg-name="UK: TNT Sports 10" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-uk-us-uk.png" group-title="CHANNEL | SPORTS ",UK: TNT Sports 10
-http://iptvtree.net:8080/F15554/Tve5ZWQEd485/283203
 
 
-#EXTINF:-1 tvg-id="" tvg-name="UK: Hub Premier 1" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="CHANNEL | SPORTS ",UK: Hub Premier 1 ( LIGA INGGRIS )
-http://iptvtree.net:8080/F15554/Tve5ZWQEd485/305270
-#EXTINF:-1 tvg-id="" tvg-name="UK: Hub Premier 2" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="CHANNEL | SPORTS ",UK: Hub Premier 2
-http://iptvtree.net:8080/F15554/Tve5ZWQEd485/305271
-#EXTINF:-1 tvg-id="" tvg-name="UK: Hub Premier 3" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="CHANNEL | SPORTS ",UK: Hub Premier 3
-http://iptvtree.net:8080/F15554/Tve5ZWQEd485/305272
-#EXTINF:-1 tvg-id="" tvg-name="UK: Hub Premier 4" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="CHANNEL | SPORTS ",UK: Hub Premier 4
-http://iptvtree.net:8080/F15554/Tve5ZWQEd485/305273
-#EXTINF:-1 tvg-id="" tvg-name="UK: Hub Premier 5" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="CHANNEL | SPORTS ",UK: Hub Premier 5
-http://iptvtree.net:8080/F15554/Tve5ZWQEd485/305274
-#EXTINF:-1 tvg-id="" tvg-name="UK: Hub Premier 6" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="CHANNEL | SPORTS ",UK: Hub Premier 6
-http://iptvtree.net:8080/F15554/Tve5ZWQEd485/305275
-#EXTINF:-1 tvg-id="" tvg-name="UK: Hub Premier 7" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="CHANNEL | SPORTS ",UK: Hub Premier 7
-http://iptvtree.net:8080/F15554/Tve5ZWQEd485/305276
-#EXTINF:-1 tvg-id="" tvg-name="UK: LFC [vip]" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="CHANNEL | SPORTS ",UK: LFC [vip]
-http://iptvtree.net:8080/F15554/Tve5ZWQEd485/304418
-#EXTINF:-1 tvg-id="" tvg-name="UK: LFC TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/eab43347e741baa1fc960207198c8e6b.png" group-title="CHANNEL | SPORTS ",UK: LFC TV
-http://iptvtree.net:8080/F15554/Tve5ZWQEd485/4721
-#EXTINF:-1 tvg-id="" tvg-name="UK: MUTV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/73eef793ce91db2ff4122b6e3581ec7b.png" group-title="CHANNEL | SPORTS ",UK: MUTV
-http://iptvtree.net:8080/F15554/Tve5ZWQEd485/1102
-#EXTINF:-1 tvg-id="" tvg-name="UK: MUTV [vip]" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-06/0b4b206a93d3c86e9402a4dc0a3339e3.png" group-title="CHANNEL | SPORTS ",UK: MUTV [vip]
-http://iptvtree.net:8080/F15554/Tve5ZWQEd485/304421
+#EXTINF:-1 tvg-id="" tvg-name="Astro SuperSport 1" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroPremierLeague_2024.png" group-title="CHANNEL | SPORTS", Astro Premiere League
+##http://droids2.xyz:8080/plx313/kQUGewSRrHtj/98261
+##http://line.protv.cc:80/play/live.php?mac=00:1A:79:12:35:0A&stream=1379224&extension=ts&play_token=7E8t1fyYaC
+##https://zekonew.newkso.ru/zeko/premium125/mono.m3u8|referer=https://pkpakiplay.xyz/&origin=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://wahyu1ptv.pages.dev/AstroPremierLeague1-HD.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Astro SuperSport 2" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroPremierLeague2_2024.png" group-title="CHANNEL | SPORTS",Astro Premiere League 2
+##http://droids2.xyz:8080/plx313/kQUGewSRrHtj/98263
+##http://line.protv.cc:80/play/live.php?mac=00:1A:79:12:35:0A&stream=1379225&extension=ts&play_token=MH90S7YWaF
+##https://zekonew.newkso.ru/zeko/premium126/mono.m3u8|referer=https://pkpakiplay.xyz/&origin=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://wahyu1ptv.pages.dev/AstroPremierLeague2-HD.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Astro SuperSport 3" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroGrandstand_2024.png" group-title="CHANNEL | SPORTS",Astro Grandstand
+##http://droids2.xyz:8080/plx313/kQUGewSRrHtj/98262
+##http://line.protv.cc:80/play/live.php?mac=00:1A:79:12:35:0A&stream=1379226&extension=ts&play_token=6jflfDmBp5
+##https://zekonew.newkso.ru/zeko/premium123/mono.m3u8|referer=https://pkpakiplay.xyz/&origin=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://wahyu1ptv.pages.dev/AstroGrandStand-HD.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Astro SuperSport 4" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroFootball_2024.png" group-title="CHANNEL | SPORTS",Astro Football
+##http://droids2.xyz:8080/plx313/kQUGewSRrHtj/98260
+##http://line.protv.cc:80/play/live.php?mac=00:1A:79:12:35:0A&stream=1379227&extension=ts&play_token=O12AMVZyMv
+##https://windnew.newkso.ru/wind/premium124/mono.m3u8|referer=https://pkpakiplay.xyz/&origin=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://wahyu1ptv.pages.dev/AstroFootBall-HD.m3u8
+
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroArena_2024.png" group-title="CHANNEL | SPORTS",AstroArena1
+https://wahyu1ptv.pages.dev/AstroArena-HD.m3u8
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroArena2_2024.png" group-title="CHANNEL | SPORTS",AstroArena2
+https://wahyu1ptv.pages.dev/AstroArena2-HD.m3u8
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroBadminton_2024.png" group-title="CHANNEL | SPORTS",AstroBadminton1
+https://wahyu1ptv.pages.dev/AstroBadminton-HD.m3u8
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroBadminton2_2024.png" group-title="CHANNEL | SPORTS",AstroBadminton2
+https://wahyu1ptv.pages.dev/AstroBadminton2-HD.m3u8
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroSportsPlus_2024.png" group-title="CHANNEL | SPORTS",AstroSportPlus1
+https://wahyu1ptv.pages.dev/AstroSportPlus1-HD.m3u8
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroSportsPlus_2024.png" group-title="CHANNEL | SPORTS",AstroSportPlus2
+https://wahyu1ptv.pages.dev/AstroSportPlus2-HD.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="AL: Arena Sport 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/577d05bbbff32984817bb5651dc77549.png" group-title="CHANNEL | SPORTS ",AL: Arena Sport 1
-http://iptvtree.net:8080/F15554/Tve5ZWQEd485/193741
-#EXTINF:-1 tvg-id="" tvg-name="AL: Arena Sport 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/14078476ccd04f73e80473edc0a0037c.png" group-title="CHANNEL | SPORTS ",AL: Arena Sport 2
-http://iptvtree.net:8080/F15554/Tve5ZWQEd485/171883
-#EXTINF:-1 tvg-id="" tvg-name="AL: Arena Sport 4" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/0b368e483f287a3f3e07bab3dd8f652f.png" group-title="CHANNEL | SPORTS ",AL: Arena Sport 4
-http://iptvtree.net:8080/F15554/Tve5ZWQEd485/193744
-#EXTINF:-1 tvg-id="" tvg-name="AL: Arena Sport 5" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/d5681f9e3564d378ff7769b8037581dc.png" group-title="CHANNEL | SPORTS ",AL: Arena Sport 5
-http://iptvtree.net:8080/F15554/Tve5ZWQEd485/57711
-#EXTINF:-1 tvg-id="" tvg-name="AL: Kujtesa Sport 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/7b4d3d4bcb7f01fc9d9d633995198bff.jpg" group-title="CHANNEL | SPORTS ",AL: Kujtesa Sport 1
-http://iptvtree.net:8080/F15554/Tve5ZWQEd485/1863
-#EXTINF:-1 tvg-id="" tvg-name="AL: Kujtesa Sport 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/0bcdad89b4447a2a1a50f8b6e6f27d2b.jpg" group-title="CHANNEL | SPORTS ",AL: Kujtesa Sport 2
-http://iptvtree.net:8080/F15554/Tve5ZWQEd485/1864
-#EXTINF:-1 tvg-id="" tvg-name="AL: Kujtesa Sport 3" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/374268c45e28a927265cafd3d15bca99.jpg" group-title="CHANNEL | SPORTS ",AL: Kujtesa Sport 3
-http://iptvtree.net:8080/F15554/Tve5ZWQEd485/1865
-#EXTINF:-1 tvg-id="" tvg-name="AL: Kujtesa Sport 4" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/e97db585bf968f9c3df5945b962726d1.jpg" group-title="CHANNEL | SPORTS ",AL: Kujtesa Sport 4
-http://iptvtree.net:8080/F15554/Tve5ZWQEd485/1866
-#EXTINF:-1 tvg-id="" tvg-name="AL: SuperSport 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/9519a058698941aadb6473f8721e58b1.png" group-title="CHANNEL | SPORTS ",AL: SuperSport 2
-http://iptvtree.net:8080/F15554/Tve5ZWQEd485/1312
-#EXTINF:-1 tvg-id="" tvg-name="AL: SuperSport 3" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/dd3c9c967ec530a8b19978ca6aac4588.png" group-title="CHANNEL | SPORTS ",AL: SuperSport 3
-http://iptvtree.net:8080/F15554/Tve5ZWQEd485/1319
-#EXTINF:-1 tvg-id="" tvg-name="AL: SuperSport 4" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-07/e0c350049cb9584a4a13c63aaf405857.png" group-title="CHANNEL | SPORTS ",AL: SuperSport 4
-http://iptvtree.net:8080/F15554/Tve5ZWQEd485/1318
-#EXTINF:-1 tvg-id="" tvg-name="AL: SuperSport 5" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/c6be34175b71784909e9493c29135344.png" group-title="CHANNEL | SPORTS ",AL: SuperSport 5
-http://iptvtree.net:8080/F15554/Tve5ZWQEd485/1860
-#EXTINF:-1 tvg-id="" tvg-name="AL: SuperSport 6" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/f2f8128ce788087140b3d84a313fe6e8.png" group-title="CHANNEL | SPORTS ",AL: SuperSport 6
-http://iptvtree.net:8080/F15554/Tve5ZWQEd485/3638
-#EXTINF:-1 tvg-id="" tvg-name="AL: SuperSport 7" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-06/90b0f1e0b931a25f5257b5ff05e96fe5.png" group-title="CHANNEL | SPORTS ",AL: SuperSport 7
-http://iptvtree.net:8080/F15554/Tve5ZWQEd485/174441
-#EXTINF:-1 tvg-id="" tvg-name="AL: SuperSport News" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-11/dff061a1127ec25516208e9610bd550d.jpg" group-title="CHANNEL | SPORTS ",AL: SuperSport News
-http://iptvtree.net:8080/F15554/Tve5ZWQEd485/1313
-#EXTINF:-1 tvg-id="" tvg-name="AL: Tring Sport 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-07/159a3e53a509523324405a783571860a.png" group-title="CHANNEL | SPORTS ",AL: Tring Sport 1
-http://iptvtree.net:8080/F15554/Tve5ZWQEd485/1306
-#EXTINF:-1 tvg-id="" tvg-name="AL: Tring Sport 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-07/43c29acadbe04ba7cccb93430e73d373.png" group-title="CHANNEL | SPORTS ",AL: Tring Sport 2
-http://iptvtree.net:8080/F15554/Tve5ZWQEd485/1305
-#EXTINF:-1 tvg-id="" tvg-name="AL: Tring Sport 3" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/85de7720019eb796d9dfe20898807b36.png" group-title="CHANNEL | SPORTS ",AL: Tring Sport 3
-http://iptvtree.net:8080/F15554/Tve5ZWQEd485/1304
-#EXTINF:-1 tvg-id="" tvg-name="AL: Tring Sport 4" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/6a7cf8d9da4b44e4a17d4874a96de13f.png" group-title="CHANNEL | SPORTS ",AL: Tring Sport 4
-http://iptvtree.net:8080/F15554/Tve5ZWQEd485/1862
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Go3Sport.png" group-title="CHANNEL | SPORTS",Go3SportOpen
+https://wahyu1ptv.pages.dev/Go3SportOpen-HD.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="RO: DIGI Sport 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-07/93053f4167ff4534d5c36ceb918f1615.png" group-title="CHANNEL | SPORTS ",RO: DIGI Sport 1
-http://iptvtree.net:8080/F15554/Tve5ZWQEd485/71457
-#EXTINF:-1 tvg-id="" tvg-name="RO: DIGI Sport 1 4K" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="CHANNEL | SPORTS ",RO: DIGI Sport 1 4K
-http://iptvtree.net:8080/F15554/Tve5ZWQEd485/267997
-#EXTINF:-1 tvg-id="" tvg-name="RO: DIGI Sport 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-07/df1803b73d696e77aa97ce6405a102b9.png" group-title="CHANNEL | SPORTS ",RO: DIGI Sport 2
-http://iptvtree.net:8080/F15554/Tve5ZWQEd485/71459
-#EXTINF:-1 tvg-id="" tvg-name="RO: DIGI Sport 3" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-07/bd83399052d1011af53a79b4f9b78952.png" group-title="CHANNEL | SPORTS ",RO: DIGI Sport 3
-http://iptvtree.net:8080/F15554/Tve5ZWQEd485/2243
-#EXTINF:-1 tvg-id="" tvg-name="RO: Prima Sport 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-02/26aa4ab429eca97ba1460df75b3dc791.png" group-title="CHANNEL | SPORTS ",RO: Prima Sport 1
-http://iptvtree.net:8080/F15554/Tve5ZWQEd485/2229
-#EXTINF:-1 tvg-id="" tvg-name="RO: Prima Sport 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-02/12220d6c3da513e84ff5d8ac001fd992.png" group-title="CHANNEL | SPORTS ",RO: Prima Sport 2
-http://iptvtree.net:8080/F15554/Tve5ZWQEd485/147299
-#EXTINF:-1 tvg-id="" tvg-name="RO: Prima Sport 3" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-02/95c28cbeff8963bb8198414162661ec9.png" group-title="CHANNEL | SPORTS ",RO: Prima Sport 3
-http://iptvtree.net:8080/F15554/Tve5ZWQEd485/147300
-#EXTINF:-1 tvg-id="" tvg-name="RO: Prima Sport 4" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-02/3bd17c70be3c00521334947e6ae5ab5f.png" group-title="CHANNEL | SPORTS ",RO: Prima Sport 4
-http://iptvtree.net:8080/F15554/Tve5ZWQEd485/297626
-#EXTINF:-1 tvg-id="" tvg-name="RO: Prima Sport 5" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="CHANNEL | SPORTS ",RO: Prima Sport 5
-http://iptvtree.net:8080/F15554/Tve5ZWQEd485/298628
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Go3Sport1.png" group-title="CHANNEL | SPORTS",Go3Sport1
+https://wahyu1ptv.pages.dev/Go3Sport1-HD.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="FR: RMC SPORT 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/1cad6854257abb1574eb6e54efcdc7d5.png" group-title="CHANNEL | SPORTS ",FR: RMC SPORT 1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Go3Sport2.png" group-title="CHANNEL | SPORTS",Go3Sport2
+https://wahyu1ptv.pages.dev/Go3Sport2-HD.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Go3Sport3.png" group-title="CHANNEL | SPORTS",Go3Sport3
+https://wahyu1ptv.pages.dev/Go3Sport3-HD.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Match!Football1-HD.png" group-title="CHANNEL | SPORTS",Match!Football1
+https://wahyu1ptv.pages.dev/Match!Football1-HD.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Match!Football2-HD.png" group-title="CHANNEL | SPORTS",Match!Football2
+https://wahyu1ptv.pages.dev/Match!Football2-HD.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Match!Football3-HD.png" group-title="CHANNEL | SPORTS",Match!Football3
+https://wahyu1ptv.pages.dev/Match!Football3-HD.m3u8
+
+
+
+=====================TNT Sports=================
+
+#EXTINF:0 tvg-id="TNT 1" tvg-logo="https://i.ibb.co.com/7dNPfNGB/Tntsports1.png" group-title="CHANNEL | SPORTS",TNT SPORTS 1 FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ae26845bd33038a9c0774a0981007294:63ac662dde310cfb4cc6f9b43b34196d
+https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
+
+#EXTINF:0 tvg-id="TNT 2" tvg-logo="https://i.ibb.co.com/Q3V8tDNL/Tntsports2.png" group-title="CHANNEL | SPORTS",TNT SPORTS 2 FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6d1708b185c6c4d7b37600520c7cc93c:1aace05f58d8edef9697fd52cb09f441
+https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
+
+#EXTINF:0 tvg-id="TNT 3" tvg-logo="https://i.ibb.co.com/Lzkztmpw/Tntsports3.png" group-title="CHANNEL | SPORTS",TNT SPORTS 3 FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4e993aa8c1f295f8b94e8e9e6f6d0bfe:86a1ed6e96caab8eb1009fe530d2cf4f
+https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
+
+#EXTINF:0 tvg-id="TNT 4" tvg-logo="https://i.ibb.co.com/yJ8TWnb/Tntsports4.png" group-title="CHANNEL | SPORTS",TNT SPORTS 4 FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e31a5a81caff5d07ea2411a571fc2e59:96c5ef69479732ae734f962748c19729
+https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
+
+
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS - HUB SPORTS 1" tvg-logo="http://go4.pw/ASIA/INDIAN/HUB SPORTS 5.png" group-title="CHANNEL | SPORTS",HUB SPORTS 1
+http://exm3u.extraott.com:900/live/1103581436/4099381829/36305.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS - HUB SPORTS 2" tvg-logo="http://go4.pw/ASIA/INDIAN/HUB SPORTS 5.png" group-title="CHANNEL | SPORTS",HUB SPORTS 2
+http://exm3u.extraott.com:900/live/1103581436/4099381829/36304.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS - HUB SPORTS 3" tvg-logo="http://go4.pw/ASIA/INDIAN/HUB SPORTS 5.png" group-title="CHANNEL | SPORTS",HUB SPORTS 3
+http://exm3u.extraott.com:900/live/1103581436/4099381829/36303.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS - HUB SPORTS 4" tvg-logo="http://go4.pw/ASIA/INDIAN/HUB SPORTS 5.png" group-title="CHANNEL | SPORTS",HUB SPORTS 4
+http://exm3u.extraott.com:900/live/1103581436/4099381829/36302.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS - HUB SPORTS 5" tvg-logo="http://go4.pw/ASIA/INDIAN/HUB SPORTS 5.png" group-title="CHANNEL | SPORTS",HUB SPORTS 5
+http://exm3u.extraott.com:900/live/1103581436/4099381829/36301.m3u8
+
+
+#EXTINF:-1 tvg-id="HubPremier.1.sg" tvg-logo="http://killer.play-gachor.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkkdAq2aSAHXdhNs9XaCwgUMJV4zPnl5t_-XMMNOnoXu0.png" group-title="CHANNEL | SPORTS", HubPremier1-FHD
+https://7pal.short.gy/HPremier1
+#EXTINF:-1 tvg-id="Hub.Premier.2.(HD).sg" tvg-logo="http://killer.play-gachor.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkkdAq2aSAHXdhNs9XaCwgUMJV4zPnl5t_-XMMNOnoXu0.png" group-title="CHANNEL | SPORTS", HubPremier2-FHD
+https://7pal.short.gy/HPremier2
+#EXTINF:-1 tvg-id="Hub.Premier.3.sg" tvg-logo="http://killer.play-gachor.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkkdAq2aSAHXdhNs9XaCwgUMJV4zPnl5t_-XMMNOnoXu0.png" group-title="CHANNEL | SPORTS", HubPremier3-FHD
+https://7pal.short.gy/HPremier3
+
+#EXTINF:-1 tvg-id="sonyten1hd.in" tvg-name="Sony Ten 1 HD" tvg-logo="https://watchindia.net/images/channels/sports/Sony_Ten_1_HD.png" group-title="CHANNEL | SPORTS",Sony Sports Ten 1 HD
+##http://watchindia.net:8880/live/32612/55103/2215.ts
+https://tataplay.slivcdn.com//hls/live/2011747/TEN1HD/master.m3u8
+#EXTINF:-1 tvg-id="sonyten2hd.in" tvg-name="Sony Ten 2 HD" tvg-logo="https://watchindia.net/images/channels/sports/Sony_Ten_2_HD.png" group-title="CHANNEL | SPORTS",Sony Sports Ten 2 HD
+##http://watchindia.net:8880/live/32612/55103/1757.ts
+https://tataplay.slivcdn.com/hls/live/2020434/TEN2HD/master.m3u8
+#EXTINF:-1 tvg-id="sonyten3hd.in" tvg-name="Sony Ten 3 HD" tvg-logo="https://watchindia.net/images/channels/sports/Sony_Ten_3_HD.png" group-title="CHANNEL | SPORTS",Sony Sports Ten 3 HD
+##http://watchindia.net:8880/live/32612/55103/1758.ts
+https://tataplay.slivcdn.com/hls/live/2020591/TEN3HD/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony Ten 4 HD" tvg-logo="https://watchindia.net/images/channels/sports/Sony_Ten_4_HD.png" group-title="CHANNEL | SPORTS",Sony Sports Ten 4 HD
+##http://watchindia.net:8880/live/32612/55103/2662.ts
+https://tataplay.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8
+#EXTINF:-1 tvg-id="sony.sports.ten.5.in" tvg-name="Sony Ten 5 HD" tvg-logo="https://watchindia.net/images/channels/sports/Sony_Ten_5_HD.png" group-title="CHANNEL | SPORTS",Sony Sports Ten 5 HD
+##http://watchindia.net:8880/live/32612/55103/2663.ts
+https://tataplay.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
+
+#EXTINF:-1 group-title="CHANNEL | SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/Telenet_Play_Sports_logo.png", PLAY SPORT 1 
+http://line.protv.cc:80/play/live.php?mac=00:1A:79:12:35:0A&stream=811941&extension=ts&play_token=YSU2hyxJBL
+#EXTINF:-1 group-title="CHANNEL | SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/Telenet_Play_Sports_logo.png", PLAY SPORT 2 
+##http://exm3u.extraott.com:900/live/ZUL96376/UG4VTW4E/28014.m3u8
+http://line.protv.cc:80/play/live.php?mac=00:1A:79:12:35:0A&stream=811940&extension=ts&play_token=qflfsdtrg0
+#EXTINF:-1 group-title="CHANNEL | SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/Telenet_Play_Sports_logo.png", PLAY SPORT 3 
+##http://exm3u.extraott.com:900/live/ZUL96376/UG4VTW4E/28013.m3u8
+http://line.protv.cc:80/play/live.php?mac=00:1A:79:12:35:0A&stream=811939&extension=ts&play_token=myTDQC1rJB
+
+#EXTINF:-1 tvg-id="digisport1.ro" tvg-name="DIGI SPORT 1" tvg-logo="http://logo.ottcst.info/DIGISPORT1.png" group-title="CHANNEL | SPORTS",DIGI SPORT 1
+http://exm3u.extraott.com:900/live/1103581436/4099381829/17311.m3u8
+#EXTINF:-1 tvg-id="digisport2.ro" tvg-name="DIGI SPORT 2 HD RO" tvg-logo="http://logo.ottcst.info/DIGISPORT2.png" group-title="CHANNEL | SPORTS",DIGI SPORT 2 HD RO
+http://exm3u.extraott.com:900/live/1103581436/4099381829/17310.m3u85
+#EXTINF:-1 tvg-id="digisport2.ro" tvg-name="DIGI SPORT 2" tvg-logo="http://logo.ottcst.info/DIGISPORT2.png" group-title="CHANNEL | SPORTS",DIGI SPORT 2
+http://exm3u.extraott.com:900/live/1103581436/4099381829/17310.m3u8
+#EXTINF:-1 tvg-id="digisport3.ro" tvg-name="DIGI SPORT 3" tvg-logo="http://logo.ottcst.info/DIGISPORT3.png" group-title="CHANNEL | SPORTS",DIGI SPORT 3
+http://exm3u.extraott.com:900/live/1103581436/4099381829/17309.m3u8
+#EXTINF:-1 tvg-id="digisport4.ro" tvg-name="DIGI SPORT 4" tvg-logo="http://logo.ottcst.info/DIGISPORT4.png" group-title="CHANNEL | SPORTS",DIGI SPORT 4
+http://exm3u.extraott.com:900/live/1103581436/4099381829/17308.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC SPORT 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/1cad6854257abb1574eb6e54efcdc7d5.png" group-title="CHANNEL | SPORTS",RMC SPORT 1
 http://iptvtree.net:8080/F15554/Tve5ZWQEd485/1937
-#EXTINF:-1 tvg-id="" tvg-name="FR: RMC SPORT 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/a543a1274e30e7a0225d06882c0a5f5c.png" group-title="CHANNEL | SPORTS ",FR: RMC SPORT 2
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC SPORT 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/a543a1274e30e7a0225d06882c0a5f5c.png" group-title="CHANNEL | SPORTS",RMC SPORT 2
 http://iptvtree.net:8080/F15554/Tve5ZWQEd485/1938
-#EXTINF:-1 tvg-id="" tvg-name="FR: RMC SPORT 3" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/ed9835d693546034bdf25efb8b3a7064.png" group-title="CHANNEL | SPORTS ",FR: RMC SPORT 3
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC SPORT 3" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/ed9835d693546034bdf25efb8b3a7064.png" group-title="CHANNEL | SPORTS",RMC SPORT 3
 http://iptvtree.net:8080/F15554/Tve5ZWQEd485/279991
-#EXTINF:-1 tvg-id="" tvg-name="FR: RMC SPORT 4" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/73cffa5f211ea7a500efc57624d1085b.png" group-title="CHANNEL | SPORTS ",FR: RMC SPORT 4
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC SPORT 4" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/73cffa5f211ea7a500efc57624d1085b.png" group-title="CHANNEL | SPORTS",RMC SPORT 4
 http://iptvtree.net:8080/F15554/Tve5ZWQEd485/279752
-#EXTINF:-1 tvg-id="" tvg-name="FR: RMC SPORT 5" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/78b9cea6671e86c0d7e66912be2d5d75.png" group-title="CHANNEL | SPORTS ",FR: RMC SPORT 5
-http://iptvtree.net:8080/F15554/Tve5ZWQEd485/1940
-#EXTINF:-1 tvg-id="" tvg-name="FR: RMC SPORT 7" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/eff690c2ea262f51dc20359a6a5d2dab.jpg" group-title="CHANNEL | SPORTS ",FR: RMC SPORT 7
-http://iptvtree.net:8080/F15554/Tve5ZWQEd485/20883
-#EXTINF:-1 tvg-id="" tvg-name="FR: RMC SPORT 8" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/7ba3def00bf7bcf5dc60c53248dc5280.jpg" group-title="CHANNEL | SPORTS ",FR: RMC SPORT 8
-http://iptvtree.net:8080/F15554/Tve5ZWQEd485/20884
-#EXTINF:-1 tvg-id="" tvg-name="FR: RMC SPORT 9" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/a883723670d7bc644176d7aba669cabc.jpg" group-title="CHANNEL | SPORTS ",FR: RMC SPORT 9
-http://iptvtree.net:8080/F15554/Tve5ZWQEd485/20885
 
-#EXTINF:-1 tvg-id="" tvg-name="PT: DAZN 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-12/bb84e5b2c79a322326a2f60d6f4c0ca3.svg" group-title="CHANNEL | SPORTS ",PT: DAZN 1
-http://iptvtree.net:8080/F15554/Tve5ZWQEd485/1499
-#EXTINF:-1 tvg-id="" tvg-name="PT: DAZN 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-12/dfc7696cb634a5052ac01491897c1146.svg" group-title="CHANNEL | SPORTS ",PT: DAZN 2
-http://iptvtree.net:8080/F15554/Tve5ZWQEd485/1503
-#EXTINF:-1 tvg-id="" tvg-name="PT: DAZN 3" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-12/f63834b991a4979be7f4120275cc8f46.svg" group-title="CHANNEL | SPORTS ",PT: DAZN 3
-http://iptvtree.net:8080/F15554/Tve5ZWQEd485/1506
-#EXTINF:-1 tvg-id="" tvg-name="PT: DAZN 4" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-12/aa0291eb5bcf5a3df653e7726d462eb9.svg" group-title="CHANNEL | SPORTS ",PT: DAZN 4
-http://iptvtree.net:8080/F15554/Tve5ZWQEd485/1509
-#EXTINF:-1 tvg-id="" tvg-name="PT: DAZN 5" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/c5409550875e0e1b4d38c0167efbf339.png" group-title="CHANNEL | SPORTS ",PT: DAZN 5
-http://iptvtree.net:8080/F15554/Tve5ZWQEd485/1512
-#EXTINF:-1 tvg-id="" tvg-name="PT: DAZN 6" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/089df823b4a66ca080d161cdd412ff1b.png" group-title="CHANNEL | SPORTS ",PT: DAZN 6
-http://iptvtree.net:8080/F15554/Tve5ZWQEd485/1515
-
-#EXTINF:-1 tvg-id="" tvg-name="ZA: Ignition" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/f179d158bdf42656fdd712466381da3a.png" group-title="CHANNEL | SPORTS ",ZA: Ignition
-http://iptvtree.net:8080/F15554/Tve5ZWQEd485/38552
-#EXTINF:-1 tvg-id="" tvg-name="ZA: NBA TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-04/da22c2fc0f6ca42fa844ffeabb72e41d.jpg" group-title="CHANNEL | SPORTS ",ZA: NBA TV
-http://iptvtree.net:8080/F15554/Tve5ZWQEd485/297426
-#EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport Action" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/c01edd9028bd637cc5bdc8527acc3353.png" group-title="CHANNEL | SPORTS ",ZA: SuperSport Action
-http://iptvtree.net:8080/F15554/Tve5ZWQEd485/194354
-#EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport Action [vip]" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="CHANNEL | SPORTS ",ZA: SuperSport Action [vip]
-http://iptvtree.net:8080/F15554/Tve5ZWQEd485/303850
-#EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport Blitz" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-10/0a52ab66352a2b8d466ccdb407570cad.jpg" group-title="CHANNEL | SPORTS ",ZA: SuperSport Blitz
-http://iptvtree.net:8080/F15554/Tve5ZWQEd485/281536
-#EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport Blitz [vip]" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="CHANNEL | SPORTS ",ZA: SuperSport Blitz [vip]
-http://iptvtree.net:8080/F15554/Tve5ZWQEd485/303841
-#EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport Cricket" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/5b9d9ddbf95526d59c2fdd6725253646.png" group-title="CHANNEL | SPORTS ",ZA: SuperSport Cricket
-http://iptvtree.net:8080/F15554/Tve5ZWQEd485/11637
-#EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport Cricket [vip]" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="CHANNEL | SPORTS ",ZA: SuperSport Cricket [vip]
-http://iptvtree.net:8080/F15554/Tve5ZWQEd485/303852
-#EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport Football [vip]" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="CHANNEL | SPORTS ",ZA: SuperSport Football [vip]
-http://iptvtree.net:8080/F15554/Tve5ZWQEd485/303846
-#EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport Golf" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/a20c92d13ce602ec324ff03b209ed0c2.png" group-title="CHANNEL | SPORTS ",ZA: SuperSport Golf
-http://iptvtree.net:8080/F15554/Tve5ZWQEd485/11641
-#EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport Golf [vip]" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="CHANNEL | SPORTS ",ZA: SuperSport Golf [vip]
-http://iptvtree.net:8080/F15554/Tve5ZWQEd485/303853
-#EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport Grandstand" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/a8f0bee8d482364f261394bf7678fa0e.png" group-title="CHANNEL | SPORTS ",ZA: SuperSport Grandstand
-http://iptvtree.net:8080/F15554/Tve5ZWQEd485/194353
-#EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport Grandstand [vip]" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="CHANNEL | SPORTS ",ZA: SuperSport Grandstand [vip]
-http://iptvtree.net:8080/F15554/Tve5ZWQEd485/303842
-#EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport LaLiga" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/dd29bde85c09ac2e0c1c250edb6bcf23.png" group-title="CHANNEL | SPORTS ",ZA: SuperSport LaLiga
-http://iptvtree.net:8080/F15554/Tve5ZWQEd485/194358
-#EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport LaLiga [vip]" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="CHANNEL | SPORTS ",ZA: SuperSport LaLiga [vip]
-http://iptvtree.net:8080/F15554/Tve5ZWQEd485/303845
-#EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport Motorsport" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/cbc8390b70fc0ce16a159f392002fec4.png" group-title="CHANNEL | SPORTS ",ZA: SuperSport Motorsport
-http://iptvtree.net:8080/F15554/Tve5ZWQEd485/11638
-#EXTINF:-1 tvg-id="" tvg-name="ZA: SuperSport Motorsport [vip]" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="CHANNEL | SPORTS ",ZA: SuperSport Motorsport [vip]
-http://iptvtree.net:8080/F15554/Tve5ZWQEd485/303855
-
-#EXTINF:-1 tvg-id="" tvg-name="US: FS1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/30569238d01ed9c7e8f50b4f61c70865.png" group-title="CHANNEL | SPORTS ",US: FS1
+#EXTINF:-1 tvg-id="" tvg-name="US: FS1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/30569238d01ed9c7e8f50b4f61c70865.png" group-title="CHANNEL | SPORTS",US: FS1
 http://iptvtree.net:8080/F15554/Tve5ZWQEd485/756
-#EXTINF:-1 tvg-id="" tvg-name="US: FS2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/856321c9d4796d595d69b69d276520c9.png" group-title="CHANNEL | SPORTS ",US: FS2
+#EXTINF:-1 tvg-id="" tvg-name="US: FS2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/856321c9d4796d595d69b69d276520c9.png" group-title="CHANNEL | SPORTS",US: FS2
 http://iptvtree.net:8080/F15554/Tve5ZWQEd485/757
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/Eb6c6Ju.png" group-title="CHANNEL | SPORTS", NBA TV
+##https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/nbatv.m3u8
+http://212.102.60.231/NBA_TV/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/87GJt4s.png" group-title="CHANNEL | SPORTS", WWE NETWORK HD
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/wwenetwork.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/87GJt4s.png" group-title="CHANNEL | SPORTS", WWE NETWORK HD
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/wwenetwork%202.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Hqt15Ff.png" group-title="CHANNEL | SPORTS", IMPACT WRESTLING
+https://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8
+
+#EXTINF: -1 tvg-id="ufc fight pass" tvg-logo="https://i.imgur.com/ih4aYFc.png" group-title="CHANNEL | SPORTS", UFC FIGHT PASS
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/UFC%20FIGHT%20PASS.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lsEzEWY.png" group-title="CHANNEL | SPORTS", UNIFI SPORTS
+https://unifi-live01.secureswiftcontent.com/UnifiHD/live11.mpd
+
+#EXTINF:-1 group-title="CHANNEL | SPORTS" tvg-logo="https://i.imgur.com/MiExJz2.png", EUROSPORT 1
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/eurosport%201.m3u8
+
+#EXTINF:-1 group-title="CHANNEL | SPORTS" tvg-logo="https://i.imgur.com/MiExJz2.png", EUROSPORT 2
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/eurosport%202.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sc9kDp4.jpeg" group-title="CHANNEL | SPORTS", W SPORT
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://dens.tv
+https://op-group1-swiftservehd-1.dens.tv/h/h26/S4/mnf.m3u8
+
+#EXTINF:-1 group-title="CHANNEL | SPORTS" tvg-logo="https://i.imgur.com/pj6zyon.png",STRONGMAN CHAMPIONS LEAGUE
+https://3f4b9dde8740443b9b90459fc7b67cdd.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-gb_StrongmanChampionsLeague/e21d95be-bbb1-442c-bd84-71813dc764ce/0.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/WSXKQNT.png" group-title="CHANNEL | SPORTS", HUB PREMIER 1
+http://mag.redmytv.com/bO3trtivgYaMDwr/l4ptb6R31K/1289436
+http://103.254.122.3/bO3trtivgYaMDwr/l4ptb6R31K/1289436?token=SEReU0dfFg8WBAQGAwgGB1VRUQEEV1MOBAEPBwMBUlFWV1ILVVVQUFIWGxRGRUZWVl9tXVAWWAgBWg4HAgVJFkYVU0BrXlAXDhYOAQAGBQYOEB4WQF0PXBFYBgQFB1wBAFYFCxgVRFxQFg0UAwcMCxUeEFFMQAdLXQNbbFVWE11QAxQIWkJYWRgWWFhqVVFeVlxWFg4WUhsfQF5AQRFfWkYKWh4WVV1BRlVDUxcLFgUDCwUWGBYBVkYMQ0FIEV8WeiIUHhZSTEFRWkRfWl8WCRVGQRYYFgtKbBBSQEVBAFVeA0QQDhUEFxgWWldNbldcWVxXV0BdDVdAQA0RABFJFl4JWFtAWEZqRF1TFA8TAwUHBhAYFkERXEE9XkMTCUcFC1QYAAEEGgANGgYHBRNJ
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/OryPIj9.png" group-title="CHANNEL | SPORTS", UK: SKY SPORTS FOOTBALL
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/sky%20sports%20football.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/ycUaKK3.png" group-title="CHANNEL | SPORTS", UK: SKY SPORTS MAIN EVENT
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/skysportsmainevent.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="IT: SKY SPORT NBA HD" tvg-logo="http://sltv-logo.cms-s.com/logo/Italy/sport220/skySportsNBA.png" group-title="CHANNEL | SPORTS",SKY SPORT NBA HD
+http://marcoes.com:8080/ekrem141223/1WHHwJxM53/519555
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/SkySportMotoGP.png" group-title="CHANNEL | SPORTS",SkySportMotoGP
+https://wahyu1ptv.pages.dev/SkySportMotoGP-HD.m3u8
+
+#EXTINF:-1 group-title="CHANNEL | SPORTS" tvg-logo="https://i.imgur.com/CTkulsv.png", DAZN 1 ES
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/DAZN%201%20ES.m3u8
+
+#EXTINF:-1 group-title="CHANNEL | SPORTS" tvg-logo="https://i.imgur.com/gfHMs20.png", DAZN 2 ES
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/DAZN%202%20ES.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/235ntiy.png" group-title="CHANNEL | SPORTS", MU TV
+https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="SPT| LFC TV FHD" tvg-logo="http://103.176.90.118/picons/logos/logos/LFC-TV.png" group-title="CHANNEL | SPORTS",LIVERVOOL TV
+http://line.protv.cc:80/play/live.php?mac=00:1A:79:12:35:0A&stream=1360882&extension=ts&play_token=jxlnTFEtBh
+
+#EXTINF:-1 tvg-id="" tvg-name="UK| CHELSEA TV HD" tvg-logo="http://103.176.90.118/picons/logos/UK/CHELSEA.png" group-title="CHANNEL | SPORTS",CHELSEA TV HD
+http://line.protv.cc:80/play/live.php?mac=00:1A:79:12:35:0A&stream=45327&extension=ts&play_token=gzXltyYvtc
+
+#EXTINF: -1 tvg-logo="https://i.ibb.co.com/j90nMM19/real-mad.png" group-title="CHANNEL | SPORTS", REAL MADRID TV
+https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
+
+#EXTINF:-1 tvg-id="interchannel.it" tvg-name="IT: INTER CHANNEL" tvg-logo="http://sltv-logo.cms-s.com/logo/Italy/sport220/Inter_TV.png" group-title="CHANNEL | SPORTS",INTER TV
+http://marcoes.com:8080/ekrem141223/1WHHwJxM53/129275
 
 #EXTINF:-1 tvg-id="WWENetwork.us" tvg-name="WWE NETWORK" tvg-logo="https://www.lyngsat.com/logo/tv/ww/world_wrestling_entertainment.png" group-title="CHANNEL | SPORTS", WWE NETWORK 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
