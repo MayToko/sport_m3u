@@ -6876,6 +6876,8 @@ https://bintangstreaming.my.id/connect/index.m3u8?channel=u17&type=m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="LIVE | TIMNAS🇮🇩", INDONESIA VS CHINA
+https://raw.githubusercontent.com/hnnyo/anyar/refs/heads/main/indos3.m3u8
 
 
 
@@ -28081,6 +28083,7 @@ http://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w528900641_b38
 
 #EXTINF:-1 xui-id="10837" tvg-id="" tvg-name="DAAI TV" tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbiziO7FndHuS-l2338RtDq0O1iFBnLp7qOj1z9sBlO3w.png" group-title="CHANNEL | INDONESIA PREMIUM",DAAI TV
 https://smart.pendy.dpdns.org/Smart.php?id=DaaiTV
+
 
 
 
