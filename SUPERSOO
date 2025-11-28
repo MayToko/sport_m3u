@@ -7190,8 +7190,17 @@ https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="tvs.pl" tvg-name="ID: SCTV HD" tvg-logo="https://iptvsystem.my.id/img/sctv.png" group-title="CHANNEL | INDONESIA",ID: SCTV HD
-http://filex.me:8080//live/Qasim1990/1990qasim/302301.ts
+
+
+EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) 
+#EXTINF:-1 tvg-id="5" tvg-logo="https://iptvsystem.my.id/img/sctv.png" group-title="CHANNEL | INDONESIA",SCTV
+https://cdn10jtedge.indihometv.com/atm/DASH/sctv/manifest.mpd
 
 #EXTINF:-1 group-title="CHANNEL | INDONESIA" tvg-id="" tvg-logo="https://iptvsystem.my.id/img/RCTI.png",RCTI (V+)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -11563,8 +11572,6 @@ https://cdn10jtedge.indihometv.com/atm/DASH/indosiar/manifest.mpd
 #EXTINF:-1 group-title="CHANNEL | FIRSTMEDIA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0NxilsmUlciSTbdIyyXY5rhPb7v8GZLUVVmITTCxXcV-9LWRWyOJQx9AYFZO4NMtUEcukWwggpXJQAd7unLvXMrqavGEWcJDWpdkXXgrjFP6OmdkXj2oEf3OBrGWvc6zjb5TxTnZkYoADUfLd0lrqLwi3z0tV8bbmT2XFT5nmj1v9aRxlUQNuMy2LO3gP/s700/ANTV.png",ANTV
 https://cdn10jtedge.indihometv.com/atm/DASH/ANTV/manifest.mpd
 
-#EXTINF:-1 tvg-id="5" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhB3v_xnD6xAiO8W7znGFuzZ0MsgBSGH0YJbrY11rabEik83SuCosvQUX-l2j3VrR9JZf_DWEq_g-9Bpx2opz1czDcKW8U25Kx1ln0xheZhvd5mEPaEgFUfWS7NntyXsuRkj-SA40qvb2gXNDTH_pZYstBr7Q-cXHFBWfqphWqzc1OfQLac9biDh7aXnoEz/s700/SCTV.png" group-title="CHANNEL | FIRSTMEDIA",SCTV
-https://cdn10jtedge.indihometv.com/atm/DASH/sctv/manifest.mpd
 
 #EXTINF:-1 tvg-id="7" group-title="CHANNEL | FIRSTMEDIA"tvg-id="Trans7.id" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPLdwT9FZJjXAT5Ax65vbychga_ounSNHYxPSzpEcKifF4kqc48VwsMt-wxGOIj8i2HiJwMY66_qtDct5KnXKmKDBZG2ku0IR4HgplftrtdM2-yaYU0Nsujn9aWlxGVpwyr3TdI7XNeC_y_lzu7TGTayhHXUTId10VLpnr01LLpAMudEUeHwwkW3Ym-IKm/s700/TRANS%207.png",TRANS 7
 https://cdn10jtedge.indihometv.com/atm/DASH/trans7/manifest.mpd
@@ -11773,8 +11780,6 @@ https://cdn10jtedge.indihometv.com/atm/DASH/BLOOMBERG/manifest.mpd
 #EXTINF:-1 group-title="CHANNEL | FIRSTMEDIA"tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQxqP6gWzF7Ss6zz_MlnQt1OxRUMZBjE09YZJ4ToO2X4MI6aMnn_WeGORLC07r7sXov0u3JTUYhw9PnjrP7HLh-IRJMGnH_PAJ4-RIiBtF-cCLGXjyjV8LC2-7zaRUsicaS2brWd5kf0kACYUM1tOB4GxMsdx_7xuWN26-WunT8NEJU9j5VuFC4Qk5RDA2/s700/CURIOSITY%20CHANNEL.png",CURIOSITY
 https://cdn08jtedge.indihometv.com/dassdvr/194/curiosity/manifest.mpd
 
-#EXTINF:-1 group-title="CHANNEL | FIRSTMEDIA"tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyA_Oy7v8xjdoZUQXo2uPWyY0M-tLI_N4U_sEKoCgqXw3G93kG1EUYl5Y68xtvHIXqbgMQ1K7Td5Cz-D4kZGbcEE1KrJHwo-UmWwkRPgreY8guhSzhbThdALIP-q0Usqj5R4dk37NmpmMnKz_zYNBorQ-2jCudOTlIum7_uGJ3v1yVDqZq428mt_d7gN5N/s700/DISCOVERY%20ASIA.png",DISCOVERY ASIA
-https://cdn08jtedge.indihometv.com/dassdvr/194/discoveryasia/manifest.mpd
 
 #EXTINF:-1 group-title="CHANNEL | FIRSTMEDIA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgG_SE1ckoBcieOqXK-c0vcAYdtRnImtbjd0a2ULFsrIz5Zpa624mM2A7TgXPYHaF3oCVW53FwOTOqrK1gjAYUDA7wOWgFufVZ39nBhnX5ReRulWRPGvh8zjy0b1tkq_-WeKVJkgcnGsThYtRcwipLA7VGNZK27hoRU9WtBjAbEzq4N-25goGmLFLds7pIC/s700/IMC.png",IMC
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -11963,8 +11968,6 @@ https://cdn09jtedge.indihometv.com/joss/133/sone/index.m3u8
 https://cdn08jtedge.indihometv.com/dassdvr/133/sgem/manifest.mpd
 https://cdn09jtedge.indihometv.com/joss/133/sgem/index.m3u8?c
 
-#EXTINF:-1 group-title="CHANNEL | FIRSTMEDIA"tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjI6L_cbGTTZwb3DVTIcCJRHGDp70zflqThSpDpRbAt9IHD99JP59Q0xOr2X-4X0hUUzJivjvT5XW8uSlb8ZDUpHJI-BCCLVZtwpu01JKAoHbG9A3pRSM60bETCqD9IZJOEKGOlZgSdWp5HcesKu0zjZgiQX5MUQ-VmvhfjlU8L4WYpsX_2gbCAGS1kYMyz/s700/DISCOVERY%20CHANNEL.png",DISCOVERY
-https://cdn09jtedge.indihometv.com/joss/133/disco/index.m3u8
 
 #EXTINF:-1 group-title="CHANNEL | FIRSTMEDIA"tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwxtTwvtq8XFmSeWQruakAQJAzJEWPcW-WnEo8fBuQoZH1lu5TQOkFzdy7SVeT36i323GIedrvyBwrY2bD07wfMQXQlr0o5TeaPeZx9Zwe7OVwLlS4un-a1AQrN9XapYigEiGKxuL2my-0CDD2VSuIin06a6QarUFj1n3yhEhmZ6H7EueJjZrUO7T5a_vM/s700/TECHSTROM.png",TECHSTORM
 
@@ -11982,11 +11985,6 @@ https://cdn09jtedge.indihometv.com/joss/133/crimeinvestigation/index.m3u8?c
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/133/afc/manifest.mpd 
 
-#EXTINF:-1 group-title="CHANNEL | FIRSTMEDIA"tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlu26q_0sQjovwgtvB-ysYr8PVRRovLqPYwfc9zlyRRIWEDmSwcC8XqpICkkk-b5I1nKKYpqfBfUjks-NMR8Ux_fzTzJFCm8YJHRX79wUKqr0uJcOE1LOpyL4HhNIft9kye0zTItUHGBusCW3kXDtW8w6gV5NLwEFxNjKieOMRfR7jQPPRGiKzqQc8elPZ/s700/HGTV.png",HGTV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d0c607f0958a4d85bb7b2be81e9ef278:9a04f07998404286ab92e65be0885f95
-https://cdn08jtedge.indihometv.com/dassdvr/133/hgtv/manifest.mpd
-https://cdn09jtedge.indihometv.com/joss/133/hg/index.m3u8?c
 
 #EXTINF:-1 group-title="CHANNEL | FIRSTMEDIA"tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhILF_VClQj6KoU-8O74Bbyz_j6zmaKm7z3j3qQg32qIBVaHtg7W_Mu4L4vZPVJTl4RjJIdl_oC7FRKzGnIqIPj0zW7sjrkP7lJcouUxciy8SeGjFiEfa0oAPXgk5c9SgIjIN0LC8JLlKZwEzkCT5qG3bQMg637wSivX7qgahdtryuzGHhyUXulL6dt3JEH/s700/EAT%20&%20GO.png",EAT&GO
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -12027,12 +12025,7 @@ https://cdn08jtedge.indihometv.com/joss/130/ikonser720/manifest.mpd
 
 #EXTINF:-1 group-title="CHANNEL | FIRSTMEDIA"tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9s3xa8J0VT-eWp644XV4gDQR0PQyMHaWvp1jTp9E2m9a6jcHAN3aIfkpfDmUeOOeVXIcGMUZWYBt6boOSLCwZtDgXdhGIdi02K5QIT-wleZYsucdCjRNxKV76n4jLT7CTOQLitUTUc6ks_OiJ6r787UyabloODmtFOs9dAtmk1leKJPNTTOGzwV_LItx8/s700/LIFETIME.png",LIFETIME
 https://cdn08jtedge.indihometv.com/dassdvr/134/lifetime/manifest.mpd
-
-#EXTINF:-1 group-title="CHANNEL | FIRSTMEDIA"tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTc8YoiAWFekl1_L6NgBjtLzF1zCOGAEo8KqB1KDcnA93o40HH5pkYJKbRHlNXnd1D-_ehN7gNII2irpMu9XiOP_ey_TBns6GRFaSpLn8bjFULIHX5kjUv0KHf1I0-rcR1a55wCLdt9k-LYlJUtarDQcmTzjFj1PdHvRIPqNgtcaaCnCdQQpMf5R0Z8p2n/s700/TLC%20HD.png",TLC
-https://cdn09jtedge.indihometv.com/joss/133/tlc/index.m3u8
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cdn08jtedge.indihometv.com/dassdvr/133/tlc/manifest.mpd 
+ 
 
 
 
@@ -12359,6 +12352,20 @@ https://gooo.blog/opix/genx.m3u8?id=kartoon&cyev=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png",CHANNEL | KNOWLEDGE
 
 
+#EXTVLCOPT:http-referrer=https://www.firstmedia.com
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=00cff33589a6468eb98e4db7aad46ca0:53bb2de4f3a4ed84661e4fc527a1fc09
+#EXTINF:-1 tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/astro.xml" tvg-id="DiscoveryChannel" tvg-logo="https://w7.pngwing.com/pngs/482/735/png-transparent-discovery-channel-television-channel-logo-television-show-others-television-globe-logo.png" group-title="CHANNEL | KNOWLEDGE",Discovery Channel 
+https://atemecdnbalancer-voe.sysln.id/live/eds/DiscoveryHD/mediampd/DiscoveryHD.mpd
+
+#EXTVLCOPT:http-referrer=https://www.firstmedia.com
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=27c8a08eabcd4bbc88eda3690cbf6aaf:bb078e32f6df14ca97bff5b8aee8caf5
+#EXTINF:-1 tvg-id="DiscoveryAsia" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/astro.xml" tvg-logo="https://images.indihometv.com/assets/DISCOVERYASIA-OTT-135-BW.png" group-title="CHANNEL | KNOWLEDGE",Discovery Asia 
+https://atemeshield1-voe.sysln.id/live/eds/DiscoveryAsiaHD/mediampd/DiscoveryAsiaHD.mpd
+
 #EXTINF:-1 tvg-id="Discovery Channel.co" tvg-logo="https://mimipipi22.github.io/logo/knowledge/discovery.jpg" group-title="CHANNEL | KNOWLEDGE",DISCOVERY 
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://clarovideo.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -12522,7 +12529,12 @@ https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="CHANNEL | KNOWLEDGE" tvg-logo="https://i.pinimg.com/736x/2a/f4/2d/2af42d69f5c404e6b15307603480209f.jpg",Freedom tv
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/uatv.stream/tracks-v1a1/mono.m3u8
 
-
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=abac9e0bf2b448f8871145829c68a7fd:eebd1a86367df6c2c4aad70b7a6165a9
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1 tvg-id="TLC.id" tvg-name="TLC.id" tvg-logo="https://mimipipi22.github.io/logo/lifestyle/tlc.jpg" group-title="CHANNEL | LIFESTYLE",TLC
+https://atemecdnbalancer-voe.sysln.id/live/eds/TLCHD/mpd/TLCHD.mpd
+http://203.77.246.58:4500/udp/239.1.5.22:5000
 
 //========================================================================
 //Collected by @mimipipi22 menampilkan playlist >>> LIFESTYLE
@@ -12566,9 +12578,12 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/77d7eac1b90247ac9aa745bd2eb47fa8/ind
 https://fta1-cdn-flr.visionplus.id/out/v1/77d7eac1b90247ac9aa745bd2eb47fa8/index.mpd
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000003/1024.m3u8
 
-
-#EXTINF:-1 tvg-id="hgtv.de" tvg-name="ID: HGTV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/cbfaa9907820b6dbfc30fe48ae8bf3b8.png" group-title="CHANNEL | LIFESTYLE",ID: HGTV HD
-http://filex.me:8080//live/Qasim1990/1990qasim/302252.ts
+#EXTVLCOPT:http-referrer=https://www.firstmedia.com
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4d3d70298a8f442f9dee7c11a47c3edf:ff7a89f008a62664e5ebd821187296d1
+#EXTINF:-1 tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/astro.xml" tvg-id="HGTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/HGTV_logo.png" group-title="CHANNEL | LIFESTYLE",HGTV 
+https://atemecdnbalancer-voe.sysln.id/live/eds/HGTVHD/mediampd/HGTVHD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6dc31ac1031242a8b0c37286acb66a37:648286167b494bf9ee122eced0e37de1
@@ -15227,3 +15242,57 @@ https://gooo.blog/opix/genx.m3u8?id=cetv1&cyev=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1N
 
 
 
+
+
+
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png",CHANNEL | INDONESIA DIGITAL
+
+#EXTINF:0 tvg-country="CN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4J6kj0AHhelM5xftO6Plrd5YYe8UHdgkRfQ&s"&s" group-title="CHANNEL | INDONESIA DIGITAL",SCTV HD
+http://103.170.33.11:9981/stream/channelid/177596259?profile=pass
+
+#EXTINF:0 tvg-country="CN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4J6kj0AHhelM5xftO6Plrd5YYe8UHdgkRfQ&s"&s" group-title="CHANNEL | INDONESIA DIGITAL",INDOSIAR HD
+http://103.170.33.11:9981/stream/channelid/1003734703?profile=pass
+
+#EXTINF:0 tvg-country="CN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4J6kj0AHhelM5xftO6Plrd5YYe8UHdgkRfQ&s"&s" group-title="CHANNEL | INDONESIA DIGITAL",TRANS TV HD
+http://103.170.33.11:9981/stream/channelid/479667605?profile=pass
+
+#EXTINF:0 tvg-country="CN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4J6kj0AHhelM5xftO6Plrd5YYe8UHdgkRfQ&s"&s" group-title="CHANNEL | INDONESIA DIGITAL",TRANS 7 HD
+http://103.170.33.11:9981/stream/channelid/602743647?profile=pass
+
+#EXTINF:0 tvg-country="CN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4J6kj0AHhelM5xftO6Plrd5YYe8UHdgkRfQ&s"&s" group-title="CHANNEL | INDONESIA DIGITAL",MOJI HD
+http://103.170.33.11:9981/stream/channelid/1896622786?profile=pass
+
+#EXTINF:0 tvg-country="CN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4J6kj0AHhelM5xftO6Plrd5YYe8UHdgkRfQ&s"&s" group-title="CHANNEL | INDONESIA DIGITAL",MENTARI HD
+http://103.170.33.11:9981/stream/channelid/517879230?profile=pass
+
+#EXTINF:0 tvg-country="CN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4J6kj0AHhelM5xftO6Plrd5YYe8UHdgkRfQ&s" group-title="CHANNEL | INDONESIA DIGITAL",ANTV HD
+http://103.170.33.11:9981/stream/channelid/580266225?profile=pass
+
+#EXTINF:0 tvg-country="CN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4J6kj0AHhelM5xftO6Plrd5YYe8UHdgkRfQ&s" group-title="CHANNEL | INDONESIA DIGITAL",TVONE HD
+http://103.170.33.11:9981/stream/channelid/1752496345?profile=pass
+          
+#EXTINF:0 tvg-country="CN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4J6kj0AHhelM5xftO6Plrd5YYe8UHdgkRfQ&s" group-title="CHANNEL | INDONESIA DIGITAL",VTV HD
+http://103.170.33.11:9981/stream/channelid/548841127?profile=pass
+
+#EXTINF:0 tvg-country="CN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4J6kj0AHhelM5xftO6Plrd5YYe8UHdgkRfQ&s" group-title="CHANNEL | INDONESIA DIGITAL",RTV HD
+http://103.170.33.11:9981/stream/channelid/97833158?profile=pas
+#EXTINF:0 tvg-country="CN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4J6kj0AHhelM5xftO6Plrd5YYe8UHdgkRfQ&s" group-title="CHANNEL | INDONESIA DIGITAL",METRO TV HD
+http://103.170.33.11:9981/stream/channelid/1929327430?profile=pass
+
+#EXTINF:0 tvg-country="CN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4J6kj0AHhelM5xftO6Plrd5YYe8UHdgkRfQ&s" group-title="CHANNEL | INDONESIA DIGITAL",GARUDA TV
+http://103.170.33.11:9981/stream/channelid/745960124?profile=pass
+
+#EXTINF:0 tvg-country="CN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4J6kj0AHhelM5xftO6Plrd5YYe8UHdgkRfQ&s" group-title="CHANNEL | INDONESIA DIGITAL",NUSANTARA TV
+http://103.170.33.11:9981/stream/channelid/133753?profile=pass
+
+#EXTINF:0 tvg-country="CN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4J6kj0AHhelM5xftO6Plrd5YYe8UHdgkRfQ&s" group-title="CHANNEL | INDONESIA DIGITAL",BN CHANNEL - MDTV
+http://103.170.33.11:9981/stream/channelid/1414401938?profile=pass
+
+#EXTINF:0 tvg-country="CN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4J6kj0AHhelM5xftO6Plrd5YYe8UHdgkRfQ&s" group-title="CHANNEL | INDONESIA DIGITAL",CIPTA TV
+http://103.170.33.11:9981/stream/channelid/1723433589?profile=pass
+
+#EXTINF:0 tvg-country="CN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4J6kj0AHhelM5xftO6Plrd5YYe8UHdgkRfQ&s" group-title="CHANNEL | INDONESIA DIGITAL",RADIO TVRI 2 TEST
+http://103.170.33.11:9981/stream/channelid/248989283?profile=pass
+
+#EXTINF:0 tvg-country="CN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4J6kj0AHhelM5xftO6Plrd5YYe8UHdgkRfQ&s" group-title="CHANNEL | INDONESIA DIGITAL",RADIO TVRI 1 TEST
+http://103.170.33.11:9981/stream/channelid/2028064150?profile=pass
