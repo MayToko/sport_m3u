@@ -7414,12 +7414,18 @@ http://khano.nng.cloudns.us/live/m3u8/id/1375b51bb1b2c31.m3u8
 #EXTINF:-1 tvg-id="ChannelJowo.id" tvg-name="Channel Jowo" tvg-logo="https://warningfm.github.io/v3/img/JxtgBmg.png?v=1.0.0.1" group-title="CHANNEL | DAERAH", Channel Jowo
 http://khano.nng.cloudns.us/live/m3u8/id/1de333734b1b7e0.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=eb7c09e964e89e668266ea31f2710ffa:0a9832e32206fff46674b8210c9b6897
-#EXTINF:-1 tvg-id="DAAITV.id" tvg-name="DAAI TV" tvg-logo="https://iili.io/JMp3WNV.png" group-title="CHANNEL | DAERAH", DAAITV
-https://dsgtq5sngxkde.cloudfront.net/live/eds/DAAITV/sa_dash/DAAITV.mpd|Referer=https://www.visionplus.id/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-https://pull.daaiplus.com/live-DAAIPLUS/live-DAAIPLUS_HD.m3u8
-http://khano.nng.cloudns.us/live/m3u8/id/0525ed2747e3161.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.vidio.com&referer=https://www.vidio.com/&user-agent=Vidio/6.43.9-8ec34856ef (Linux;Android 11) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=6482&type=drm
+#EXTINF:-1 tvg-id="DAAI TV" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://iili.io/JMp3WNV.png" group-title="CHANNEL | DAERAH",DAAI TV 
+https://nextgenz.my.id/event/pidio/play.mpd?id=6482&type=dash
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
 #EXTINF:-1 tvg-id="dutaTV" tvg-name="duta TV" tvg-logo="https://iili.io/JbtoJyl.png" group-title="CHANNEL | DAERAH", Duta TV
@@ -8175,6 +8181,36 @@ SINGAPURA
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png",CHANNEL | SINGAPORE
 
 
+#EXTINF:-1 tvg-id="Ch 5" tvg-name="Channel 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Mediacorp_Channel_5_2023.svg/960px-Mediacorp_Channel_5_2023.svg.png" group-title="Mediacorp group-title="CHANNEL | SINGAPORE"", Channel 5 
+http://cdn6.163189.xyz/163189/ch5
+
+#EXTINF:-1 tvg-id="Ch 8" tvg-name="Channel 8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Mediacorp_Channel_8_2023.svg/960px-Mediacorp_Channel_8_2023.svg.png" group-title="Mediacorp group-title="CHANNEL | SINGAPORE"", Channel 8 
+http://cdn6.163189.xyz/163189/ch8
+
+#EXTINF:-1 tvg-id="Ch 8" tvg-name="Channel U" tvg-logo="https://dam.mediacorp.sg/image/upload/v1/mediacorp/corporate/image/2025/05/13/channel_u_horizontal_rgb.png" group-title="Mediacorp group-title="CHANNEL | SINGAPORE"", Channel U
+http://cdn6.163189.xyz/163189/chu
+
+#EXTINF:-1 group-title="Mediacorp group-title="CHANNEL | SINGAPORE"" tvg-id="CNA" tvg-name="CNA" tvg-logo="https://pictr.com/images/2023/04/18/Enl0AP.png", CNA HD
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=4ee336861eed4840a555788dc54aea6e:f1f53644d4941d4ed31b4bb2478f8cf4
+#EXTINF:-1 tvg-id="CNA" tvg-url="https://bit.ly/group-title="CHANNEL | SINGAPORE"Epg" tvg-name="" tvg-logo="https://cms.cignal.tv/Upload/Images/CNA%20LOGO%20-horizontal%20-%20on%20light%20background.png" group-title="Mediacorp group-title="CHANNEL | SINGAPORE"",Channel News Asia
+https://tglmp03.akamaized.net/out/v1/43856347987b4da3890360b0d18b5dc5/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=612eb711dfb444f7a194c5e20d7f7048:b6226449b9ed5066542e6d6ad5ecb346
+#EXTINF:-1 tvg-id="" tvg-name="oktolidays" tvg-logo="https://i.imgur.com/Dt0kA7e.png" group-title="Mediacorp group-title="CHANNEL | SINGAPORE"",Oktolidays
+https://tglmp03.akamaized.net/out/v1/be732843b7d24bada23e13810282e55f/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Mediacorp_flat_logo_%282015%29.svg/640px-Mediacorp_flat_logo_%282015%29.svg.png" group-title="Mediacorp group-title="CHANNEL | SINGAPORE"",Mediacorp Entertainment English
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mediacorp-entertainment-english/manifest.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Mediacorp_flat_logo_%282015%29.svg/640px-Mediacorp_flat_logo_%282015%29.svg.png" group-title="Mediacorp group-title="CHANNEL | SINGAPORE"",Mediacorp Entertainment Tamil
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mediacorp-entertainment-tamil/manifest.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Mediacorp_flat_logo_%282015%29.svg/640px-Mediacorp_flat_logo_%282015%29.svg.png" group-title="Mediacorp group-title="CHANNEL | SINGAPORE"",Mediacorp Entertainment China
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mediacorp-entertainment-chinese/manifest.m3u8
 
 
 
@@ -10279,6 +10315,14 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 //========================================================================
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png",LIVE | BADMINTON
 
+
+#EXTINF:-1 tvg-id="TVRISport" tvg-name="TVRISport" group-title="LIVE | BADMINTON" tvg-logo="https://assets.iptvsystem.my.id/img/tvri_sport.png",TVRI Sport live 1
+#EXTVLCOPT:http-user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
+
+#EXTINF:-1 tvg-id="TVRISport" tvg-name="TVRISport" group-title="LIVE | BADMINTON" tvg-logo="https://assets.iptvsystem.my.id/img/tvri_sport.png",TVRI Sport live 2
+http://tv.casindo.org/hls/49/49.m3u8
+
 #EXTINF:-1 tvg-id="Sportstars 2 HD - [Channel 422].id" tvg-name="Sportstars 2 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqxSEcXLBbVpClZ0f2nQFpDgYDJMtiRgSBGE3pSaZYQRfTvKf-2XR1Z7Dg6Q&s" group-title="LIVE | BADMINTON", COURT 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 https://bintangstreaming.my.id/connect/index.m3u8?channel=bulu1&type=m3u8
@@ -10919,16 +10963,6 @@ https://cdn10jtedge.indihometv.com/atm/DASH/antara/manifest.mpd
 #EXTINF:-1 group-title="CHANNEL | INDIHOME"" tvg-logo="https://images.indihometv.com/assets/88_BALI-TV_2025_03_17_15_01_03.png",Bali TV
 https://cdn10jtedge.indihometv.com/atm/DASH/balitv/manifest.mpd
 
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="CHANNEL | INDIHOME"" tvg-logo="https://images.indihometv.com/assets/88_DAAITV_2025_03_17_15_28_44.png",DAAI TV
-https://cdn08jtedge.indihometv.com/dassdvr/134/daaitv/manifest_w876543528_qRFZS.mpd?encp=&uid=&expp=
-https://cdn08jtedge.indihometv.com/dassdvr/134/daaitv/manifest.mpd
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -11103,17 +11137,6 @@ https://cdn10jtedge.indihometv.com/atm/DASH/axn/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=64756e69616c61696e30303030303030:d742218958e10ca989be6a63f2db9b6d
 #EXTINF:-1 group-title="CHANNEL | INDIHOME" tvg-logo="https://images.indihometv.com/assets/88_DUNIALAIN_2025_03_17_14_57_31.png",Dunia Lain
 https://cdn08jtedge.indihometv.com/dassdvr/130/dunialain/manifest.mpd
-
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="CHANNEL | INDIHOME" tvg-logo="https://images.indihometv.com/assets/88_HITSNOW_2025_03_17_15_25_11.png",HITS Now
-https://cdn08jtedge.indihometv.com/dassdvr/134/hitsnow/manifest_w2055134930_qRFZS.mpd?encp=&uid=&expp=
-https://cdn08jtedge.indihometv.com/dassdvr/134/hitsnow/manifest.mpd
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -11681,12 +11704,6 @@ https://cdn10jtedge.indihometv.com/atm/DASH/MQTV_HD/manifest.mpd
 https://cdn10jtedge.indihometv.com/atm/DASH/mtatv/manifest.mpd
 
 
-
-#EXTINF:-1 group-title="CHANNEL | FIRSTMEDIA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzNFRLeuKOMXD5n__qeCdlNWUyGW87aTwhzMxgG7CBF3UlBxcHU_Iqv464V9iEMULHMleQjGsqlQR6uqwNJSH2pw7qrbLkIFpDwj9upQ3AnoQD5fwXfxquBYZJfXJLPd77ZK-Juyw_bFLtNYDHZHAW36podGQflXfCFTDjEhinAgF4s_FHLUmgrCE72BBu/s700/HITS%20NOW.png",HITS NOW
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cdn08jtedge.indihometv.com/dassdvr/134/hitsnow/manifest.mpd
-
 #EXTINF:-1 group-title="CHANNEL | FIRSTMEDIA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhI1fKaOepEpqR_E-56pimzEjBj8vH0Xfa7MDkIphFS9XIxRLDCPAjPX3q87Foy_jPAmFIEl7cze-LmLPivh8Q8oyvp1Bte2c5hOEwUzvQl9LeYS_i7eW5eUeA2ANJdUx918Obpj4bX38gGy-h3VE6J4RIvPNEfoPl_ua0FnVXeFrsUJu9xw2ujMtX4Hokp/s700/MAXSTREAM.jpeg",MAXSTREAM
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
@@ -11734,11 +11751,6 @@ https://cdn08jtedge.indihometv.com/dassdvr/194/cartoonnetwork/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/130/pandatv/manifest.mpd
-
-#EXTINF:-1 group-title="CHANNEL | FIRSTMEDIA"tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZeLn9zrgyV4eICZgu7HVcIdvpwx0Ge_h3EyA4qMe2WDNm1RBvS2okghirooRT9PsD_YgBY57TjFgLtVeKnF1Okq7uefETWh-DoLtUG9AoQqDGIs0TW-C9FjKXXS9nVPM3uPg_u1v75qmGFNHGb1xCpAwlNZ6u9ew1G6V78Q_54QzRHMb2ea4SP8cD_dAE/s700/DAAI%20TV.png",DAAI TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cdn08jtedge.indihometv.com/dassdvr/134/daaitv/manifest.mpd
 
 #EXTINF:-1 group-title="CHANNEL | FIRSTMEDIA"tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfySBAhsmn9UR23UmYoq1gy34zd-LG-TL916KkuIOr0Zg1WARObs5eDpWidxdDJ5LqqTqO_G8bMx4RrVEc_WnDR21E349fdEZm72A865ktF98Fh5649d5h-CUGKhr3KXqvxchNmFsAwyhI8Lg2yeVJ2aUN6CUwyQ-SE9yiSsEY9PkjgAfmxUWTHOjGMSJK/s700/MYKIDZ.png",MY KIDZ
 https://cdn10jtedge.indihometv.com/atm/DASH/mykids/manifest.mpd
@@ -12569,170 +12581,142 @@ http://203.77.246.58:4500/udp/239.1.5.22:5000
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png",CHANNEL | LIFESTYLE
 
 
-#EXTINF:-1 tvg-id="foodnetwork.bg" tvg-name="ID: Asian FOOD Network HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/125d62efd4ca9cc3e87364fa41cf6536.png" group-title="CHANNEL | LIFESTYLE",ID: AFN Asian FOOD Network HD
-http://filex.me:8080//live/Qasim1990/1990qasim/302207.ts
+#EXTINF:-1 tvg-id="Warner TV" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" group-title="CHANNEL | LIFESTYLE" tvg-logo="https://images.indihometv.com/assets/88_WARNER_2025_03_17_15_11_51.png",Warner TV
+https://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/warner/manifest.mpd
 
-#EXTINF:-1 tvg-id="cookingch.mv" tvg-name="Cooking Channel" tvg-logo="https://8upload.com/image/67e214aa34695/cookinghilay.png" group-title="CHANNEL | LIFESTYLE",Cooking Channel
-https://maldivesn.net/hilaytv/cookingch
-
-#EXTINF:-1 tvg-id="travelch.mv" tvg-name="Travel Channel" tvg-logo="https://8upload.com/image/67e211ecb66e8/travelhilay.png" group-title="CHANNEL | LIFESTYLE",Travel Channel
-https://maldivesn.net/hilaytv/travelchannel
-
-#EXTINF:-1 tvg-id="TravelXP4k.mv" tvg-name="Travel XP" tvg-logo="https://8upload.com/image/6857bb65966ba/travelxphilay.png" group-title="CHANNEL | LIFESTYLE",Travel XP
-https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
-https://maldivesn.net/hilaytv/travelxp
-
-#EXTINF:-1 tvg-id="MuseumTVF.mv" tvg-name="Travel & Lifestyle TV" tvg-logo="https://8upload.com/image/6857c3105b1a3/travelandlifestyletvhilay.png" group-title="CHANNEL | LIFESTYLE",Travel & Lifestyle TV
-https://maldivesn.net/hilaytv/travelandlifestyle
-
-#EXTINF:-1 tvg-id="myzen.mv" tvg-name="MyZen TV" tvg-logo="https://8upload.com/image/67dfddd2bddff/myzen.png" group-title="CHANNEL | LIFESTYLE",MyZen TV
-https://maldivesn.net/hilaytv/myzen4k
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=87ca873142174f2bbdcfadd878422c77:bb51816f7407f68830dcdc215416f385
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTINF:-1 tvg-id="GlobalTrekker.id" tvg-name="Global Trekker" tvg-logo="https://mimipipi22.github.io/logo/lifestyle/globaltrekker.jpg" group-title="CHANNEL | LIFESTYLE",GLOBAL TREKKER
-https://atemecdnbalancer-voe.sysln.id/live/eds/GlobalTrekkerHD/mpd/GlobalTrekkerHD.mpd
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000132/1024.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c263b43be6b94fb682b1d701e0aaf847:83491ecbe2968e91ed563ce2c41428dc
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="FoodTravel.id" tvg-name="Food Travel" tvg-logo="https://mimipipi22.github.io/logo/lifestyle/foodtravel.jpg" group-title="CHANNEL | LIFESTYLE",FOOD TRAVEL
-https://d84q7nw4qf3j3.cloudfront.net/out/v1/77d7eac1b90247ac9aa745bd2eb47fa8/index.mpd
-https://fta1-cdn-flr.visionplus.id/out/v1/77d7eac1b90247ac9aa745bd2eb47fa8/index.mpd
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000003/1024.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.indihometv.com
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.indihometv.com
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=Connection=keep-alive
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0
+#EXTINF:-1 tvg-id="Warner TV" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" group-title="CHANNEL | LIFESTYLE" tvg-logo="https://images.indihometv.com/assets/88_WARNER_2025_03_17_15_11_51.png",Warner TV
+https://cdn10jtedge.indihometv.com/atm/DASH/warner/manifest.mpd
 
 #EXTVLCOPT:http-referrer=https://www.firstmedia.com
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4d3d70298a8f442f9dee7c11a47c3edf:ff7a89f008a62664e5ebd821187296d1
-#EXTINF:-1 tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/astro.xml" tvg-id="HGTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/HGTV_logo.png" group-title="CHANNEL | LIFESTYLE",HGTV 
-https://atemecdnbalancer-voe.sysln.id/live/eds/HGTVHD/mediampd/HGTVHD.mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=99e736f170b148ffb16d0ad6c8f93ef4:d1b4737ab41f0daae733f11a4b84fa02
+#EXTINF:-1 tvg-id="ROCKAction.id" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://i.imgur.com/l6lmlqG.png" group-title="CHANNEL | LIFESTYLE",Rock Action 
+https://atemecdnbalancer-voe.sysln.id/live/eds/RockExtremeHD/mediampd/RockExtremeHD.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d4126f7fd6134adfbedb3a0daefd7657:920f1adcca60069c887da7f1d225607d
+#EXTINF:-1 tvg-id="ROCKAction.id" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://i.imgur.com/l6lmlqG.png" group-title="CHANNEL | LIFESTYLE",Rock Action (V+)
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/010bb28c19b64975b318d3b00f58b18b/index.mpd
+
+#EXTVLCOPT:http-referrer=https://www.firstmedia.com
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=5468e719846d4dd4adc59e85312375e8:98566155c257462809a8705f5efd7819
+#EXTINF:-1 tvg-id="ROCKEntertainment.id" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Rock_Entertainment.png" group-title="CHANNEL | LIFESTYLE",Rock Entertainment 
+https://atemecdnbalancer-voe.sysln.id/live/eds/RockEntertainmentHD/mediampd/RockEntertainmentHD.mpd
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a44cd51b688a458d97f534c286e58243:d62302543075463e472e23d7e947f10b
+#EXTINF:-1 tvg-id="ROCKEntertainment.id" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Rock_Entertainment.png" group-title="CHANNEL | LIFESTYLE",Rock Entertainment (V+)
+https://d2tjypxxy769fn.cloudfront.net/out/v1/4cae4723d4d54a7fb71020bd7939a202/index.mpd
+
+#EXTVLCOPT:http-referrer=https://www.firstmedia.com
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=26bfec0f1cb047d7963f37e1b6401ec0:60e2302b29cb9cabf7e1743fc2f0f059
+#EXTINF:-1 tvg-name="" tvg-id="HITSNow" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml"  tvg-logo="https://cms.cignal.tv/Upload/Images/Hits Now.png" group-title="CHANNEL | LIFESTYLE",Hits Now 
+https://atemeshield1-voe.sysln.id/live/eds/HITSNowHD/mediampd/HITSNowHD.mpd
+
+#EXTVLCOPT:http-referrer=https://www.firstmedia.com
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=367f9bf4d0684f109d74a9eeb68d32be:59983c58c1b0daa1dcc370f697ccaead
+#EXTINF:-1 tvg-id="AFN (HD).sg" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Asian_Food_Network.svg/640px-Asian_Food_Network.svg.png" group-title="CHANNEL | LIFESTYLE",Asian Food Network 
+https://atemecdnbalancer-voe.sysln.id/live/eds/AFNHD/mediampd/AFNHD.mpd
+
+#EXTVLCOPT:http-referrer=https://www.firstmedia.com
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6dc31ac1031242a8b0c37286acb66a37:648286167b494bf9ee122eced0e37de1
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTINF:-1 tvg-id="FoodNetwork.id" tvg-name="Food Network" tvg-logo="https://mimipipi22.github.io/logo/lifestyle/foodnetwork.jpg" group-title="CHANNEL | LIFESTYLE",FOOD NETWORK
-https://atemecdnbalancer-voe.sysln.id/live/eds/FoodNetworkHD/mpd/FoodNetworkHD.mpd
+#EXTINF:-1 tvg-id="Food Network (HD).sg" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://logos-world.net/wp-content/uploads/2023/05/Food-Network-Logo-2003.png" group-title="CHANNEL | LIFESTYLE",Food Network 
+https://atemecdnbalancer-voe.sysln.id/live/eds/FoodNetworkHD/mediampd/FoodNetworkHD.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-referrer=https://www.firstmedia.com
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=abac9e0bf2b448f8871145829c68a7fd:eebd1a86367df6c2c4aad70b7a6165a9
+#EXTINF:-1 tvg-id="TLC" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" group-title="CHANNEL | LIFESTYLE" tvg-name="" tvg-country="ID" tvg-logo="https://brandslogos.com/wp-content/uploads/images/large/tlc-logo.png", TLC HD 
+https://atemecdnbalancer-voe.sysln.id/live/eds/TLCHD/mediampd/TLCHD.mpd
+
+#EXTVLCOPT:http-referrer=https://www.firstmedia.com
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTINF:-1 tvg-id="TLC.id" tvg-name="TLC.id" tvg-logo="https://mimipipi22.github.io/logo/lifestyle/tlc.jpg" group-title="CHANNEL | LIFESTYLE",TLC
-https://atemecdnbalancer-voe.sysln.id/live/eds/TLCHD/mpd/TLCHD.mpd
-http://203.77.246.58:4500/udp/239.1.5.22:5000
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=2c8ff6307bf94b408b9759d7cdb6e95e:50fede3d058915c8ddaa43721d52ec69
+#EXTINF:-1 tvg-id="Lifetime.id" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://1000logos.net/wp-content/uploads/2025/07/Lifetime-Logo.png" group-title="CHANNEL | LIFESTYLE",Lifetime 
+https://atemecdnbalancer-voe.sysln.id/live/eds/LifetimeHD/mediampd/LifetimeHD.mpd
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/lifestyle/bbclifestyle.jpg" group-title="CHANNEL | LIFESTYLE",BBC LIFESTYLE
-#https://tv.ddns.vn/tv/bbclifestyle/index.m3u8
-#http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/bbclifestyle_twn/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://www.firstmedia.com
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=fbbccb9d1f9e402293b23dcf62322d83:63d828f9c104b74c1188a651ba39c812
+#EXTINF:-1 group-title="CHANNEL | LIFESTYLE" tvg-id="ABC Australia - [Channel 350].id" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://i.imgur.com/kHM0jUd.png" ,ABC Australia 
+https://atemecdnbalancer-voe.sysln.id/live/eds/ABC_Australia/mediampd/ABC_Australia.mpd
 
-#EXTINF:-1 tvg-id="Kaloopy TV" tvg-name="Kaloopy TV" tvg-logo="https://mimipipi22.github.io/logo/lifestyle/kaloopy.jpg" group-title="CHANNEL | LIFESTYLE",KALOOPY TV
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kaloopy/master.m3u8
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/kaloopy/df2e1f8e-4f47-41b0-bd26-626e8a63caf2/2.m3u8
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=3db925fa5b654910aecb196080722def:b19719a771e0f8647216f5bb94da2734
+#EXTINF:-1 group-title="CHANNEL | LIFESTYLE" tvg-id="ABC Australia" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://i.imgur.com/kHM0jUd.png" ,ABC Australia (V+)
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/6c075b570f99473fa6715bb399bc9571/index.mpd
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=http://www.biznetvideo.net/
-#EXTVLCOPT:http-origin=http://www.biznetvideo.net
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/lifestyle/biznetlifestyle.jpg" group-title="CHANNEL | LIFESTYLE",BIZNET LIFESTYLE
-http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/manifest.mpd?bizkeylivestarttime=0&bizkeyliveendtime=0&bizkeyliveCustomParameter=myParameter&bizkeylivehash=ZGw2r-CvzSlCW2-mTyu97hp8bHZXc9LY43O5moeKhLM1ppWpWrh6ZoIHFlbN75DU
+#EXTVLCOPT:http-referrer=https://www.firstmedia.com
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b02e6c916cc9453fa23a6a71da29fbff:5459f15c2c1190d95fe4976ec69ae875
+#EXTINF:-1 group-title="CHANNEL | LIFESTYLE" tvg-id="ABC Australia" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://i.imgur.com/kHM0jUd.png" ,ABC Australia 
+https://atemeshield1-voe.sysln.id/live/eds/RaiItalia/mediampd/RaiItalia.mpd
 
-#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-referrer=http://dens.tv/
-#EXTINF:-1 tvg-id="Dens Life & Style" tvg-name="Dens Life & Style" tvg-logo="https://mimipipi22.github.io/logo/lifestyle/denslifestyle.jpg" group-title="CHANNEL | LIFESTYLE",DENS LIFESTYLE
-https://op-group1-swiftservehd-1.dens.tv/h/h222/index.m3u8?app_type=web&userid=lite&chname=DensLifenStyle
-
-#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-referrer=http://dens.tv/
-#EXTINF:-1 tvg-id="Dens Life & Style" tvg-name="Dens Life & Style" tvg-logo="https://mimipipi22.github.io/logo/lifestyle/densplay.jpg" group-title="CHANNEL | LIFESTYLE",DENS PLAY
-https://op-group1-densxvisionhd-1.dens.tv/h/h225/index.m3u8
-https://op-group1-swiftservehd-1.dens.tv/h/h246/index.m3u8?app_type=web&userid=lite&chname=DensPlay
-
-#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-referrer=http://dens.tv/
-#EXTINF:-1 tvg-id="DENS Food Channel.id" tvg-name="DENS Food Channel.id" tvg-logo="https://mimipipi22.github.io/logo/lifestyle/densfood.jpg" group-title="CHANNEL | LIFESTYLE",DENSFOOD CHANNEL
-https://op-group1-densxvisionhd-1.dens.tv/h/h248/index.m3u8
-https://op-group1-swiftservehd-1.dens.tv/h/h221/index.m3u8?app_type=web&userid=lite&chname=DensFood_Channel
-
-#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-referrer=http://dens.tv/
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/lifestyle/crematv.jpg" group-title="CHANNEL | LIFESTYLE",CREMA TV
-https://op-group1-swiftservehd-1.dens.tv/h/h202/index.m3u8?app_type=web&userid=lite&chname=Crema_TV
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/sultantvnew2.php
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
-#EXTINF:-1 tvg-id="Eat N Go" tvg-name="Eat N Go" tvg-logo="https://mimipipi22.github.io/logo/lifestyle/eatngo.jpg" group-title="CHANNEL | LIFESTYLE",EAT N GO
-https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856fd0d66d0170342015d30907/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/sultantvnew2.php
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
-#EXTINF:-1 tvg-id="Travel TV" tvg-name="Travel TV" tvg-logo="https://mimipipi22.github.io/logo/lifestyle/traveltv.jpg" group-title="CHANNEL | LIFESTYLE",TRAVEL TV
-https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6857fe540a1018060aab83c40b9/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-referrer=https://www.firstmedia.com
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c45d2c72ab7e41f7b368a3a09dacfd08:72d5dd7b3d92a23d81317a04ac25271a
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTINF:-1 tvg-id="FirstLifestyleHD" tvg-name="First Lifestyle HD" tvg-logo="https://mimipipi22.github.io/logo/lifestyle/firstlifestyle.jpg" group-title="CHANNEL | LIFESTYLE",FIRST LIFESTYLE
-https://atemecdnbalancer-voe.sysln.id/live/eds/FirstLifestyleHD/mpd/FirstLifestyleHD.mpd
+#EXTINF:-1 tvg-id="" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://download.logo.wine/logo/First_Media_(Indonesian_TV_channel)/First_Media_(Indonesian_TV_channel)-Logo.wine.png" group-title="CHANNEL | LIFESTYLE",First Lifestyle 
+https://atemecdnbalancer-voe.sysln.id/live/eds/FirstLifestyleHD/mediampd/FirstLifestyleHD.mpd
 
-#EXTINF:-1 tvg-id="TV5 Monde Style" tvg-name="TV5 Monde Style" tvg-logo="https://mimipipi22.github.io/logo/lifestyle/tv5mondestyle.jpg" group-title="CHANNEL | LIFESTYLE",TV5 MONDE STYLE
-https://ott.tv5monde.com/Content/HLS/Live/channel(style1)/index.m3u8
-
-#EXTINF:-1 tvg-id="FashionFinds.us" tvg-logo="https://i.pinimg.com/236x/54/4f/58/544f58719296767371e5afeb4ae88dc5.jpg" group-title="CHANNEL | LIFESTYLE",FASHION FIND (HD)
-https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc5us/master.m3u8
-#EXTINF:-1 tvg-id="GlobalFashionChannel.us" tvg-logo="https://i.pinimg.com/236x/ea/04/9d/ea049dcae990cdd72fe81e2703ed79be.jpg" group-title="CHANNEL | LIFESTYLE",GLOBAL FTV (FHD)
-https://pubgfc.teleosmedia.com/linear/globalfashionchannel/globalfashionchannel/playlist.m3u8 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/81/ea/db/81eadb64a96acc5e46766e653cbf71b3.jpg" group-title="CHANNEL | LIFESTYLE", FASHION MS TV
-https://fash1043.cloudycdn.services/slive/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
-https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b3628000_t64MTA4MHA=.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/cc/13/f5/cc13f5221a65f74a8638eea5e2dcd804.jpg" group-title="CHANNEL | LIFESTYLE",FASH ONE
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://gist.githubusercontent.com/warningfm/59db6482e1faef80b94ef7c31e8ebb5f/raw/f2214f9b0b4826ce22f8ff9e3a043d10df140f16/364bfe25097b976.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BTR9YYG.png?v=1.0.0.1" group-title="CHANNEL | LIFESTYLE", KALOOPY TV
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kaloopy/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/79/4a/00/794a00913c8128cb1f2899f68a240386.jpg" group-title="CHANNEL | LIFESTYLE",TV5 Monde Style
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=application/x-mpegURL
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://op-group1-swiftservehd-1.dens.tv/h/h216/02.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/64/11/88/64118869c2e6221d89d75c7b2a87702b.jpg" group-title="CHANNEL | LIFESTYLE",TLC US
-http://fortv.cc:8080/live/8137358494/otiswilliam916@gmail.com/12734.m3u8
-#https://raw.githubusercontent.com/kusnadipepenk/ntn/master/tlc.m3u8
-#EXTINF:-1 group-title="CHANNEL | LIFESTYLE" tvg-id="densfoodchannel.id" tvg-logo="https://i.pinimg.com/236x/58/27/2d/58272d554f8a9fa6046de8f0b201637e.jpg",DFC
-#EXTVLCOPT:http-referrer=http://www.dens.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-http://op-group1-swiftservehd-1.dens.tv/h/h221/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=DensFood_Channel
+#EXTINF:-1 tvg-id="Dens Food Channel" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://picture.dens.tv/wp/img/whatson_v2/1280x720/Logo%20DFC.png" group-title="CHANNEL | LIFESTYLE",Dens Food Channel (DensTV)
+https://raw.githubusercontent.com/Bluestraveller13/super-duper-spork/refs/heads/main/DensFoodChannel.m3u
 
-##EXTINF:-1 group-title="CHANNEL | LIFESTYLE" tvg-id="densfoodchannel.id" tvg-logo="https://i.pinimg.com/236x/58/27/2d/58272d554f8a9fa6046de8f0b201637e.jpg", FOOD NET
-#EXTINF:-1 group-title="CHANNEL | LIFESTYLE" tvg-id="densfoodchannel.id" tvg-logo="https://i.pinimg.com/236x/58/27/2d/58272d554f8a9fa6046de8f0b201637e.jpg",FOOD CHANNEL
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="Dens ShowBiz" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://e7.pngegg.com/pngimages/893/782/png-clipart-competitive-dance-competition-award-talent-show-award-love-television.png" group-title="CHANNEL | LIFESTYLE",Dens ShowBiz (DENSTV)
+https://op-group1-swiftservehd-1.dens.tv/h/h244/02.m3u8
 
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501284_tvchannels_v1.jpg" group-title="CHANNEL | LIFESTYLE",Dens Life & Style (DensTV)
+https://raw.githubusercontent.com/Bluestraveller13/super-duper-spork/refs/heads/main/DensShowbiz.m3u8
 
-#EXTINF:-1 group-title="CHANNEL | LIFESTYLE" tvg-id="denslifestyle.id" tvg-logo="https://i.pinimg.com/236x/60/86/5c/60865c0fe63d0ba03a2a6fab00a5dccc.jpg",D Life&Style
-#EXTVLCOPT:http-referrer=http://www.dens.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-http://op-group1-swiftservehd-1.dens.tv/h/h222/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=DensLife_n_Style
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/83/ba/0d/83ba0daf4174e05ba3684027b32a5022.jpg" group-title="CHANNEL | LIFESTYLE",CJ OnStyle 
-https://live-ch1.cjonstyle.net/cjmalllive/stream2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/83/ba/0d/83ba0daf4174e05ba3684027b32a5022.jpg" group-title="CHANNEL | LIFESTYLE",CJ OnStyle +
-https://live-ch2.cjonstyle.net/cjosplus/live2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/83/ba/0d/83ba0daf4174e05ba3684027b32a5022.jpg" group-title="CHANNEL | LIFESTYLE", DSTV 
-http://46.249.95.140:8081/hls/data.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/38/dc/c5/38dcc553fb5c7974171db61de84f1bd5.jpg" group-title="CHANNEL | LIFESTYLE",4K TRAVEL TV
-https://streams2.sofast.tv/ptnr-stirr/genre-Travel/lang-English/ctgr-Travel/title-4K-TRAVEL-TV-ENG/sofastplayout/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_HLS/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/83/ba/0d/83ba0daf4174e05ba3684027b32a5022.jpg" group-title="CHANNEL | LIFESTYLE",FASHION WEAR
-https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b3628000_t64MTA4MHA=.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/83/ba/0d/83ba0daf4174e05ba3684027b32a5022.jpg" group-title="CHANNEL | LIFESTYLE",FASHION RUS
-https://cdn.wfc.tv/cdn/stream-rus.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/83/ba/0d/83ba0daf4174e05ba3684027b32a5022.jpg" group-title="CHANNEL | LIFESTYLE",SPORTS STYLE
-http://iptv.prosto.tv:7000/ch109/video.m3u8
+#EXTVLCOPT:http-referrer=https://www.firstmedia.com
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=11d67d0e8b2a455a8358d3d3a23e7529:d5308e3b12a529c959beab1cddacdec4
+#EXTINF:-1 tvg-id="TV5Monde" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml group-title="CHANNEL | LIFESTYLE" tvg-logo="https://w7.pngwing.com/pngs/573/795/png-transparent-france-tv5monde-television-channel-streaming-media-france-television-blue-text.png", TV5 Monde Asie 
+https://atemeshield1-voe.sysln.id/live/eds/TV5Monde/mediampd/TV5Monde.mpd
+
+#EXTVLCOPT:http-referrer=https://www.firstmedia.com
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=16ce4fb658cf41678c72cca871770da3:95509b2ad660b196310e93a0388a8a6b
+#EXTINF:-1 group-title="CHANNEL | LIFESTYLE" tvg-id="FashionTV" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://i.pinimg.com/564x/26/0d/97/260d9789cdda7b9e85099e80f5ca0a2f.jpg",Fashion TV 
+https://atemecdnbalancer-voe.sysln.id/live/eds/FashionTV/mediampd/FashionTV.mpd
 
 
 
@@ -13442,13 +13426,6 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/fd4360b1c12c4375848c8f085fd51d41/in
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwkUWeDK_ePgIPSNJvHTjIuhj5cl41oI-3CkPpcs0Oj3h6wnuCoZzYWB_gSeJ4OYNExDaNDHeiIepNZJl6De9RzxT0mKe9EvcpnGCn1WwZY4JTX_7WS3zi-HlHacDuK1i5im8j_X23iiD9V_rZSRXB9YoYpBHG-SIwTAIZ4eqKAbxnrFdtKdVhkrJ8BWbv/s700/NET.png" group-title="CHANNEL | VISION+",NET
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/6941abe8211d4ce8bd13d9b96bdd1630/index.mpd
-
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b2fdc5d5def7460a8dfb78492b66dd4f:a99645e65ce190e9556dda93be172cd4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZeLn9zrgyV4eICZgu7HVcIdvpwx0Ge_h3EyA4qMe2WDNm1RBvS2okghirooRT9PsD_YgBY57TjFgLtVeKnF1Okq7uefETWh-DoLtUG9AoQqDGIs0TW-C9FjKXXS9nVPM3uPg_u1v75qmGFNHGb1xCpAwlNZ6u9ew1G6V78Q_54QzRHMb2ea4SP8cD_dAE/s700/DAAI%20TV.png" group-title="CHANNEL | VISION+",DAAI TV
-https://d2tjypxxy769fn.cloudfront.net/out/v1/744044c3985142399fbd466f9f3fd8fa/index.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream=inputstream.adaptive
@@ -14458,419 +14435,429 @@ http://103.170.33.11:9981/stream/channelid/2028064150?profile=pass
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png",CHANNEL | INDONESIA VIP
 
 #EXTINF:-1 tvg-id="animalplanet.bg" tvg-name="ID: Animal Planet HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-03/32ae863c9590a45b0a4f899c42c8b465.png" group-title="CHANNEL | INDONESIA VIP",ID: Animal Planet HD
-http://filex.tv:8080//live/sajid@dar/turbo@zong/302203.ts
+http://filex.me:8080//live/Qasim1990/1990qasim/302203.ts
 #EXTINF:-1 tvg-id="animaux.fr" tvg-name="ID: Animax HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ac69997f647a6e4b289ee8a647d0dfbd.png" group-title="CHANNEL | INDONESIA VIP",ID: Animax HD
-http://filex.tv:8080//live/sajid@dar/turbo@zong/302204.ts
+http://filex.me:8080//live/Qasim1990/1990qasim/302204.ts
 #EXTINF:-1 tvg-id="" tvg-name="ID: Aniplus HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/d0f77c4ae23b787f4aab6ed458ece469.png" group-title="CHANNEL | INDONESIA VIP",ID: Aniplus HD
-http://filex.tv:8080//live/sajid@dar/turbo@zong/302205.ts
+http://filex.me:8080//live/Qasim1990/1990qasim/302205.ts
 #EXTINF:-1 tvg-id="ntv.de" tvg-name="ID: ANTV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/baae5840cf8cfd60d1bd93565e00ff59.png" group-title="CHANNEL | INDONESIA VIP",ID: ANTV HD
-http://filex.tv:8080//live/sajid@dar/turbo@zong/302206.ts
+http://filex.me:8080//live/Qasim1990/1990qasim/302206.ts
 #EXTINF:-1 tvg-id="foodnetwork.bg" tvg-name="ID: Asian FOOD Network HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/125d62efd4ca9cc3e87364fa41cf6536.png" group-title="CHANNEL | INDONESIA VIP",ID: Asian FOOD Network HD
-http://filex.tv:8080//live/sajid@dar/turbo@zong/302207.ts
+http://filex.me:8080//live/Qasim1990/1990qasim/302207.ts
 #EXTINF:-1 tvg-id="axn.pl" tvg-name="ID: AXN HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/3c8d63e4a3d5b6c065651caf9a8cde50.png" group-title="CHANNEL | INDONESIA VIP",ID: AXN HD
-http://filex.tv:8080//live/sajid@dar/turbo@zong/302208.ts
+http://filex.me:8080//live/Qasim1990/1990qasim/302208.ts
 #EXTINF:-1 tvg-id="babytv.it" tvg-name="ID: BABY TV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/5e1f1850a8202cc1ef4f60c2a0e8acd3.png" group-title="CHANNEL | INDONESIA VIP",ID: BABY TV HD
-http://filex.tv:8080//live/sajid@dar/turbo@zong/302209.ts
+http://filex.me:8080//live/Qasim1990/1990qasim/302209.ts
 #EXTINF:-1 tvg-id="" tvg-name="ID: Balikpapan TV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-10/2a775aaea195c8c104012a3f1823d059.jpeg" group-title="CHANNEL | INDONESIA VIP",ID: Balikpapan TV HD
-http://filex.tv:8080//live/sajid@dar/turbo@zong/302210.ts
+http://filex.me:8080//live/Qasim1990/1990qasim/302210.ts
 #EXTINF:-1 tvg-id="" tvg-name="ID: Bandung TV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/425c62827170957e85a34b7e7563869c.png" group-title="CHANNEL | INDONESIA VIP",ID: Bandung TV HD
-http://filex.tv:8080//live/sajid@dar/turbo@zong/302211.ts
+http://filex.me:8080//live/Qasim1990/1990qasim/302211.ts
 #EXTINF:-1 tvg-id="bbcearth.no" tvg-name="ID: BBC Earth HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/6f66017709d5d2bd93d4dd0e028a7e80.png" group-title="CHANNEL | INDONESIA VIP",ID: BBC Earth HD
-http://filex.tv:8080//live/sajid@dar/turbo@zong/302212.ts
+http://filex.me:8080//live/Qasim1990/1990qasim/302212.ts
 #EXTINF:-1 tvg-id="bbclifestyle.pl" tvg-name="ID: BBC Lifestyle HD" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="CHANNEL | INDONESIA VIP",ID: BBC Lifestyle HD
-http://filex.tv:8080//live/sajid@dar/turbo@zong/302213.ts
+http://filex.me:8080//live/Qasim1990/1990qasim/302213.ts
 #EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="ID: BEIN Sports 1 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/0df06bc563f4f3bf615dc3ea7e55fb8c.png" group-title="CHANNEL | INDONESIA VIP",ID: BEIN Sports 1 HD
-http://filex.tv:8080//live/sajid@dar/turbo@zong/302214.ts
+http://filex.me:8080//live/Qasim1990/1990qasim/302214.ts
 #EXTINF:-1 tvg-id="beinsports3.tr" tvg-name="ID: BEIN Sports 3 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ba5a124ab816d4a371da240396786a62.png" group-title="CHANNEL | INDONESIA VIP",ID: BEIN Sports 3 HD
-http://filex.tv:8080//live/sajid@dar/turbo@zong/302215.ts
+http://filex.me:8080//live/Qasim1990/1990qasim/302215.ts
 #EXTINF:-1 tvg-id="" tvg-name="ID: Berita SATU HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-10/bd019732db2be6aed863964f280e1d0c.svg" group-title="CHANNEL | INDONESIA VIP",ID: Berita SATU HD
-http://filex.tv:8080//live/sajid@dar/turbo@zong/302216.ts
+http://filex.me:8080//live/Qasim1990/1990qasim/302216.ts
 #EXTINF:-1 tvg-id="" tvg-name="ID: Berita SATU World HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/c5aca927f5717086d94a73d71939bffa.jpg" group-title="CHANNEL | INDONESIA VIP",ID: Berita SATU World HD
-http://filex.tv:8080//live/sajid@dar/turbo@zong/302217.ts
+http://filex.me:8080//live/Qasim1990/1990qasim/302217.ts
 #EXTINF:-1 tvg-id="" tvg-name="ID: Bioskop Indonesia HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/c160471d97eadb4d67e82e6915754e96.png" group-title="CHANNEL | INDONESIA VIP",ID: Bioskop Indonesia HD
-http://filex.tv:8080//live/sajid@dar/turbo@zong/302218.ts
+http://filex.me:8080//live/Qasim1990/1990qasim/302218.ts
+#EXTINF:-1 tvg-id="boomerang.no" tvg-name="ID: Boomerang HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/1d192d86ab16c1103668385201f76d94.png" group-title="CHANNEL | INDONESIA VIP",ID: Boomerang HD
+http://filex.me:8080//live/Qasim1990/1990qasim/302219.ts
+#EXTINF:-1 tvg-id="boomerang.no" tvg-name="ID: Boomerang EN HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/417e73b7aedc07a73aa59b7d76bc6e6b.png" group-title="CHANNEL | INDONESIA VIP",ID: Boomerang EN HD
+http://filex.me:8080//live/Qasim1990/1990qasim/302220.ts
 #EXTINF:-1 tvg-id="cartoonnetwork.no" tvg-name="ID: Cartoon Network HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/bbdc8a56aca2bffb311728507a93f75f.png" group-title="CHANNEL | INDONESIA VIP",ID: Cartoon Network HD
-http://filex.tv:8080//live/sajid@dar/turbo@zong/302221.ts
+http://filex.me:8080//live/Qasim1990/1990qasim/302221.ts
 #EXTINF:-1 tvg-id="cbeebies.uk" tvg-name="ID: Cbeebies HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/c4ab7dac711298d08ad55255eee58029.png" group-title="CHANNEL | INDONESIA VIP",ID: Cbeebies HD
-http://filex.tv:8080//live/sajid@dar/turbo@zong/302222.ts
+http://filex.me:8080//live/Qasim1990/1990qasim/302222.ts
 #EXTINF:-1 tvg-id="" tvg-name="ID: Celestial Movies HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/03722835968ebf5a812fcb4ad2d041dc.png" group-title="CHANNEL | INDONESIA VIP",ID: Celestial Movies HD
-http://filex.tv:8080//live/sajid@dar/turbo@zong/302223.ts
+http://filex.me:8080//live/Qasim1990/1990qasim/302223.ts
 #EXTINF:-1 tvg-id="" tvg-name="ID: CGTN Documentary HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/493aaa3003ce5a94d1bcfa27cf5eedb2.png" group-title="CHANNEL | INDONESIA VIP",ID: CGTN Documentary HD
-http://filex.tv:8080//live/sajid@dar/turbo@zong/302224.ts
+http://filex.me:8080//live/Qasim1990/1990qasim/302224.ts
 #EXTINF:-1 tvg-id="" tvg-name="ID: Channel NEWS ASIA HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ef1ee75b73bdfcb0056cd605e00a2bca.png" group-title="CHANNEL | INDONESIA VIP",ID: Channel NEWS ASIA HD
-http://filex.tv:8080//live/sajid@dar/turbo@zong/302225.ts
+http://filex.me:8080//live/Qasim1990/1990qasim/302225.ts
 #EXTINF:-1 tvg-id="" tvg-name="ID: Cinemaworld HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/67979916a84e98b9942945379c1e648b.png" group-title="CHANNEL | INDONESIA VIP",ID: Cinemaworld HD
-http://filex.tv:8080//live/sajid@dar/turbo@zong/302226.ts
+http://filex.me:8080//live/Qasim1990/1990qasim/302226.ts
 #EXTINF:-1 tvg-id="cinemax.bg" tvg-name="ID: Cinemax HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/42d29b03357fec1753cf970323f02e04.png" group-title="CHANNEL | INDONESIA VIP",ID: Cinemax HD
-http://filex.tv:8080//live/sajid@dar/turbo@zong/302227.ts
+http://filex.me:8080//live/Qasim1990/1990qasim/302227.ts
 #EXTINF:-1 tvg-id="" tvg-name="ID: Citra Dangdut HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/675c678b8c55e53b1e5e9d3da50befb1.png" group-title="CHANNEL | INDONESIA VIP",ID: Citra Dangdut HD
-http://filex.tv:8080//live/sajid@dar/turbo@zong/302228.ts
+http://filex.me:8080//live/Qasim1990/1990qasim/302228.ts
 #EXTINF:-1 tvg-id="cnbc.us" tvg-name="ID: CNBC Indonesia HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/4415ae88fbabaa7f388eaa7dead5e038.png" group-title="CHANNEL | INDONESIA VIP",ID: CNBC Indonesia HD
-http://filex.tv:8080//live/sajid@dar/turbo@zong/302229.ts
+http://filex.me:8080//live/Qasim1990/1990qasim/302229.ts
 #EXTINF:-1 tvg-id="" tvg-name="ID: CNN Indonesia HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/8d73d72ec854dfe8a9c9865555bb9728.png" group-title="CHANNEL | INDONESIA VIP",ID: CNN Indonesia HD
-http://filex.tv:8080//live/sajid@dar/turbo@zong/302230.ts
+http://filex.me:8080//live/Qasim1990/1990qasim/302230.ts
 #EXTINF:-1 tvg-id="crimeinvestigation.ca" tvg-name="ID: Crime+ Investigation HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-09/01cc51b112da6bcf045df6318e213693.png" group-title="CHANNEL | INDONESIA VIP",ID: Crime+ Investigation HD
-http://filex.tv:8080//live/sajid@dar/turbo@zong/302231.ts
+http://filex.me:8080//live/Qasim1990/1990qasim/302231.ts
 #EXTINF:-1 tvg-id="" tvg-name="ID: DA AI TV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/346b56a716927612398ba160e78effd0.png" group-title="CHANNEL | INDONESIA VIP",ID: DA AI TV HD
-http://filex.tv:8080//live/sajid@dar/turbo@zong/302232.ts
+http://filex.me:8080//live/Qasim1990/1990qasim/302232.ts
 #EXTINF:-1 tvg-id="discoverychannel.de" tvg-name="ID: Discovery World HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/4ed79d28be4e787382d0b8bf16a2b69b.png" group-title="CHANNEL | INDONESIA VIP",ID: Discovery World HD
-http://filex.tv:8080//live/sajid@dar/turbo@zong/302233.ts
+http://filex.me:8080//live/Qasim1990/1990qasim/302233.ts
 #EXTINF:-1 tvg-id="disneycinemagic.de" tvg-name="ID: Disney Channel HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/a4ea1e073cfec663989ca1db24ba699f.png" group-title="CHANNEL | INDONESIA VIP",ID: Disney Channel HD
-http://filex.tv:8080//live/sajid@dar/turbo@zong/302234.ts
+http://filex.me:8080//live/Qasim1990/1990qasim/302234.ts
 #EXTINF:-1 tvg-id="disneyxd.ca" tvg-name="ID: Disney XD HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/d7b3960e71c668eeaff78b4145d6173e.png" group-title="CHANNEL | INDONESIA VIP",ID: Disney XD HD
-http://filex.tv:8080//live/sajid@dar/turbo@zong/302235.ts
+http://filex.me:8080//live/Qasim1990/1990qasim/302235.ts
 #EXTINF:-1 tvg-id="" tvg-name="ID: Dreamworks HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/b83befd00501db18989297ee6b217e02.png" group-title="CHANNEL | INDONESIA VIP",ID: Dreamworks HD
-http://filex.tv:8080//live/sajid@dar/turbo@zong/302236.ts
+http://filex.me:8080//live/Qasim1990/1990qasim/302236.ts
 #EXTINF:-1 tvg-id="" tvg-name="ID: Dunia ANAK HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/848ef5f24db25a9bd1d39c675aa0dc80.png" group-title="CHANNEL | INDONESIA VIP",ID: Dunia ANAK HD
-http://filex.tv:8080//live/sajid@dar/turbo@zong/302237.ts
+http://filex.me:8080//live/Qasim1990/1990qasim/302237.ts
 #EXTINF:-1 tvg-id="" tvg-name="ID: Dunia LAIN HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/7d1eda2ff2dc3180e2400733458a4a8b.png" group-title="CHANNEL | INDONESIA VIP",ID: Dunia LAIN HD
-http://filex.tv:8080//live/sajid@dar/turbo@zong/302238.ts
+http://filex.me:8080//live/Qasim1990/1990qasim/302238.ts
 #EXTINF:-1 tvg-id="ntv.de" tvg-name="ID: ENT HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/aae56ad9266b920e324b5de943da25ae.png" group-title="CHANNEL | INDONESIA VIP",ID: ENT HD
-http://filex.tv:8080//live/sajid@dar/turbo@zong/302239.ts
+http://filex.me:8080//live/Qasim1990/1990qasim/302239.ts
 #EXTINF:-1 tvg-id="" tvg-name="ID: ETV Bioskop HD" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="CHANNEL | INDONESIA VIP",ID: ETV Bioskop HD
-http://filex.tv:8080//live/sajid@dar/turbo@zong/302240.ts
+http://filex.me:8080//live/Qasim1990/1990qasim/302240.ts
 #EXTINF:-1 tvg-id="" tvg-name="ID: ETV Bioskop 02 HD" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="CHANNEL | INDONESIA VIP",ID: ETV Bioskop 02 HD
-http://filex.tv:8080//live/sajid@dar/turbo@zong/302241.ts
+http://filex.me:8080//live/Qasim1990/1990qasim/302241.ts
 #EXTINF:-1 tvg-id="" tvg-name="ID: ETV Bioskop 03 HD" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="CHANNEL | INDONESIA VIP",ID: ETV Bioskop 03 HD
-http://filex.tv:8080//live/sajid@dar/turbo@zong/302242.ts
+http://filex.me:8080//live/Qasim1990/1990qasim/302242.ts
 #EXTINF:-1 tvg-id="" tvg-name="ID: ETV Bioskop 04 HD" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="CHANNEL | INDONESIA VIP",ID: ETV Bioskop 04 HD
-http://filex.tv:8080//live/sajid@dar/turbo@zong/302243.ts
+http://filex.me:8080//live/Qasim1990/1990qasim/302243.ts
 #EXTINF:-1 tvg-id="" tvg-name="ID: FLIK HD" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="CHANNEL | INDONESIA VIP",ID: FLIK HD
-http://filex.tv:8080//live/sajid@dar/turbo@zong/302244.ts
+http://filex.me:8080//live/Qasim1990/1990qasim/302244.ts
 #EXTINF:-1 tvg-id="" tvg-name="ID: Galaxy Premium HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/3a174e88de5f3dad328641d7d7524b25.png" group-title="CHANNEL | INDONESIA VIP",ID: Galaxy Premium HD
-http://filex.tv:8080//live/sajid@dar/turbo@zong/302245.ts
+http://filex.me:8080//live/Qasim1990/1990qasim/302245.ts
 #EXTINF:-1 tvg-id="eentertainment.de" tvg-name="ID: GEM HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/5662c41e221b11f3cff14f60ac5b862e.png" group-title="CHANNEL | INDONESIA VIP",ID: GEM HD
-http://filex.tv:8080//live/sajid@dar/turbo@zong/302246.ts
+http://filex.me:8080//live/Qasim1990/1990qasim/302246.ts
 #EXTINF:-1 tvg-id="tvg2.us" tvg-name="ID: GTV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/2498aa1ffc66cf53f77c63b77a787d3a.png" group-title="CHANNEL | INDONESIA VIP",ID: GTV HD
-http://filex.tv:8080//live/sajid@dar/turbo@zong/302247.ts
+http://filex.me:8080//live/Qasim1990/1990qasim/302247.ts
 #EXTINF:-1 tvg-id="hbo.bg" tvg-name="ID: HBO HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/0ccfe41056aa7d1274f1fc80abe17ea3.png" group-title="CHANNEL | INDONESIA VIP",ID: HBO HD
-http://filex.tv:8080//live/sajid@dar/turbo@zong/302248.ts
+http://filex.me:8080//live/Qasim1990/1990qasim/302248.ts
 #EXTINF:-1 tvg-id="hbofamily.us" tvg-name="ID: HBO Family HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/43c918deb93b6cb276bc97bc3316d66a.png" group-title="CHANNEL | INDONESIA VIP",ID: HBO Family HD
-http://filex.tv:8080//live/sajid@dar/turbo@zong/302249.ts
+http://filex.me:8080//live/Qasim1990/1990qasim/302249.ts
 #EXTINF:-1 tvg-id="" tvg-name="ID: HBO HITS HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/00e312e6e408859a759d2cb679bf2f28.png" group-title="CHANNEL | INDONESIA VIP",ID: HBO HITS HD
-http://filex.tv:8080//live/sajid@dar/turbo@zong/302250.ts
+http://filex.me:8080//live/Qasim1990/1990qasim/302250.ts
 #EXTINF:-1 tvg-id="hbosignature.us" tvg-name="ID: HBO Signature HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/b918a4f6087d1550bed78481f3fd878e.png" group-title="CHANNEL | INDONESIA VIP",ID: HBO Signature HD
-http://filex.tv:8080//live/sajid@dar/turbo@zong/302251.ts
+http://filex.me:8080//live/Qasim1990/1990qasim/302251.ts
 #EXTINF:-1 tvg-id="hgtv.de" tvg-name="ID: HGTV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/cbfaa9907820b6dbfc30fe48ae8bf3b8.png" group-title="CHANNEL | INDONESIA VIP",ID: HGTV HD
-http://filex.tv:8080//live/sajid@dar/turbo@zong/302252.ts
+http://filex.me:8080//live/Qasim1990/1990qasim/302252.ts
 #EXTINF:-1 tvg-id="" tvg-name="ID: HIP HIP Horee! HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/64856f589d7cf4ebc75e471cc73e98f3.png" group-title="CHANNEL | INDONESIA VIP",ID: HIP HIP Horee! HD
-http://filex.tv:8080//live/sajid@dar/turbo@zong/302253.ts
+http://filex.me:8080//live/Qasim1990/1990qasim/302253.ts
 #EXTINF:-1 tvg-id="history.de" tvg-name="ID: History HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/dfc965449b772322e8cb39b5c5491d62.png" group-title="CHANNEL | INDONESIA VIP",ID: History HD
-http://filex.tv:8080//live/sajid@dar/turbo@zong/302254.ts
+http://filex.me:8080//live/Qasim1990/1990qasim/302254.ts
 #EXTINF:-1 tvg-id="mtvhits.uk" tvg-name="ID: HITS HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/ae782ad6176bbda366bbaf7e52bdff09.png" group-title="CHANNEL | INDONESIA VIP",ID: HITS HD
-http://filex.tv:8080//live/sajid@dar/turbo@zong/302255.ts
+http://filex.me:8080//live/Qasim1990/1990qasim/302255.ts
 #EXTINF:-1 tvg-id="" tvg-name="ID: HITS Movies HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/0f522aea18d3fbc38100a8f629bb4f07.png" group-title="CHANNEL | INDONESIA VIP",ID: HITS Movies HD
-http://filex.tv:8080//live/sajid@dar/turbo@zong/302256.ts
+http://filex.me:8080//live/Qasim1990/1990qasim/302256.ts
 #EXTINF:-1 tvg-id="" tvg-name="ID: Horee! HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/1470dba88dbd7fa85ae09b801fee6fc9.png" group-title="CHANNEL | INDONESIA VIP",ID: Horee! HD
-http://filex.tv:8080//live/sajid@dar/turbo@zong/302257.ts
+http://filex.me:8080//live/Qasim1990/1990qasim/302257.ts
 #EXTINF:-1 tvg-id="" tvg-name="ID: HUMA Betang TV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-10/06da81eac8b78bcc95cff8e173d9ca07.png" group-title="CHANNEL | INDONESIA VIP",ID: HUMA Betang TV HD
-http://filex.tv:8080//live/sajid@dar/turbo@zong/302258.ts
+http://filex.me:8080//live/Qasim1990/1990qasim/302258.ts
 #EXTINF:-1 tvg-id="" tvg-name="ID: Hunan TV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/110bdcc65fd8509659d074e68e432214.png" group-title="CHANNEL | INDONESIA VIP",ID: Hunan TV HD
-http://filex.tv:8080//live/sajid@dar/turbo@zong/302259.ts
+http://filex.me:8080//live/Qasim1990/1990qasim/302259.ts
 #EXTINF:-1 tvg-id="ons.nl" tvg-name="ID: I Konser HD" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="CHANNEL | INDONESIA VIP",ID: I Konser HD
-http://filex.tv:8080//live/sajid@dar/turbo@zong/302260.ts
+http://filex.me:8080//live/Qasim1990/1990qasim/302260.ts
 #EXTINF:-1 tvg-id="tvi.pt" tvg-name="ID: IDX HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/aba9289c98406c8b6eaba1925ec4d591.png" group-title="CHANNEL | INDONESIA VIP",ID: IDX HD
-http://filex.tv:8080//live/sajid@dar/turbo@zong/302261.ts
+http://filex.me:8080//live/Qasim1990/1990qasim/302261.ts
+#EXTINF:-1 tvg-id="mtvgermany.de" tvg-name="ID: IMC HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/2b58230b601a563bb26eb0e8adc69e5d.png" group-title="CHANNEL | INDONESIA VIP",ID: IMC HD
+http://filex.me:8080//live/Qasim1990/1990qasim/302262.ts
 #EXTINF:-1 tvg-id="" tvg-name="ID: INDI KIDS HD" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="CHANNEL | INDONESIA VIP",ID: INDI KIDS HD
-http://filex.tv:8080//live/sajid@dar/turbo@zong/302263.ts
+http://filex.me:8080//live/Qasim1990/1990qasim/302263.ts
 #EXTINF:-1 tvg-id="" tvg-name="ID: Indosiar HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="CHANNEL | INDONESIA VIP",ID: Indosiar HD
-http://filex.tv:8080//live/sajid@dar/turbo@zong/302264.ts
+http://filex.me:8080//live/Qasim1990/1990qasim/302264.ts
 #EXTINF:-1 tvg-id="" tvg-name="ID: Insert HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/8accd154ca087aac62b6dfaba31b8507.png" group-title="CHANNEL | INDONESIA VIP",ID: Insert HD
-http://filex.tv:8080//live/sajid@dar/turbo@zong/302266.ts
+http://filex.me:8080//live/Qasim1990/1990qasim/302266.ts
 #EXTINF:-1 tvg-id="" tvg-name="ID: Izzah TV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/9602d4376a3111f7a2fca2542480f8a1.png" group-title="CHANNEL | INDONESIA VIP",ID: Izzah TV HD
-http://filex.tv:8080//live/sajid@dar/turbo@zong/302267.ts
+http://filex.me:8080//live/Qasim1990/1990qasim/302267.ts
 #EXTINF:-1 tvg-id="ktv.de" tvg-name="ID: JAK TV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/520121649c890cfb036e87548beffed6.png" group-title="CHANNEL | INDONESIA VIP",ID: JAK TV HD
-http://filex.tv:8080//live/sajid@dar/turbo@zong/302268.ts
+http://filex.me:8080//live/Qasim1990/1990qasim/302268.ts
 #EXTINF:-1 tvg-id="" tvg-name="ID: JTV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/1cf2bc6e1e92eb6b90d262ac626787f7.png" group-title="CHANNEL | INDONESIA VIP",ID: JTV HD
-http://filex.tv:8080//live/sajid@dar/turbo@zong/302269.ts
+http://filex.me:8080//live/Qasim1990/1990qasim/302269.ts
 #EXTINF:-1 tvg-id="ekids.bg" tvg-name="ID: KIDS TV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/2e7e12a2db287afa4fcc4f41d273004f.png" group-title="CHANNEL | INDONESIA VIP",ID: KIDS TV HD
-http://filex.tv:8080//live/sajid@dar/turbo@zong/302270.ts
+http://filex.me:8080//live/Qasim1990/1990qasim/302270.ts
 #EXTINF:-1 tvg-id="" tvg-name="ID: Kompas TV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-10/6dca0f82c0415242463eab39b28fd715.png" group-title="CHANNEL | INDONESIA VIP",ID: Kompas TV HD
-http://filex.tv:8080//live/sajid@dar/turbo@zong/302271.ts
+http://filex.me:8080//live/Qasim1990/1990qasim/302271.ts
 #EXTINF:-1 tvg-id="" tvg-name="ID: Lifestyle & Fashion HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/b6d40037e76d59f5cd57f43ea872153b.png" group-title="CHANNEL | INDONESIA VIP",ID: Lifestyle & Fashion HD
-http://filex.tv:8080//live/sajid@dar/turbo@zong/302272.ts
+http://filex.me:8080//live/Qasim1990/1990qasim/302272.ts
 #EXTINF:-1 tvg-id="metv.us" tvg-name="ID: Metro TV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/0d6aa1d2981e77a4613a82f086c66e6f.png" group-title="CHANNEL | INDONESIA VIP",ID: Metro TV HD
-http://filex.tv:8080//live/sajid@dar/turbo@zong/302273.ts
+http://filex.me:8080//live/Qasim1990/1990qasim/302273.ts
 #EXTINF:-1 tvg-id="" tvg-name="ID: MNC NEWS HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/67fd02c3def9c39cfd50f6a5dfd16510.png" group-title="CHANNEL | INDONESIA VIP",ID: MNC NEWS HD
-http://filex.tv:8080//live/sajid@dar/turbo@zong/302274.ts
+http://filex.me:8080//live/Qasim1990/1990qasim/302274.ts
 #EXTINF:-1 tvg-id="" tvg-name="ID: MNC Sports HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/b7918790d6ed6e4084150c40fd836251.png" group-title="CHANNEL | INDONESIA VIP",ID: MNC Sports HD
-http://filex.tv:8080//live/sajid@dar/turbo@zong/302275.ts
+http://filex.me:8080//live/Qasim1990/1990qasim/302275.ts
 #EXTINF:-1 tvg-id="rmcsport2.fr" tvg-name="ID: MNC Sports 2 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/a69bff38e05e469908d7e8190e1184eb.png" group-title="CHANNEL | INDONESIA VIP",ID: MNC Sports 2 HD
-http://filex.tv:8080//live/sajid@dar/turbo@zong/302276.ts
+http://filex.me:8080//live/Qasim1990/1990qasim/302276.ts
 #EXTINF:-1 tvg-id="btsport3.uk" tvg-name="ID: MNC Sports 3 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/e5b6a41ba121fd867a41a6e8ccf30b20.png" group-title="CHANNEL | INDONESIA VIP",ID: MNC Sports 3 HD
-http://filex.tv:8080//live/sajid@dar/turbo@zong/302277.ts
+http://filex.me:8080//live/Qasim1990/1990qasim/302277.ts
 #EXTINF:-1 tvg-id="msnbc.us" tvg-name="ID: MNC TV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/12cf417a2f27f6bd0cdc7e212859dfe1.png" group-title="CHANNEL | INDONESIA VIP",ID: MNC TV HD
-http://filex.tv:8080//live/sajid@dar/turbo@zong/302278.ts
+http://filex.me:8080//live/Qasim1990/1990qasim/302278.ts
 #EXTINF:-1 tvg-id="" tvg-name="ID: MOJI HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/e7f70e39cc40ff59938530edbd768d4f.png" group-title="CHANNEL | INDONESIA VIP",ID: MOJI HD
-http://filex.tv:8080//live/sajid@dar/turbo@zong/302279.ts
+http://filex.me:8080//live/Qasim1990/1990qasim/302279.ts
 #EXTINF:-1 tvg-id="mtvgermany.de" tvg-name="ID: MQTV HD" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="CHANNEL | INDONESIA VIP",ID: MQTV HD
-http://filex.tv:8080//live/sajid@dar/turbo@zong/302280.ts
+http://filex.me:8080//live/Qasim1990/1990qasim/302280.ts
 #EXTINF:-1 tvg-id="" tvg-name="ID: MTA 7 ASIA HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/291c3c364ac79b346426329acea392dd.png" group-title="CHANNEL | INDONESIA VIP",ID: MTA 7 ASIA HD
-http://filex.tv:8080//live/sajid@dar/turbo@zong/302281.ts
+http://filex.me:8080//live/Qasim1990/1990qasim/302281.ts
 #EXTINF:-1 tvg-id="mtvgermany.de" tvg-name="ID: MTA TV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/572ee91ff1e528d04284dd7e952bed14.png" group-title="CHANNEL | INDONESIA VIP",ID: MTA TV HD
-http://filex.tv:8080//live/sajid@dar/turbo@zong/302282.ts
+http://filex.me:8080//live/Qasim1990/1990qasim/302282.ts
 #EXTINF:-1 tvg-id="sic.pt" tvg-name="ID: Music TV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/c55ff05370aeab02fdde282cdb7e6105.png" group-title="CHANNEL | INDONESIA VIP",ID: Music TV HD
-http://filex.tv:8080//live/sajid@dar/turbo@zong/302283.ts
+http://filex.me:8080//live/Qasim1990/1990qasim/302283.ts
 #EXTINF:-1 tvg-id="btvcinema.bg" tvg-name="ID: MY Cinema HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/a33da8890f49577c3a90507a07c8815d.png" group-title="CHANNEL | INDONESIA VIP",ID: MY Cinema HD
-http://filex.tv:8080//live/sajid@dar/turbo@zong/302284.ts
+http://filex.me:8080//live/Qasim1990/1990qasim/302284.ts
 #EXTINF:-1 tvg-id="Sky Crime.de" tvg-name="ID: MY Cinema ASIA HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/7602d6c9a46aec9787799e32fda8d070.png" group-title="CHANNEL | INDONESIA VIP",ID: MY Cinema ASIA HD
-http://filex.tv:8080//live/sajid@dar/turbo@zong/302285.ts
+http://filex.me:8080//live/Qasim1990/1990qasim/302285.ts
 #EXTINF:-1 tvg-id="film1family.nl" tvg-name="ID: MY Family HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/21e2e3ff0f19266e11d9456e6bf19494.png" group-title="CHANNEL | INDONESIA VIP",ID: MY Family HD
-http://filex.tv:8080//live/sajid@dar/turbo@zong/302286.ts
+http://filex.me:8080//live/Qasim1990/1990qasim/302286.ts
 #EXTINF:-1 tvg-id="" tvg-name="ID: MY KIDZ HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/9dcac0452d126b9596563d6aec5aa7a3.png" group-title="CHANNEL | INDONESIA VIP",ID: MY KIDZ HD
-http://filex.tv:8080//live/sajid@dar/turbo@zong/302287.ts
+http://filex.me:8080//live/Qasim1990/1990qasim/302287.ts
 #EXTINF:-1 tvg-id="net5.nl" tvg-name="ID: NET HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/708e6db12bbe5bfc95557e44f72ab6a0.png" group-title="CHANNEL | INDONESIA VIP",ID: NET HD
-http://filex.tv:8080//live/sajid@dar/turbo@zong/302288.ts
+http://filex.me:8080//live/Qasim1990/1990qasim/302288.ts
 #EXTINF:-1 tvg-id="nickjr.no" tvg-name="ID: NICK JR HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/c407878e19cad2a98a707210492d0f4c.png" group-title="CHANNEL | INDONESIA VIP",ID: NICK JR HD
-http://filex.tv:8080//live/sajid@dar/turbo@zong/302289.ts
+http://filex.me:8080//live/Qasim1990/1990qasim/302289.ts
 #EXTINF:-1 tvg-id="nickelodeon.it" tvg-name="ID: Nickelodeon HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/e1dd8b2c9477e9c047fc597e8835eebb.png" group-title="CHANNEL | INDONESIA VIP",ID: Nickelodeon HD
-http://filex.tv:8080//live/sajid@dar/turbo@zong/302290.ts
+http://filex.me:8080//live/Qasim1990/1990qasim/302290.ts
 #EXTINF:-1 tvg-id="" tvg-name="ID: Nusantara TV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/57916d34f1de029dc3287fae59b7ceb8.png" group-title="CHANNEL | INDONESIA VIP",ID: Nusantara TV HD
-http://filex.tv:8080//live/sajid@dar/turbo@zong/302291.ts
+http://filex.me:8080//live/Qasim1990/1990qasim/302291.ts
 #EXTINF:-1 tvg-id="one.de" tvg-name="ID: ONE HD" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="CHANNEL | INDONESIA VIP",ID: ONE HD
-http://filex.tv:8080//live/sajid@dar/turbo@zong/302292.ts
+http://filex.me:8080//live/Qasim1990/1990qasim/302292.ts
 #EXTINF:-1 tvg-id="" tvg-name="ID: Padang TV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-10/eb14737d742919bfde6ea9747298a305.jpeg" group-title="CHANNEL | INDONESIA VIP",ID: Padang TV HD
-http://filex.tv:8080//live/sajid@dar/turbo@zong/302293.ts
+http://filex.me:8080//live/Qasim1990/1990qasim/302293.ts
 #EXTINF:-1 tvg-id="" tvg-name="ID: Prambors HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/a5c26c764dbc192e64d3019219ebebaf.png" group-title="CHANNEL | INDONESIA VIP",ID: Prambors HD
-http://filex.tv:8080//live/sajid@dar/turbo@zong/302294.ts
+http://filex.me:8080//live/Qasim1990/1990qasim/302294.ts
 #EXTINF:-1 tvg-id="" tvg-name="ID: Radar Cirebon TV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-10/3eab9934cb20ef8a82b2e1fc3c09aaf8.png" group-title="CHANNEL | INDONESIA VIP",ID: Radar Cirebon TV HD
-http://filex.tv:8080//live/sajid@dar/turbo@zong/302295.ts
+http://filex.me:8080//live/Qasim1990/1990qasim/302295.ts
 #EXTINF:-1 tvg-id="raiitalia.it" tvg-name="ID: Radio 51 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="CHANNEL | INDONESIA VIP",ID: Radio 51 HD
-http://filex.tv:8080//live/sajid@dar/turbo@zong/302296.ts
+http://filex.me:8080//live/Qasim1990/1990qasim/302296.ts
 #EXTINF:-1 tvg-id="" tvg-name="ID: RCTI HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/c663544b47ae275f4dd77540e62e0ef4.png" group-title="CHANNEL | INDONESIA VIP",ID: RCTI HD
-http://filex.tv:8080//live/sajid@dar/turbo@zong/302297.ts
+http://filex.me:8080//live/Qasim1990/1990qasim/302297.ts
 #EXTINF:-1 tvg-id="" tvg-name="ID: ROCK Action HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/72d376f51855e885d4d094d6f697324e.png" group-title="CHANNEL | INDONESIA VIP",ID: ROCK Action HD
-http://filex.tv:8080//live/sajid@dar/turbo@zong/302298.ts
+http://filex.me:8080//live/Qasim1990/1990qasim/302298.ts
 #EXTINF:-1 tvg-id="" tvg-name="ID: ROCK Entertaiment HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/9a6cf4f6391f4d39f34c0a04a208e4c1.png" group-title="CHANNEL | INDONESIA VIP",ID: ROCK Entertaiment HD
-http://filex.tv:8080//live/sajid@dar/turbo@zong/302299.ts
+http://filex.me:8080//live/Qasim1990/1990qasim/302299.ts
 #EXTINF:-1 tvg-id="" tvg-name="ID: Rodja TV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/25d069c7b9d080d58b938c698a148cdc.png" group-title="CHANNEL | INDONESIA VIP",ID: Rodja TV HD
-http://filex.tv:8080//live/sajid@dar/turbo@zong/302300.ts
+http://filex.me:8080//live/Qasim1990/1990qasim/302300.ts
 #EXTINF:-1 tvg-id="tvs.pl" tvg-name="ID: SCTV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/127dd049bd05a9d07b266c1d8883ca8b.png" group-title="CHANNEL | INDONESIA VIP",ID: SCTV HD
-http://filex.tv:8080//live/sajid@dar/turbo@zong/302301.ts
+http://filex.me:8080//live/Qasim1990/1990qasim/302301.ts
 #EXTINF:-1 tvg-id="" tvg-name="ID: SEA Today HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/66ccbde52f52776d0260f416549d914c.png" group-title="CHANNEL | INDONESIA VIP",ID: SEA Today HD
-http://filex.tv:8080//live/sajid@dar/turbo@zong/302302.ts
+http://filex.me:8080//live/Qasim1990/1990qasim/302302.ts
 #EXTINF:-1 tvg-id="one.de" tvg-name="ID: Sindonews TV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/8b87b060c72b157ad6ee4f1d2b025e31.png" group-title="CHANNEL | INDONESIA VIP",ID: Sindonews TV HD
-http://filex.tv:8080//live/sajid@dar/turbo@zong/302303.ts
+http://filex.me:8080//live/Qasim1990/1990qasim/302303.ts
 #EXTINF:-1 tvg-id="smithsonian.ca" tvg-name="ID: Smithsonian Channel HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/da2ecbcb1534e2e02105084ca71466ad.png" group-title="CHANNEL | INDONESIA VIP",ID: Smithsonian Channel HD
-http://filex.tv:8080//live/sajid@dar/turbo@zong/302304.ts
+http://filex.me:8080//live/Qasim1990/1990qasim/302304.ts
 #EXTINF:-1 tvg-id="sporttvplus.pt" tvg-name="ID: SpoTV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/957f888d2a434d5f6a1526e178dcec47.png" group-title="CHANNEL | INDONESIA VIP",ID: SpoTV HD
-http://filex.tv:8080//live/sajid@dar/turbo@zong/302305.ts
+http://filex.me:8080//live/Qasim1990/1990qasim/302305.ts
 #EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="ID: SpoTV 2 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/035c4b78f75c9bd0f7cfb4f61ebb3146.png" group-title="CHANNEL | INDONESIA VIP",ID: SpoTV 2 HD
-http://filex.tv:8080//live/sajid@dar/turbo@zong/302306.ts
+http://filex.me:8080//live/Qasim1990/1990qasim/302306.ts
 #EXTINF:-1 tvg-id="" tvg-name="ID: TECH Storm HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/54e3399a19f5ee556aa1f85f3103520c.png" group-title="CHANNEL | INDONESIA VIP",ID: TECH Storm HD
-http://filex.tv:8080//live/sajid@dar/turbo@zong/302307.ts
+http://filex.me:8080//live/Qasim1990/1990qasim/302307.ts
 #EXTINF:-1 tvg-id="" tvg-name="ID: Tegar TV Lampung HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/7b2ae084f3c3450b3f8050b67cd5926e.jpg" group-title="CHANNEL | INDONESIA VIP",ID: Tegar TV Lampung HD
-http://filex.tv:8080//live/sajid@dar/turbo@zong/302308.ts
+http://filex.me:8080//live/Qasim1990/1990qasim/302308.ts
 #EXTINF:-1 tvg-id="thrillermaxpacific.us" tvg-name="ID: Thrill HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/9397a211ee5003fca0d125a8c2232edd.png" group-title="CHANNEL | INDONESIA VIP",ID: Thrill HD
-http://filex.tv:8080//live/sajid@dar/turbo@zong/302309.ts
+http://filex.me:8080//live/Qasim1990/1990qasim/302309.ts
 #EXTINF:-1 tvg-id="tlc.de" tvg-name="ID: TLC HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/9db0dba6fa657f28678589d5a274bfa9.png" group-title="CHANNEL | INDONESIA VIP",ID: TLC HD
-http://filex.tv:8080//live/sajid@dar/turbo@zong/302310.ts
+http://filex.me:8080//live/Qasim1990/1990qasim/302310.ts
 #EXTINF:-1 tvg-id="" tvg-name="ID: Trans 7 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-10/0994a7413bfc1f57f5c00a777a8b2a34.png" group-title="CHANNEL | INDONESIA VIP",ID: Trans 7 HD
-http://filex.tv:8080//live/sajid@dar/turbo@zong/302311.ts#EXTINF:-1 tvg-id="" tvg-name="ID: Trans TV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/924d40ca9187329b206629697e2cfeb4.png" group-title="CHANNEL | INDONESIA VIP",ID: Trans TV HD
-http://filex.tv:8080//live/sajid@dar/turbo@zong/302312.ts
+http://filex.me:8080//live/Qasim1990/1990qasim/302311.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID: Trans TV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/924d40ca9187329b206629697e2cfeb4.png" group-title="CHANNEL | INDONESIA VIP",ID: Trans TV HD
+http://filex.me:8080//live/Qasim1990/1990qasim/302312.ts
 #EXTINF:-1 tvg-id="" tvg-name="ID: TV 9 Nusantara HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/276d4bb9823769badeb7209703d9e83a.png" group-title="CHANNEL | INDONESIA VIP",ID: TV 9 Nusantara HD
-http://filex.tv:8080//live/sajid@dar/turbo@zong/302313.ts
+http://filex.me:8080//live/Qasim1990/1990qasim/302313.ts
 #EXTINF:-1 tvg-id="one.de" tvg-name="ID: TV ONE HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-10/1ff4e1118db486e897f955e9733419e2.png" group-title="CHANNEL | INDONESIA VIP",ID: TV ONE HD
-http://filex.tv:8080//live/sajid@dar/turbo@zong/302314.ts
+http://filex.me:8080//live/Qasim1990/1990qasim/302314.ts
 #EXTINF:-1 tvg-id="ktv.de" tvg-name="ID: TVKU HD" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="CHANNEL | INDONESIA VIP",ID: TVKU HD
-http://filex.tv:8080//live/sajid@dar/turbo@zong/302315.ts
+http://filex.me:8080//live/Qasim1990/1990qasim/302315.ts
 #EXTINF:-1 tvg-id="ntv.de" tvg-name="ID: TVN HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/d8a152836e34ee6141b7efdf3d10da5b.png" group-title="CHANNEL | INDONESIA VIP",ID: TVN HD
-http://filex.tv:8080//live/sajid@dar/turbo@zong/302316.ts
+http://filex.me:8080//live/Qasim1990/1990qasim/302316.ts
 #EXTINF:-1 tvg-id="axnblack.pt" tvg-name="ID: TVN Movies HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/c99306ef4b6afd25b48264fb45e91306.png" group-title="CHANNEL | INDONESIA VIP",ID: TVN Movies HD
-http://filex.tv:8080//live/sajid@dar/turbo@zong/302317.ts
+http://filex.me:8080//live/Qasim1990/1990qasim/302317.ts
 #EXTINF:-1 tvg-id="tvi.pt" tvg-name="ID: TVRI HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/fa116bfa87b7355a9f73a63f8070843c.png" group-title="CHANNEL | INDONESIA VIP",ID: TVRI HD
-http://filex.tv:8080//live/sajid@dar/turbo@zong/302318.ts
+http://filex.me:8080//live/Qasim1990/1990qasim/302318.ts
 #EXTINF:-1 tvg-id="" tvg-name="ID: TVRI JAWA Barat HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/d07af261f0a1c95e9af8b5c8da7493cf.png" group-title="CHANNEL | INDONESIA VIP",ID: TVRI JAWA Barat HD
-http://filex.tv:8080//live/sajid@dar/turbo@zong/302319.ts
+http://filex.me:8080//live/Qasim1990/1990qasim/302319.ts
 #EXTINF:-1 tvg-id="" tvg-name="ID: TVRI Kalimantan Barat HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/6876b1ded655d8d32a4b3a0b79cf0e72.png" group-title="CHANNEL | INDONESIA VIP",ID: TVRI Kalimantan Barat HD
-http://filex.tv:8080//live/sajid@dar/turbo@zong/302320.ts
+http://filex.me:8080//live/Qasim1990/1990qasim/302320.ts
 #EXTINF:-1 tvg-id="" tvg-name="ID: TVRI Kalimantan Tengah HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/f9a14843b0ad55e50f9141733710994e.png" group-title="CHANNEL | INDONESIA VIP",ID: TVRI Kalimantan Tengah HD
-http://filex.tv:8080//live/sajid@dar/turbo@zong/302321.ts
+http://filex.me:8080//live/Qasim1990/1990qasim/302321.ts
 #EXTINF:-1 tvg-id="" tvg-name="ID: TVRI Sulawesi Selatan HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/c13b7324e131c35d64fc7007c0b153ce.png" group-title="CHANNEL | INDONESIA VIP",ID: TVRI Sulawesi Selatan HD
-http://filex.tv:8080//live/sajid@dar/turbo@zong/302322.ts
+http://filex.me:8080//live/Qasim1990/1990qasim/302322.ts
 #EXTINF:-1 tvg-id="utv.ro" tvg-name="ID: UG TV HD" tvg-logo="" group-title="CHANNEL | INDONESIA VIP",ID: UG TV HD
-http://filex.tv:8080//live/sajid@dar/turbo@zong/302323.ts
+http://filex.me:8080//live/Qasim1990/1990qasim/302323.ts
 #EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="ID: USEE Sport 1 HD" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="CHANNEL | INDONESIA VIP",ID: USEE Sport 1 HD
-http://filex.tv:8080//live/sajid@dar/turbo@zong/302324.ts
+http://filex.me:8080//live/Qasim1990/1990qasim/302324.ts
 #EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="ID: USEE Sport 2 HD" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="CHANNEL | INDONESIA VIP",ID: USEE Sport 2 HD
-http://filex.tv:8080//live/sajid@dar/turbo@zong/302325.ts
+http://filex.me:8080//live/Qasim1990/1990qasim/302325.ts
 #EXTINF:-1 tvg-id="" tvg-name="ID: Vision Prime HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/aace6b866a640045edacb67fe95b4435.png" group-title="CHANNEL | INDONESIA VIP",ID: Vision Prime HD
-http://filex.tv:8080//live/sajid@dar/turbo@zong/302326.ts
+http://filex.me:8080//live/Qasim1990/1990qasim/302326.ts
 #EXTINF:-1 tvg-id="" tvg-name="ID: ZEE Bioskop HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/4ffa668fdf208ec522418bd231225c7f.png" group-title="CHANNEL | INDONESIA VIP",ID: ZEE Bioskop HD
-http://filex.tv:8080//live/sajid@dar/turbo@zong/302327.ts
+http://filex.me:8080//live/Qasim1990/1990qasim/302327.ts
 #EXTINF:-1 tvg-id="zoomtv.pl" tvg-name="ID: Zoomoo HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ffe9e8c7ffa0c48eccb971c397c8e0de.png" group-title="CHANNEL | INDONESIA VIP",ID: Zoomoo HD
-http://filex.tv:8080//live/sajid@dar/turbo@zong/302328.ts
+http://filex.me:8080//live/Qasim1990/1990qasim/302328.ts
 #EXTINF:-1 tvg-id="" tvg-name="ID: Inews HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/773dea02b1aba8f709c668ca2ae43e1c.png" group-title="CHANNEL | INDONESIA VIP",ID: Inews HD
-http://filex.tv:8080//live/sajid@dar/turbo@zong/302265.ts
+http://filex.me:8080//live/Qasim1990/1990qasim/302265.ts
 #EXTINF:-1 tvg-id="" tvg-name="ID: Akativi HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="CHANNEL | INDONESIA VIP",ID: Akativi HD
-http://filex.tv:8080//live/sajid@dar/turbo@zong/501223.ts
+http://filex.me:8080//live/Qasim1990/1990qasim/501223.ts
 #EXTINF:-1 tvg-id="" tvg-name="ID: AL WAFA Tarim HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-01/510d06f193e1c004cfdd844488e79ce9.png" group-title="CHANNEL | INDONESIA VIP",ID: AL WAFA Tarim HD
-http://filex.tv:8080//live/sajid@dar/turbo@zong/501224.ts
+http://filex.me:8080//live/Qasim1990/1990qasim/501224.ts
 #EXTINF:-1 tvg-id="" tvg-name="ID: Arirang HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/32bd23bf3ba1d1f2e4f55a42a928169e.png" group-title="CHANNEL | INDONESIA VIP",ID: Arirang HD
-http://filex.tv:8080//live/sajid@dar/turbo@zong/501225.ts
+http://filex.me:8080//live/Qasim1990/1990qasim/501225.ts
 #EXTINF:-1 tvg-id="" tvg-name="ID: Ashiil TV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-01/d42340681fd197b2cdbc8697ddacd03b.png" group-title="CHANNEL | INDONESIA VIP",ID: Ashiil TV HD
-http://filex.tv:8080//live/sajid@dar/turbo@zong/501226.ts
+http://filex.me:8080//live/Qasim1990/1990qasim/501226.ts
 #EXTINF:-1 tvg-id="" tvg-name="ID: AYU TVCC HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-01/2a475a5a3936edb688ec68fab938beb8.png" group-title="CHANNEL | INDONESIA VIP",ID: AYU TVCC HD
-http://filex.tv:8080//live/sajid@dar/turbo@zong/501227.ts
+http://filex.me:8080//live/Qasim1990/1990qasim/501227.ts
 #EXTINF:-1 tvg-id="" tvg-name="ID: BALI TV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/8665e7afb44b5a32eb3b9e0fa2b9b12f.png" group-title="CHANNEL | INDONESIA VIP",ID: BALI TV HD
-http://filex.tv:8080//live/sajid@dar/turbo@zong/501228.ts
+http://filex.me:8080//live/Qasim1990/1990qasim/501228.ts
 #EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="ID: BEIN Sports 1 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-02/60151b52e1e8004606612eeb01f3fbde.png" group-title="CHANNEL | INDONESIA VIP",ID: BEIN Sports 1 HD
-http://filex.tv:8080//live/sajid@dar/turbo@zong/501229.ts
+http://filex.me:8080//live/Qasim1990/1990qasim/501229.ts
 #EXTINF:-1 tvg-id="beinsports3.tr" tvg-name="ID: BEIN Sports 3 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-02/6f82a20e6cb25273d24618f5a8c98458.png" group-title="CHANNEL | INDONESIA VIP",ID: BEIN Sports 3 HD
-http://filex.tv:8080//live/sajid@dar/turbo@zong/501230.ts
+http://filex.me:8080//live/Qasim1990/1990qasim/501230.ts
 #EXTINF:-1 tvg-id="" tvg-name="ID: Beritasatu HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="CHANNEL | INDONESIA VIP",ID: Beritasatu HD
-http://filex.tv:8080//live/sajid@dar/turbo@zong/501231.ts
+http://filex.me:8080//live/Qasim1990/1990qasim/501231.ts
 #EXTINF:-1 tvg-id="bloomberg.pt" tvg-name="ID: Bloomberg TV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/780b9b284a9a6eef24c46a6a1b64f894.png" group-title="CHANNEL | INDONESIA VIP",ID: Bloomberg TV HD
-http://filex.tv:8080//live/sajid@dar/turbo@zong/501232.ts
+http://filex.me:8080//live/Qasim1990/1990qasim/501232.ts
 #EXTINF:-1 tvg-id="cartoonnetwork.no" tvg-name="ID: Cartoon Network ID HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="CHANNEL | INDONESIA VIP",ID: Cartoon Network ID HD
-http://filex.tv:8080//live/sajid@dar/turbo@zong/501233.ts
+http://filex.me:8080//live/Qasim1990/1990qasim/501233.ts
 #EXTINF:-1 tvg-id="cmtv.pt" tvg-name="ID: CCM HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/e781645d9f686de47e29b212df4791a1.png" group-title="CHANNEL | INDONESIA VIP",ID: CCM HD
-http://filex.tv:8080//live/sajid@dar/turbo@zong/501234.ts
+http://filex.me:8080//live/Qasim1990/1990qasim/501234.ts
 #EXTINF:-1 tvg-id="" tvg-name="ID: CGTN HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/8bfe173c57ec17bf46e0f6ba975deb8a.png" group-title="CHANNEL | INDONESIA VIP",ID: CGTN HD
-http://filex.tv:8080//live/sajid@dar/turbo@zong/501235.ts
+http://filex.me:8080//live/Qasim1990/1990qasim/501235.ts
 #EXTINF:-1 tvg-id="" tvg-name="ID: Chinese Drama HD" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="CHANNEL | INDONESIA VIP",ID: Chinese Drama HD
-http://filex.tv:8080//live/sajid@dar/turbo@zong/501236.ts
+http://filex.me:8080//live/Qasim1990/1990qasim/501236.ts
 #EXTINF:-1 tvg-id="" tvg-name="ID: Citra Drama HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/f3002848368f2982b1a30e82f1842917.png" group-title="CHANNEL | INDONESIA VIP",ID: Citra Drama HD
-http://filex.tv:8080//live/sajid@dar/turbo@zong/501237.ts
+http://filex.me:8080//live/Qasim1990/1990qasim/501237.ts
 #EXTINF:-1 tvg-id="" tvg-name="ID: Dhoho TV HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="CHANNEL | INDONESIA VIP",ID: Dhoho TV HD
-http://filex.tv:8080//live/sajid@dar/turbo@zong/501238.ts
+http://filex.me:8080//live/Qasim1990/1990qasim/501238.ts
 #EXTINF:-1 tvg-id="" tvg-name="ID: Discovery ASIA HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/e758a48ee4c9f4f226cf65764e549299.png" group-title="CHANNEL | INDONESIA VIP",ID: Discovery ASIA HD
-http://filex.tv:8080//live/sajid@dar/turbo@zong/501239.ts
+http://filex.me:8080//live/Qasim1990/1990qasim/501239.ts
 #EXTINF:-1 tvg-id="disneyjunior.de" tvg-name="ID: Disney Junior HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/7dcbeab064ba8b1eefb6115fc283aaeb.png" group-title="CHANNEL | INDONESIA VIP",ID: Disney Junior HD
-http://filex.tv:8080//live/sajid@dar/turbo@zong/501240.ts
+http://filex.me:8080//live/Qasim1990/1990qasim/501240.ts
 #EXTINF:-1 tvg-id="" tvg-name="ID: Eat&go HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/4438aed45f7b7df82c2bcba4858c3d88.png" group-title="CHANNEL | INDONESIA VIP",ID: Eat&go HD
-http://filex.tv:8080//live/sajid@dar/turbo@zong/501241.ts
+http://filex.me:8080//live/Qasim1990/1990qasim/501241.ts
 #EXTINF:-1 tvg-id="" tvg-name="ID: ETV Bioskop 02 HD" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="CHANNEL | INDONESIA VIP",ID: ETV Bioskop 02 HD
-http://filex.tv:8080//live/sajid@dar/turbo@zong/501242.ts
+http://filex.me:8080//live/Qasim1990/1990qasim/501242.ts
 #EXTINF:-1 tvg-id="" tvg-name="ID: ETV Bioskop 03 HD" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="CHANNEL | INDONESIA VIP",ID: ETV Bioskop 03 HD
-http://filex.tv:8080//live/sajid@dar/turbo@zong/501243.ts
+http://filex.me:8080//live/Qasim1990/1990qasim/501243.ts
 #EXTINF:-1 tvg-id="" tvg-name="ID: EWTN ASIA Pacific HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-05/4c853008f5a94216b46c111232a08064.png" group-title="CHANNEL | INDONESIA VIP",ID: EWTN ASIA Pacific HD
-http://filex.tv:8080//live/sajid@dar/turbo@zong/501244.ts
+http://filex.me:8080//live/Qasim1990/1990qasim/501244.ts
+#EXTINF:-1 tvg-id="ion.us" tvg-name="ID: Fashion TV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/1b93a982149c1ae794f98d2c80c5bf5d.png" group-title="CHANNEL | INDONESIA VIP",ID: Fashion TV HD
+http://filex.me:8080//live/Qasim1990/1990qasim/501245.ts
 #EXTINF:-1 tvg-id="fox.hr" tvg-name="ID: Ficom Channel HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="CHANNEL | INDONESIA VIP",ID: Ficom Channel HD
-http://filex.tv:8080//live/sajid@dar/turbo@zong/501246.ts
+http://filex.me:8080//live/Qasim1990/1990qasim/501246.ts
 #EXTINF:-1 tvg-id="" tvg-name="ID: Galaxy HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/dddbae34f8fafd015e5221a02075ad19.png" group-title="CHANNEL | INDONESIA VIP",ID: Galaxy HD
-http://filex.tv:8080//live/sajid@dar/turbo@zong/501247.ts
+http://filex.me:8080//live/Qasim1990/1990qasim/501247.ts
 #EXTINF:-1 tvg-id="hbo.bg" tvg-name="ID: HBO HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="CHANNEL | INDONESIA VIP",ID: HBO HD
-http://filex.tv:8080//live/sajid@dar/turbo@zong/501248.ts
+http://filex.me:8080//live/Qasim1990/1990qasim/501248.ts
 #EXTINF:-1 tvg-id="hbofamily.us" tvg-name="ID: HBO Family HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="CHANNEL | INDONESIA VIP",ID: HBO Family HD
-http://filex.tv:8080//live/sajid@dar/turbo@zong/501249.ts
+http://filex.me:8080//live/Qasim1990/1990qasim/501249.ts
 #EXTINF:-1 tvg-id="" tvg-name="ID: HBO HITS HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="CHANNEL | INDONESIA VIP",ID: HBO HITS HD
-http://filex.tv:8080//live/sajid@dar/turbo@zong/501250.ts
+http://filex.me:8080//live/Qasim1990/1990qasim/501250.ts
 #EXTINF:-1 tvg-id="hbosignature.us" tvg-name="ID: HBO Signature HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="CHANNEL | INDONESIA VIP",ID: HBO Signature HD
-http://filex.tv:8080//live/sajid@dar/turbo@zong/501251.ts
+http://filex.me:8080//live/Qasim1990/1990qasim/501251.ts
 #EXTINF:-1 tvg-id="happychannel.ro" tvg-name="ID: HOPE Channel HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="CHANNEL | INDONESIA VIP",ID: HOPE Channel HD
-http://filex.tv:8080//live/sajid@dar/turbo@zong/501252.ts
+http://filex.me:8080//live/Qasim1990/1990qasim/501252.ts
 #EXTINF:-1 tvg-id="ctvdramachannel.ca" tvg-name="ID: I AM Channel HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/ccc0ed5631ee9e4dbde438fbcbbe0277.png" group-title="CHANNEL | INDONESIA VIP",ID: I AM Channel HD
-http://filex.tv:8080//live/sajid@dar/turbo@zong/501253.ts
+http://filex.me:8080//live/Qasim1990/1990qasim/501253.ts
 #EXTINF:-1 tvg-id="" tvg-name="ID: Jambi TV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-10/90e2c8f15ca01f83dbc470a4ac534f9e.png" group-title="CHANNEL | INDONESIA VIP",ID: Jambi TV HD
-http://filex.tv:8080//live/sajid@dar/turbo@zong/501255.ts
+http://filex.me:8080//live/Qasim1990/1990qasim/501255.ts
 #EXTINF:-1 tvg-id="" tvg-name="ID: JAWA POS TV HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="CHANNEL | INDONESIA VIP",ID: JAWA POS TV HD
-http://filex.tv:8080//live/sajid@dar/turbo@zong/501256.ts
+http://filex.me:8080//live/Qasim1990/1990qasim/501256.ts
 #EXTINF:-1 tvg-id="" tvg-name="ID: Jogja Istimewa TV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-05/5a76ac7edb1f8be80763f61c5b1bd16f.png" group-title="CHANNEL | INDONESIA VIP",ID: Jogja Istimewa TV HD
-http://filex.tv:8080//live/sajid@dar/turbo@zong/501257.ts
+http://filex.me:8080//live/Qasim1990/1990qasim/501257.ts
 #EXTINF:-1 tvg-id="ktv.de" tvg-name="ID: K+ HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce1fbaa72fd9c4f2b3095b33fc9fe696.png" group-title="CHANNEL | INDONESIA VIP",ID: K+ HD
-http://filex.tv:8080//live/sajid@dar/turbo@zong/501258.ts
+http://filex.me:8080//live/Qasim1990/1990qasim/501258.ts
 #EXTINF:-1 tvg-id="" tvg-name="ID: Kutim TVCC HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="CHANNEL | INDONESIA VIP",ID: Kutim TVCC HD
-http://filex.tv:8080//live/sajid@dar/turbo@zong/501259.ts
+http://filex.me:8080//live/Qasim1990/1990qasim/501259.ts
 #EXTINF:-1 tvg-id="lifetime.uk" tvg-name="ID: Lifetime HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/7aabd389aa14698263ab6099a84ae153.png" group-title="CHANNEL | INDONESIA VIP",ID: Lifetime HD
-http://filex.tv:8080//live/sajid@dar/turbo@zong/501260.ts
+http://filex.me:8080//live/Qasim1990/1990qasim/501260.ts
 #EXTINF:-1 tvg-id="" tvg-name="ID: Macau Lotus TV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-05/a2de6ff0f4df330c3c936427246c0327.png" group-title="CHANNEL | INDONESIA VIP",ID: Macau Lotus TV HD
-http://filex.tv:8080//live/sajid@dar/turbo@zong/501261.ts
+http://filex.me:8080//live/Qasim1990/1990qasim/501261.ts
 #EXTINF:-1 tvg-id="" tvg-name="ID: MADU TV HD" tvg-logo="" group-title="CHANNEL | INDONESIA VIP",ID: MADU TV HD
-http://filex.tv:8080//live/sajid@dar/turbo@zong/501262.ts
+http://filex.me:8080//live/Qasim1990/1990qasim/501262.ts
 #EXTINF:-1 tvg-id="" tvg-name="ID: Music Information Channel HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-02/bcbb8b29070d14154ab08c3a22fcee94.png" group-title="CHANNEL | INDONESIA VIP",ID: Music Information Channel HD
-http://filex.tv:8080//live/sajid@dar/turbo@zong/501263.ts
+http://filex.me:8080//live/Qasim1990/1990qasim/501263.ts
 #EXTINF:-1 tvg-id="" tvg-name="ID: Nabawi TV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-02/53599b1678f8c7bc55b5a727d13bf0e1.png" group-title="CHANNEL | INDONESIA VIP",ID: Nabawi TV HD
-http://filex.tv:8080//live/sajid@dar/turbo@zong/501264.ts
+http://filex.me:8080//live/Qasim1990/1990qasim/501264.ts
 #EXTINF:-1 tvg-id="natgeo.de" tvg-name="ID: NAT GEO HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/63e2ef1897448dd9519000543c357037.png" group-title="CHANNEL | INDONESIA VIP",ID: NAT GEO HD
-http://filex.tv:8080//live/sajid@dar/turbo@zong/501265.ts
+http://filex.me:8080//live/Qasim1990/1990qasim/501265.ts
 #EXTINF:-1 tvg-id="natgeowild.de" tvg-name="ID: NAT GEO WILD HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/0160f1fd2c3e9fd3a0d3338465d9b92f.png" group-title="CHANNEL | INDONESIA VIP",ID: NAT GEO WILD HD
-http://filex.tv:8080//live/sajid@dar/turbo@zong/501266.ts
+http://filex.me:8080//live/Qasim1990/1990qasim/501266.ts
 #EXTINF:-1 tvg-id="nbatv.us" tvg-name="ID: NBA TV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/640140bd2fc894332ef6c9f4fef9fd36.png" group-title="CHANNEL | INDONESIA VIP",ID: NBA TV HD
-http://filex.tv:8080//live/sajid@dar/turbo@zong/501267.ts
+http://filex.me:8080//live/Qasim1990/1990qasim/501267.ts
 #EXTINF:-1 tvg-id="" tvg-name="ID: NHK World HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/355fc0dc73253b7e89db48bfadbb2807.png" group-title="CHANNEL | INDONESIA VIP",ID: NHK World HD
-http://filex.tv:8080//live/sajid@dar/turbo@zong/501268.ts
+http://filex.me:8080//live/Qasim1990/1990qasim/501268.ts
 #EXTINF:-1 tvg-id="nickjr.no" tvg-name="ID: NICK JR EN HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/7e1eb622eae30edbe35b5b87868b19f4.png" group-title="CHANNEL | INDONESIA VIP",ID: NICK JR EN HD
-http://filex.tv:8080//live/sajid@dar/turbo@zong/501269.ts
+http://filex.me:8080//live/Qasim1990/1990qasim/501269.ts
 #EXTINF:-1 tvg-id="one.de" tvg-name="ID: ONE HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/c8bcdc3a1efe05b9889c9d515ec7fdbe.png" group-title="CHANNEL | INDONESIA VIP",ID: ONE HD
-http://filex.tv:8080//live/sajid@dar/turbo@zong/501270.ts
+http://filex.me:8080//live/Qasim1990/1990qasim/501270.ts
 #EXTINF:-1 tvg-id="tvp.pl" tvg-name="ID: PSJ TV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-05/2c84b56143bf6c8f73113e5838a763cb.png" group-title="CHANNEL | INDONESIA VIP",ID: PSJ TV HD
-http://filex.tv:8080//live/sajid@dar/turbo@zong/501271.ts
+http://filex.me:8080//live/Qasim1990/1990qasim/501271.ts
 #EXTINF:-1 tvg-id="" tvg-name="ID: Rajawali TV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-10/553fc8904e711c0a1bf4f84ece28e985.png" group-title="CHANNEL | INDONESIA VIP",ID: Rajawali TV HD
-http://filex.tv:8080//live/sajid@dar/turbo@zong/501272.ts
+http://filex.me:8080//live/Qasim1990/1990qasim/501272.ts
 #EXTINF:-1 tvg-id="" tvg-name="ID: RIAU TV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-02/399d59d5f98278128d56be416d2c35b5.png" group-title="CHANNEL | INDONESIA VIP",ID: RIAU TV HD
-http://filex.tv:8080//live/sajid@dar/turbo@zong/501273.ts
+http://filex.me:8080//live/Qasim1990/1990qasim/501273.ts
 #EXTINF:-1 tvg-id="" tvg-name="ID: RRI NET HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/3fd36ee56651002d0195cd998d2d0f5b.png" group-title="CHANNEL | INDONESIA VIP",ID: RRI NET HD
-http://filex.tv:8080//live/sajid@dar/turbo@zong/501274.ts
+http://filex.me:8080//live/Qasim1990/1990qasim/501274.ts
 #EXTINF:-1 tvg-id="" tvg-name="ID: Sakti TV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-05/d1d31ef77c60f810da63fe78cc41c0df.png" group-title="CHANNEL | INDONESIA VIP",ID: Sakti TV HD
-http://filex.tv:8080//live/sajid@dar/turbo@zong/501275.ts
+http://filex.me:8080//live/Qasim1990/1990qasim/501275.ts
 #EXTINF:-1 tvg-id="" tvg-name="ID: Surau TV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-02/6a3454cfe97674f547af1d5ae6ab2306.png" group-title="CHANNEL | INDONESIA VIP",ID: Surau TV HD
-http://filex.tv:8080//live/sajid@dar/turbo@zong/501276.ts
+http://filex.me:8080//live/Qasim1990/1990qasim/501276.ts
 #EXTINF:-1 tvg-id="atv.at" tvg-name="ID: TATV HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="CHANNEL | INDONESIA VIP",ID: TATV HD
-http://filex.tv:8080//live/sajid@dar/turbo@zong/501277.ts
+http://filex.me:8080//live/Qasim1990/1990qasim/501277.ts
 #EXTINF:-1 tvg-id="mutv.uk" tvg-name="ID: TV MU HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/c670d341a55f851a059f320c0b831037.png" group-title="CHANNEL | INDONESIA VIP",ID: TV MU HD
-http://filex.tv:8080//live/sajid@dar/turbo@zong/501278.ts
+http://filex.me:8080//live/Qasim1990/1990qasim/501278.ts
 #EXTINF:-1 tvg-id="" tvg-name="ID: TV Tabalong HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-02/47568faeda204bcbbecfe3bac3d286eb.png" group-title="CHANNEL | INDONESIA VIP",ID: TV Tabalong HD
-http://filex.tv:8080//live/sajid@dar/turbo@zong/501279.ts
+http://filex.me:8080//live/Qasim1990/1990qasim/501279.ts
 #EXTINF:-1 tvg-id="ntv.de" tvg-name="ID: TVN HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/d8a152836e34ee6141b7efdf3d10da5b.png" group-title="CHANNEL | INDONESIA VIP",ID: TVN HD
-http://filex.tv:8080//live/sajid@dar/turbo@zong/501280.ts
+http://filex.me:8080//live/Qasim1990/1990qasim/501280.ts
 #EXTINF:-1 tvg-id="one.de" tvg-name="ID: TVone HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-10/1ff4e1118db486e897f955e9733419e2.png" group-title="CHANNEL | INDONESIA VIP",ID: TVone HD
-http://filex.tv:8080//live/sajid@dar/turbo@zong/501281.ts
+http://filex.me:8080//live/Qasim1990/1990qasim/501281.ts
 #EXTINF:-1 tvg-id="" tvg-name="ID: TVRI ACEH HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-01/3fd74de7c7e644f6045b5166879d3a03.png" group-title="CHANNEL | INDONESIA VIP",ID: TVRI ACEH HD
-http://filex.tv:8080//live/sajid@dar/turbo@zong/501282.ts
+http://filex.me:8080//live/Qasim1990/1990qasim/501282.ts
 #EXTINF:-1 tvg-id="" tvg-name="ID: TVRI BALI HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-01/18313e7bc85d4b6ebbfbfb9cd8c446ab.png" group-title="CHANNEL | INDONESIA VIP",ID: TVRI BALI HD
-http://filex.tv:8080//live/sajid@dar/turbo@zong/501283.ts
+http://filex.me:8080//live/Qasim1990/1990qasim/501283.ts
 #EXTINF:-1 tvg-id="" tvg-name="ID: TVRI Bangka Belitung HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-01/3683b046dc9af507f1c52d4bede153be.png" group-title="CHANNEL | INDONESIA VIP",ID: TVRI Bangka Belitung HD
-http://filex.tv:8080//live/sajid@dar/turbo@zong/501284.ts
+http://filex.me:8080//live/Qasim1990/1990qasim/501284.ts
 #EXTINF:-1 tvg-id="" tvg-name="ID: TVRI Bengkulu HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-01/2b2d21b3a86a3ee175d188c8ad99b1c2.png" group-title="CHANNEL | INDONESIA VIP",ID: TVRI Bengkulu HD
-http://filex.tv:8080//live/sajid@dar/turbo@zong/501285.ts
+http://filex.me:8080//live/Qasim1990/1990qasim/501285.ts
 #EXTINF:-1 tvg-id="" tvg-name="ID: TVRI DKI Jakarta HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-01/d67405ebc2d764f37faa0b4f580ae1a1.png" group-title="CHANNEL | INDONESIA VIP",ID: TVRI DKI Jakarta HD
-http://filex.tv:8080//live/sajid@dar/turbo@zong/501286.ts
+http://filex.me:8080//live/Qasim1990/1990qasim/501286.ts
 #EXTINF:-1 tvg-id="" tvg-name="ID: TVRI Gorontalo HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-01/b68e2b392340fa6d54907e749989b853.png" group-title="CHANNEL | INDONESIA VIP",ID: TVRI Gorontalo HD
-http://filex.tv:8080//live/sajid@dar/turbo@zong/501287.ts
+http://filex.me:8080//live/Qasim1990/1990qasim/501287.ts
 #EXTINF:-1 tvg-id="" tvg-name="ID: TVRI Jambi HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-01/c4a6c0c155b07aae5b09255a6095bef1.png" group-title="CHANNEL | INDONESIA VIP",ID: TVRI Jambi HD
-http://filex.tv:8080//live/sajid@dar/turbo@zong/501288.ts
+http://filex.me:8080//live/Qasim1990/1990qasim/501288.ts
 #EXTINF:-1 tvg-id="" tvg-name="ID: TVRI JAWA Tengah HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-01/99b082430aa9b165f5a338e2d9a7ecd0.png" group-title="CHANNEL | INDONESIA VIP",ID: TVRI JAWA Tengah HD
-http://filex.tv:8080//live/sajid@dar/turbo@zong/501289.ts
+http://filex.me:8080//live/Qasim1990/1990qasim/501289.ts
 #EXTINF:-1 tvg-id="" tvg-name="ID: TVRI JAWA Timur HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-01/9207cfb954c8ff99aa7706b771181723.png" group-title="CHANNEL | INDONESIA VIP",ID: TVRI JAWA Timur HD
-http://filex.tv:8080//live/sajid@dar/turbo@zong/501290.ts
+http://filex.me:8080//live/Qasim1990/1990qasim/501290.ts
 #EXTINF:-1 tvg-id="" tvg-name="ID: TVRI Kalimantan Selatan HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-01/c8580968b402ba06a05644b23215e743.png" group-title="CHANNEL | INDONESIA VIP",ID: TVRI Kalimantan Selatan HD
-http://filex.tv:8080//live/sajid@dar/turbo@zong/501291.ts
+http://filex.me:8080//live/Qasim1990/1990qasim/501291.ts
 #EXTINF:-1 tvg-id="" tvg-name="ID: TVRI Kalimantan Timur HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-01/bb3dcf171b50be12f0cf9ba6f92d4856.png" group-title="CHANNEL | INDONESIA VIP",ID: TVRI Kalimantan Timur HD
-http://filex.tv:8080//live/sajid@dar/turbo@zong/501292.ts
+http://filex.me:8080//live/Qasim1990/1990qasim/501292.ts
 #EXTINF:-1 tvg-id="" tvg-name="ID: TVRI Lampung HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-01/fb2cfa53fbd6fb6d20e68a7245ac4bd6.png" group-title="CHANNEL | INDONESIA VIP",ID: TVRI Lampung HD
-http://filex.tv:8080//live/sajid@dar/turbo@zong/501293.ts
+http://filex.me:8080//live/Qasim1990/1990qasim/501293.ts
 #EXTINF:-1 tvg-id="" tvg-name="ID: TVRI Maluku HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-01/302e8338424ecc013e3d59dc0d7dc23d.png" group-title="CHANNEL | INDONESIA VIP",ID: TVRI Maluku HD
-http://filex.tv:8080//live/sajid@dar/turbo@zong/501294.ts
+http://filex.me:8080//live/Qasim1990/1990qasim/501294.ts
 #EXTINF:-1 tvg-id="" tvg-name="ID: TVRI NUSA Tenggara Barat HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-01/3337ecf88119fba1ba8826914b100f37.png" group-title="CHANNEL | INDONESIA VIP",ID: TVRI NUSA Tenggara Barat HD
-http://filex.tv:8080//live/sajid@dar/turbo@zong/501295.ts
+http://filex.me:8080//live/Qasim1990/1990qasim/501295.ts
 #EXTINF:-1 tvg-id="" tvg-name="ID: TVRI NUSA Tenggara Timur HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-01/be095cb83306a78445f0b65a300383ee.png" group-title="CHANNEL | INDONESIA VIP",ID: TVRI NUSA Tenggara Timur HD
-http://filex.tv:8080//live/sajid@dar/turbo@zong/501296.ts
+http://filex.me:8080//live/Qasim1990/1990qasim/501296.ts
 #EXTINF:-1 tvg-id="" tvg-name="ID: TVRI Papua HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-01/061e309aed32500706a347fc9e0b5fe4.png" group-title="CHANNEL | INDONESIA VIP",ID: TVRI Papua HD
-http://filex.tv:8080//live/sajid@dar/turbo@zong/501297.ts
+http://filex.me:8080//live/Qasim1990/1990qasim/501297.ts
 #EXTINF:-1 tvg-id="raistoria.it" tvg-name="ID: TVRI RIAU HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-01/a7e3b437400438f0854d7974a04e22ac.png" group-title="CHANNEL | INDONESIA VIP",ID: TVRI RIAU HD
-http://filex.tv:8080//live/sajid@dar/turbo@zong/501298.ts
+http://filex.me:8080//live/Qasim1990/1990qasim/501298.ts
 #EXTINF:-1 tvg-id="sporttvplus.pt" tvg-name="ID: TVRI Sport HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-10/05fa2b7d8fef39455387f2566b52701b.png" group-title="CHANNEL | INDONESIA VIP",ID: TVRI Sport HD
-http://filex.tv:8080//live/sajid@dar/turbo@zong/501299.ts
+http://filex.me:8080//live/Qasim1990/1990qasim/501299.ts
 #EXTINF:-1 tvg-id="" tvg-name="ID: TVRI Sulawesi Barat HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-01/6bab30811966b6bfd10963e409029ad5.png" group-title="CHANNEL | INDONESIA VIP",ID: TVRI Sulawesi Barat HD
-http://filex.tv:8080//live/sajid@dar/turbo@zong/501300.ts
+http://filex.me:8080//live/Qasim1990/1990qasim/501300.ts
 #EXTINF:-1 tvg-id="" tvg-name="ID: TVRI Sulawesi Tengah HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-01/61239c45ce74d32fdc6946ce1da06e27.png" group-title="CHANNEL | INDONESIA VIP",ID: TVRI Sulawesi Tengah HD
-http://filex.tv:8080//live/sajid@dar/turbo@zong/501301.ts
+http://filex.me:8080//live/Qasim1990/1990qasim/501301.ts
 #EXTINF:-1 tvg-id="" tvg-name="ID: TVRI Sulawesi Tenggara HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-01/5f5bce3167db39c311e9c3e88d058aee.png" group-title="CHANNEL | INDONESIA VIP",ID: TVRI Sulawesi Tenggara HD
-http://filex.tv:8080//live/sajid@dar/turbo@zong/501302.ts
+http://filex.me:8080//live/Qasim1990/1990qasim/501302.ts
 #EXTINF:-1 tvg-id="" tvg-name="ID: TVRI Sumatera Barat HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-01/5e0d438bb2ca3f48357d792c0fdc81b5.png" group-title="CHANNEL | INDONESIA VIP",ID: TVRI Sumatera Barat HD
-http://filex.tv:8080//live/sajid@dar/turbo@zong/501303.ts
+http://filex.me:8080//live/Qasim1990/1990qasim/501303.ts
 #EXTINF:-1 tvg-id="" tvg-name="ID: TVRI Sumatera Selatan HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-01/7a486990b2123af0bcded609cb431c3a.png" group-title="CHANNEL | INDONESIA VIP",ID: TVRI Sumatera Selatan HD
-http://filex.tv:8080//live/sajid@dar/turbo@zong/501304.ts
+http://filex.me:8080//live/Qasim1990/1990qasim/501304.ts
 #EXTINF:-1 tvg-id="trtworld.tr" tvg-name="ID: TVRI World HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-01/85ad5d2c9c73ea3102243b65bdf49d91.png" group-title="CHANNEL | INDONESIA VIP",ID: TVRI World HD
-http://filex.tv:8080//live/sajid@dar/turbo@zong/501305.ts
+http://filex.me:8080//live/Qasim1990/1990qasim/501305.ts
 #EXTINF:-1 tvg-id="" tvg-name="ID: TVRI Yogyakarta HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-01/2f184802e2b3c8672db32185e50ff616.png" group-title="CHANNEL | INDONESIA VIP",ID: TVRI Yogyakarta HD
-http://filex.tv:8080//live/sajid@dar/turbo@zong/501306.ts
+http://filex.me:8080//live/Qasim1990/1990qasim/501306.ts
 #EXTINF:-1 tvg-id="fox.hr" tvg-name="ID: U Channel HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/c06fb1934479ecc6192471dee8b59a73.png" group-title="CHANNEL | INDONESIA VIP",ID: U Channel HD
-http://filex.tv:8080//live/sajid@dar/turbo@zong/501307.ts
+http://filex.me:8080//live/Qasim1990/1990qasim/501307.ts
 #EXTINF:-1 tvg-id="tnt.pl" tvg-name="ID: Warner TV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/e08e2ff4a5f2f8c6b281d41b443aa6e2.jpg" group-title="CHANNEL | INDONESIA VIP",ID: Warner TV HD
-http://filex.tv:8080//live/sajid@dar/turbo@zong/501308.ts
+http://filex.me:8080//live/Qasim1990/1990qasim/501308.ts
 #EXTINF:-1 tvg-id="wetv.us" tvg-name="ID: Wesal TV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/f76fea39b72d897674ce2294457a011e.png" group-title="CHANNEL | INDONESIA VIP",ID: Wesal TV HD
-http://filex.tv:8080//live/sajid@dar/turbo@zong/501309.ts
+http://filex.me:8080//live/Qasim1990/1990qasim/501309.ts
 #EXTINF:-1 tvg-id="" tvg-name="ID: Inews HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/773dea02b1aba8f709c668ca2ae43e1c.png" group-title="CHANNEL | INDONESIA VIP",ID: Inews HD
-http://filex.tv:8080//live/sajid@dar/turbo@zong/501254.ts
+http://filex.me:8080//live/Qasim1990/1990qasim/501254.ts
+
