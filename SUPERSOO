@@ -10109,34 +10109,37 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png",LIVE | BADMINTON 2026
 
 
-#EXTINF:-1 tvg-id="TVRISport" tvg-name="TVRISport" group-title="LIVE | BADMINTON2026" tvg-logo="https://assets.iptvsystem.my.id/img/tvri_sport.png",TVRI Sport live 1
+#EXTINF:-1 tvg-id="TVRISport" tvg-name="TVRISport" group-title="LIVE | BADMINTON 2026" tvg-logo="https://assets.iptvsystem.my.id/img/tvri_sport.png",TVRI Sport live 1
 #EXTVLCOPT:http-user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 
-#EXTINF:-1 tvg-id="TVRISport" tvg-name="TVRISport" group-title="LIVE | BADMINTON2026" tvg-logo="https://assets.iptvsystem.my.id/img/tvri_sport.png",TVRI Sport live 2
+#EXTINF:-1 tvg-id="TVRISport" tvg-name="TVRISport" group-title="LIVE | BADMINTON 2026" tvg-logo="https://assets.iptvsystem.my.id/img/tvri_sport.png",TVRI Sport live 2
 http://tv.casindo.org/hls/49/49.m3u8
 
-#EXTINF:-1 tvg-id="18249" tvg-logo="https://thumbor.prod.vidiocdn.com/amF9Wv6FlQZq4IbWnIVqFP41azc=/960x576/filters:quality(75)/vidio-web-prod-headline/uploads/headline/mobile_image/35162/petronas-malaysia-open-2026-round-of-32-court-1-860e8b.jpg" group-title="LIVE | BADMINTON 2026", COURT 1
+#EXTINF:-1 tvg-id="18249" tvg-logo="https://thumbor.prod.vidiocdn.com/Ttr1XsXEvTeI_A1svYoPCAqwGoI=/960x576/filters:quality(75)/vidio-web-prod-headline/uploads/headline/mobile_image/35162/petronas-malaysia-open-2026-semifinals-4b70ba.jpg" group-title="LIVE | BADMINTON 2026", ₵ØɄⱤ₮ 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.7499.110 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b8a8158dfb4a4a0d85dbee672e11c7e4:4ca940fd2caabe479d2feef34c63d851
-https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/18249/file/drm/dash/stream.mpd?hdntl=exp=1767975120~acl=%2fstream%2f18249%2ffile%2fdrm%2fdash%2fstream.mpd!%2fstream%2f18249%2ffile%2fdrm%2fdash%2f*%2faac%2f*!%2fstream%2f18249%2ffile%2fdrm%2fdash%2f*%2f*-1080p%2f*!%2fstream%2f18249%2ffile%2fdrm%2fdash%2f*%2f*-720p%2f*!%2fstream%2f18249%2ffile%2fdrm%2fdash%2f*%2f*-480p%2f*!%2fstream%2f18249%2ffile%2fdrm%2fdash%2f*%2f*-360p%2f*~id=allUsers~data=hdntl~hmac=692ff507a525435572b556a34d5b8ebd84e5a0b1ff14c86920fd0442163022a5
+https://nissa17.adptv.workers.dev/manifest.mpd?id=18249&type=dash
 
-#EXTINF:-1 tvg-id="18250" tvg-logo="https://thumbor.prod.vidiocdn.com/RoXbcSB-iM64RD54OPMpJa6YIt8=/960x576/filters:quality(75)/vidio-web-prod-headline/uploads/headline/mobile_image/35161/petronas-malaysia-open-2026-round-of-32-court-2-c2426c.jpg" group-title="LIVE | BADMINTON 2026", COURT 2
+#EXTINF:-1 tvg-id="18249" tvg-logo="https://thumbor.prod.vidiocdn.com/Ttr1XsXEvTeI_A1svYoPCAqwGoI=/960x576/filters:quality(75)/vidio-web-prod-headline/uploads/headline/mobile_image/35162/petronas-malaysia-open-2026-semifinals-4b70ba.jpg" group-title="LIVE | BADMINTON 2026", ₵ØɄⱤ₮ 1²
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.7499.110 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
+https://d25tgymtnqzu8s.cloudfront.net/smil:okey/playlist.m3u8?id=3
+
+#EXTINF:-1 tvg-id="18250" tvg-logo="https://thumbor.prod.vidiocdn.com/RoXbcSB-iM64RD54OPMpJa6YIt8=/960x576/filters:quality(75)/vidio-web-prod-headline/uploads/headline/mobile_image/35161/petronas-malaysia-open-2026-round-of-32-court-2-c2426c.jpg" group-title="LIVE | BADMINTON 2026", ĆØỮŘŦ 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.7499.110 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=75220a7bbbf54ed5509311ea5eed03e2:3eb88f56a66998870aff2367654d9b60
-https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/18250/file/drm/dash/stream.mpd?hdntl=exp=1767957742~acl=%2fstream%2f18250%2ffile%2fdrm%2fdash%2fstream.mpd!%2fstream%2f18250%2ffile%2fdrm%2fdash%2f*%2faac%2f*!%2fstream%2f18250%2ffile%2fdrm%2fdash%2f*%2f*-1080p%2f*!%2fstream%2f18250%2ffile%2fdrm%2fdash%2f*%2f*-720p%2f*!%2fstream%2f18250%2ffile%2fdrm%2fdash%2f*%2f*-480p%2f*!%2fstream%2f18250%2ffile%2fdrm%2fdash%2f*%2f*-360p%2f*~id=allUsers~data=hdntl~hmac=7dff18420b9bbaed3902b61617a79cd2cb120a9700e5cb0b33c4b24841c73a4c
 
 
-#EXTINF:-1 tvg-id="18252" tvg-logo="https://thumbor.prod.vidiocdn.com/Jh24MwtA2dj0eCN0-R9Y9xPHurM=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18252/petronas-malaysia-open-2026-round-of-32-court-3-d55ecd.jpg" group-title="LIVE | BADMINTON 2026", COURT 3
+#EXTINF:-1 tvg-id="18252" tvg-logo="https://thumbor.prod.vidiocdn.com/Jh24MwtA2dj0eCN0-R9Y9xPHurM=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18252/petronas-malaysia-open-2026-round-of-32-court-3-d55ecd.jpg" group-title="LIVE | BADMINTON 2026", ȻΘƲરτ 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.7499.110 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c11d52e2c176d22abf86c23b4b0b9170:76197676008839a3b784d773a2542b98
-https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/18252/file/drm/dash/stream.mpd?hdntl=exp=1767881345~acl=%2fstream%2f18252%2ffile%2fdrm%2fdash%2fstream.mpd!%2fstream%2f18252%2ffile%2fdrm%2fdash%2f*%2faac%2f*!%2fstream%2f18252%2ffile%2fdrm%2fdash%2f*%2f*-1080p%2f*!%2fstream%2f18252%2ffile%2fdrm%2fdash%2f*%2f*-720p%2f*!%2fstream%2f18252%2ffile%2fdrm%2fdash%2f*%2f*-480p%2f*!%2fstream%2f18252%2ffile%2fdrm%2fdash%2f*%2f*-360p%2f*~id=allUsers~data=hdntl~hmac=b1caabe1b2fbaee02055dc92ba71103e1662cac38b825d76db3caaaabb56d70a
 
 
 
