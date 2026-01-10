@@ -8431,8 +8431,23 @@ https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Loc/Indos.m3u8
 http://103.170.33.11:9981/stream/channelid/1003734703?profile=pass
 
 ========== LIVE | PROLIGA ===========
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png",LIVE | PROLIGA
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/moji.jpg" group-title="LIVE | PROLIGA",MOJI DIGITAL
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png",LIVE | PROLIGA 2026
+
+#EXTINF:-1 tvg-id="20240" tvg-logo="https://thumbor.prod.vidiocdn.com/qwP8FGTC_6ewyacE7PITDAKahgg=/960x576/filters:quality(75)/vidio-web-prod-headline/uploads/headline/mobile_image/35076/proliga-7fc43a.jpg" group-title="LIVE | PROLIGA 2026", PROLIGA 2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=79de825cc4074f4e2d0f5e62e401713d:aaa4eca2649c47572574cb8c172dfa10
+https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/20240/file/drm/dash/stream.mpd?hdntl=exp=1767974975~acl=%2fstream%2f20240%2ffile%2fdrm%2fdash%2fstream.mpd!%2fstream%2f20240%2ffile%2fdrm%2fdash%2f*%2faac%2f*!%2fstream%2f20240%2ffile%2fdrm%2fdash%2f*%2f*-1080p%2f*!%2fstream%2f20240%2ffile%2fdrm%2fdash%2f*%2f*-720p%2f*!%2fstream%2f20240%2ffile%2fdrm%2fdash%2f*%2f*-480p%2f*!%2fstream%2f20240%2ffile%2fdrm%2fdash%2f*%2f*-360p%2f*~id=198347325~data=hdntl~hmac=c36d829b4dac3c1eaa263ea47cd4b93b8b67c165dc180aa01e64740861c9266f
+
+#EXTINF:-1 tvg-id="20240" tvg-logo="https://thumbor.prod.vidiocdn.com/qwP8FGTC_6ewyacE7PITDAKahgg=/960x576/filters:quality(75)/vidio-web-prod-headline/uploads/headline/mobile_image/35076/proliga-7fc43a.jpg" group-title="LIVE | PROLIGA 2026", PROLIGA 2026 SERVER 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=79de825cc4074f4e2d0f5e62e401713d:aaa4eca2649c47572574cb8c172dfa10
+####https://get.perfecttv.net/vidiolive.mpd?username=vip_3klp0es8&password=wg3piwEs&video_id=20240
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/moji.jpg" group-title="LIVE | PROLIGA 2026",MOJI DIGITAL
 ##EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
@@ -8441,7 +8456,19 @@ http://103.170.33.11:9981/stream/channelid/1003734703?profile=pass
 http://103.170.33.11:9981/stream/channelid/1896622786?profile=pass
 http://aromatv.co:80/live/Enjy3637/4JFEBAs359/444150.ts
 
+#EXTINF:-1 tvg-id="20240" tvg-logo="https://thumbor.prod.vidiocdn.com/pcWY7AdpiVTceZybxlkRAEyEsQw=/960x576/filters:quality(75)/vidio-web-prod-headline/uploads/headline/mobile_image/35158/opening-ceremony-proliga-2026-e47039.jpg" group-title="LIVE | PROLIGA 2026", PROLIGA 2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.7499.110 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=79de825cc4074f4e2d0f5e62e401713d:aaa4eca2649c47572574cb8c172dfa10
+https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/20240/file/drm/dash/stream.mpd?hdntl=exp=1767870586~acl=%2fstream%2f20240%2ffile%2fdrm%2fdash%2fstream.mpd!%2fstream%2f20240%2ffile%2fdrm%2fdash%2f*%2faac%2f*!%2fstream%2f20240%2ffile%2fdrm%2fdash%2f*%2f*-1080p%2f*!%2fstream%2f20240%2ffile%2fdrm%2fdash%2f*%2f*-720p%2f*!%2fstream%2f20240%2ffile%2fdrm%2fdash%2f*%2f*-480p%2f*!%2fstream%2f20240%2ffile%2fdrm%2fdash%2f*%2f*-360p%2f*~id=allUsers~data=hdntl~hmac=cbc4491fe36fd815eea886b6789434c17570e9550c8f20ec5b9a88ee2d65f590
 
+#EXTINF:-1 tvg-id="20240" tvg-logo="https://thumbor.prod.vidiocdn.com/pcWY7AdpiVTceZybxlkRAEyEsQw=/960x576/filters:quality(75)/vidio-web-prod-headline/uploads/headline/mobile_image/35158/opening-ceremony-proliga-2026-e47039.jpg" group-title="LIVE | PROLIGA 2026", PROLIGA 2026SVR2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.7499.110 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=79de825cc4074f4e2d0f5e62e401713d:aaa4eca2649c47572574cb8c172dfa10
+https://get.perfecttv.net/vidiolive.mpd?username=vip_3klp0es8&password=wg3piwEs&video_id=20240
 
 
 
@@ -8917,7 +8944,7 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/fe4d00f07e2f43b789102b84b4d243a9/ind
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/sports/champions1.jpg" group-title="group-title="CHANNEL | SPORTS"",CHAMPIONS TV 1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ctwmSHa.png" group-title="CHANNEL | SPORTS",CHAMPIONS TV 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -9794,16 +9821,6 @@ https://mimipipi22.github.io/logo/offline.m3u8
 http://live.catvod.com/live.php?id=go_sportsplus
 https://mimipipi22.github.io/logo/offline.m3u8
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CHANNEL | SPORTS",ASTRO BADMINTON 1
-http://live.catvod.com/live.php?id=go_badminton1
-https://mimipipi22.github.io/logo/offline.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CHANNEL | SPORTS",ASTRO BADMINTON 1
-http://live.catvod.com/live.php?id=go_badminton2
-https://mimipipi22.github.io/logo/offline.m3u8
-
 #EXTINF:-1 tvg-id="NBA.TV.USA.us" tvg-name="NBA TV" tvg-logo="https://mimipipi22.github.io/logo/sports/nbatv.jpg" group-title="CHANNEL | SPORTS",NBA TV (SMT)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 http://live.catvod.com/live.php?id=Nba
@@ -10089,52 +10106,57 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 //========================================================================
 //MAYTOKO2 LIVE | BADMINTON
 //========================================================================
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png",LIVE | BADMINTON
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png",LIVE | BADMINTON 2026
 
 
-#EXTINF:-1 tvg-id="TVRISport" tvg-name="TVRISport" group-title="LIVE | BADMINTON" tvg-logo="https://assets.iptvsystem.my.id/img/tvri_sport.png",TVRI Sport live 1
+#EXTINF:-1 tvg-id="TVRISport" tvg-name="TVRISport" group-title="LIVE | BADMINTON2026" tvg-logo="https://assets.iptvsystem.my.id/img/tvri_sport.png",TVRI Sport live 1
 #EXTVLCOPT:http-user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 
-#EXTINF:-1 tvg-id="TVRISport" tvg-name="TVRISport" group-title="LIVE | BADMINTON" tvg-logo="https://assets.iptvsystem.my.id/img/tvri_sport.png",TVRI Sport live 2
+#EXTINF:-1 tvg-id="TVRISport" tvg-name="TVRISport" group-title="LIVE | BADMINTON2026" tvg-logo="https://assets.iptvsystem.my.id/img/tvri_sport.png",TVRI Sport live 2
 http://tv.casindo.org/hls/49/49.m3u8
 
-#EXTINF:-1 tvg-id="Sportstars 2 HD - [Channel 422].id" tvg-name="Sportstars 2 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqxSEcXLBbVpClZ0f2nQFpDgYDJMtiRgSBGE3pSaZYQRfTvKf-2XR1Z7Dg6Q&s" group-title="LIVE | BADMINTON", COURT 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-https://bintangstreaming.my.id/connect/index.m3u8?channel=bulu1&type=m3u8
+#EXTINF:-1 tvg-id="18249" tvg-logo="https://thumbor.prod.vidiocdn.com/amF9Wv6FlQZq4IbWnIVqFP41azc=/960x576/filters:quality(75)/vidio-web-prod-headline/uploads/headline/mobile_image/35162/petronas-malaysia-open-2026-round-of-32-court-1-860e8b.jpg" group-title="LIVE | BADMINTON 2026", COURT 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.7499.110 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b8a8158dfb4a4a0d85dbee672e11c7e4:4ca940fd2caabe479d2feef34c63d851
+https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/18249/file/drm/dash/stream.mpd?hdntl=exp=1767975120~acl=%2fstream%2f18249%2ffile%2fdrm%2fdash%2fstream.mpd!%2fstream%2f18249%2ffile%2fdrm%2fdash%2f*%2faac%2f*!%2fstream%2f18249%2ffile%2fdrm%2fdash%2f*%2f*-1080p%2f*!%2fstream%2f18249%2ffile%2fdrm%2fdash%2f*%2f*-720p%2f*!%2fstream%2f18249%2ffile%2fdrm%2fdash%2f*%2f*-480p%2f*!%2fstream%2f18249%2ffile%2fdrm%2fdash%2f*%2f*-360p%2f*~id=allUsers~data=hdntl~hmac=692ff507a525435572b556a34d5b8ebd84e5a0b1ff14c86920fd0442163022a5
 
-#EXTINF:-1 tvg-id="Sportstars 2 HD - [Channel 422].id" tvg-name="Sportstars 2 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqxSEcXLBbVpClZ0f2nQFpDgYDJMtiRgSBGE3pSaZYQRfTvKf-2XR1Z7Dg6Q&s" group-title="LIVE | BADMINTON", COURT 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-https://bintangstreaming.my.id/connect/index.m3u8?channel=bulu2&type=m3u8
-
-#EXTINF:-1 tvg-id="Sportstars 2 HD - [Channel 422].id" tvg-name="Sportstars 2 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqxSEcXLBbVpClZ0f2nQFpDgYDJMtiRgSBGE3pSaZYQRfTvKf-2XR1Z7Dg6Q&s" group-title="LIVE | BADMINTON", COURT 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-https://bintangstreaming.my.id/connect/index.m3u8?channel=bulu3&type=m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/-sWvK1OgPbTbMLyi60nKR0SUEqM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4521154/6df547.jpg" group-title="LIVE | BADMINTON", COURT 1A
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://seprai.jasoncreak8.workers.dev/play?id=18249&type=drm
-https://seprai.jasoncreak8.workers.dev/play.mpd?id=18249&type=dash
-
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/-sWvK1OgPbTbMLyi60nKR0SUEqM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4521154/6df547.jpg" group-title="LIVE | BADMINTON", COURT 2B
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://seprai.jasoncreak8.workers.dev/play?id=18250&type=drm
-https://seprai.jasoncreak8.workers.dev/play.mpd?id=18250&type=dash
+#EXTINF:-1 tvg-id="18250" tvg-logo="https://thumbor.prod.vidiocdn.com/RoXbcSB-iM64RD54OPMpJa6YIt8=/960x576/filters:quality(75)/vidio-web-prod-headline/uploads/headline/mobile_image/35161/petronas-malaysia-open-2026-round-of-32-court-2-c2426c.jpg" group-title="LIVE | BADMINTON 2026", COURT 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.7499.110 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=75220a7bbbf54ed5509311ea5eed03e2:3eb88f56a66998870aff2367654d9b60
+https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/18250/file/drm/dash/stream.mpd?hdntl=exp=1767957742~acl=%2fstream%2f18250%2ffile%2fdrm%2fdash%2fstream.mpd!%2fstream%2f18250%2ffile%2fdrm%2fdash%2f*%2faac%2f*!%2fstream%2f18250%2ffile%2fdrm%2fdash%2f*%2f*-1080p%2f*!%2fstream%2f18250%2ffile%2fdrm%2fdash%2f*%2f*-720p%2f*!%2fstream%2f18250%2ffile%2fdrm%2fdash%2f*%2f*-480p%2f*!%2fstream%2f18250%2ffile%2fdrm%2fdash%2f*%2f*-360p%2f*~id=allUsers~data=hdntl~hmac=7dff18420b9bbaed3902b61617a79cd2cb120a9700e5cb0b33c4b24841c73a4c
 
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/-sWvK1OgPbTbMLyi60nKR0SUEqM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4521154/6df547.jpg" group-title="LIVE | BADMINTON", COURT 3C
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://seprai.jasoncreak8.workers.dev/play?id=18252&type=drm
-https://seprai.jasoncreak8.workers.dev/play.mpd?id=18252&type=dash
+#EXTINF:-1 tvg-id="18252" tvg-logo="https://thumbor.prod.vidiocdn.com/Jh24MwtA2dj0eCN0-R9Y9xPHurM=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18252/petronas-malaysia-open-2026-round-of-32-court-3-d55ecd.jpg" group-title="LIVE | BADMINTON 2026", COURT 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.7499.110 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c11d52e2c176d22abf86c23b4b0b9170:76197676008839a3b784d773a2542b98
+https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/18252/file/drm/dash/stream.mpd?hdntl=exp=1767881345~acl=%2fstream%2f18252%2ffile%2fdrm%2fdash%2fstream.mpd!%2fstream%2f18252%2ffile%2fdrm%2fdash%2f*%2faac%2f*!%2fstream%2f18252%2ffile%2fdrm%2fdash%2f*%2f*-1080p%2f*!%2fstream%2f18252%2ffile%2fdrm%2fdash%2f*%2f*-720p%2f*!%2fstream%2f18252%2ffile%2fdrm%2fdash%2f*%2f*-480p%2f*!%2fstream%2f18252%2ffile%2fdrm%2fdash%2f*%2f*-360p%2f*~id=allUsers~data=hdntl~hmac=b1caabe1b2fbaee02055dc92ba71103e1662cac38b825d76db3caaaabb56d70a
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/FWKrQ-RqVGr57MLsM2v0Ul-cI2c=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18252/sands-china-ltd-macau-open-2025-qualifiers-r32-court-3-429eb6.jpg" group-title="LIVE | BADMINTON", COURT 4C
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=18253&type=drm
-https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=18253&type=dash
+
+
+#EXTINF:-1 tvg-id="20240" tvg-logo="https://thumbor.prod.vidiocdn.com/qwP8FGTC_6ewyacE7PITDAKahgg=/960x576/filters:quality(75)/vidio-web-prod-headline/uploads/headline/mobile_image/35076/proliga-7fc43a.jpg" group-title="LIVE | PROLIGA 2026", PROLIGA 2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=79de825cc4074f4e2d0f5e62e401713d:aaa4eca2649c47572574cb8c172dfa10
+https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/20240/file/drm/dash/stream.mpd?hdntl=exp=1767974975~acl=%2fstream%2f20240%2ffile%2fdrm%2fdash%2fstream.mpd!%2fstream%2f20240%2ffile%2fdrm%2fdash%2f*%2faac%2f*!%2fstream%2f20240%2ffile%2fdrm%2fdash%2f*%2f*-1080p%2f*!%2fstream%2f20240%2ffile%2fdrm%2fdash%2f*%2f*-720p%2f*!%2fstream%2f20240%2ffile%2fdrm%2fdash%2f*%2f*-480p%2f*!%2fstream%2f20240%2ffile%2fdrm%2fdash%2f*%2f*-360p%2f*~id=198347325~data=hdntl~hmac=c36d829b4dac3c1eaa263ea47cd4b93b8b67c165dc180aa01e64740861c9266f
+
+#EXTINF:-1 tvg-id="20240" tvg-logo="https://thumbor.prod.vidiocdn.com/qwP8FGTC_6ewyacE7PITDAKahgg=/960x576/filters:quality(75)/vidio-web-prod-headline/uploads/headline/mobile_image/35076/proliga-7fc43a.jpg" group-title="LIVE | PROLIGA 2026", PROLIGA 2026SVR2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=79de825cc4074f4e2d0f5e62e401713d:aaa4eca2649c47572574cb8c172dfa10
+####https://get.perfecttv.net/vidiolive.mpd?username=vip_3klp0es8&password=wg3piwEs&video_id=20240
+
+
+
+
 
 
 
